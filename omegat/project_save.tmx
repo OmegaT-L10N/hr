@@ -12110,6 +12110,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134239Z" creationid="DGRACIN" creationdate="20180312T134239Z">
+        <seg>Prikaži &amp;otvoreni izvorišni segment u obliku podebljanoga teksta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T115318Z" creationid="DGRACIN" creationdate="20180219T115217Z">
@@ -15755,6 +15763,14 @@ datoteka project_save.tmx nije poslana, a SVN je prebačen na nestabilno stanje.
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T084038Z" creationid="DGRACIN" creationdate="20180219T084038Z">
         <seg>Groovy (licenca Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134015Z" creationid="DGRACIN" creationdate="20180312T133929Z">
+        <seg>Skupina {0} ne postoji u izrazu za pretraživanje</seg>
       </tuv>
     </tu>
     <tu>
@@ -22705,6 +22721,14 @@ u konfiguracijskoj mapi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134149Z" creationid="DGRACIN" creationdate="20180312T134149Z">
+        <seg>Napomena: osim po datotečnome nastavku, datoteke DocBook možete prepoznati i po obaveznoj deklaraciji DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... za DocBook 4, ili po polju naziva: xmlns="http://docbook.org/ns/docbook" za DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180123T202247Z" creationid="DGRACIN" creationdate="20180123T201722Z">
@@ -27542,6 +27566,14 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182806Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>škotski gelski, gelski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134037Z" creationid="DGRACIN" creationdate="20180312T134037Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
