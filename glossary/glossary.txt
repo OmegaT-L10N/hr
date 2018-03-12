@@ -1730,3 +1730,4 @@ context menu	kontekstni izbornik
 mnemonic	mnemonik
 search text	tekst za pretraživanje
 sample output	primjer rezultata
+search expression	izraz za pretraživanje
