@@ -1,525 +1,525 @@
-About...	O programu...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
-access	pristup	OmegaT_4.1.3_Beta_L10N_Full	IT
-Access Configuration Folder	Pristup konfiguracijskoj mapi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Access Project Contents/Current Source Document	Pristup sadržajima projekta/Tekući izvorišni dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Current Target Document	Pristup sadržajima projekta/Tekući odredišni dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Dictionaries	Pristup sadržajima projekta/Rječnici	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Glossaries	Pristup sadržajima projekta/Glosari	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Root	Pristup sadržajima projekta/Ishodišna mapa	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Source Files	Pristup sadržajima projekta/Izvorišne datoteke	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Target Files	Pristup sadržajima projekta/Odredišne datoteke	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Access Project Contents/Writeable Glossary	Pristup sadržajima projekta/Zapisivi glosar	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-access rights	prava pristupa	OmegaT_4.1.3_Beta_L10N_Full	IT
-action	radnja	OmegaT_4.1.3_Beta_L10N_Full	IT
-active segment	otvoreni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-Add	Dodaj	OmegaT_4.1.3_Beta_L10N_Full	IT
-Add	Dodaj	OmegaT_4.1.3_Beta_L10N_Full	IT
-additional rules	dodatna pravila	OmegaT_4.1.3_Beta_L10N_Full	IT
-administrator	administrator	OmegaT_4.1.3_Beta_L10N_Full	IT
-administrator rights	administratorska prava	OmegaT_4.0.1_Beta_L10N_Full	IT
-advanced user	napredni korisnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-alternative translation	alternativni prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
-Always Confirm Quit	Potvrda zatvaranja programa	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Apache server	poslužitelj Apache	OmegaT_4.1.3_Beta_L10N_Full	IT
-application file	programska datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-assigning the access rights	dodjela prava pristupa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Auto-completer	automatsko dovršavanje upisa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Auto-completer dialog box	dijaloški okvir automatskoga dovršavanja upisa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Auto-completion	Automatsko dovršavanje upisa	OmegaT_4.0.1_Beta_L10N_Full; OmegaT - Options Menu	IT
-auto-completion	automatsko dovršavanje upisa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Auto-completion/Auto-text...	Automatsko dovršavanje upisa/Automatski tekst...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Auto-completion/Character Table...	Automatsko dovršavanje upisa/Tablica znakova...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Auto-completion/Glossary...	Automatsko dovršavanje upisa/Glosar...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Auto-completion/Show Relevant Suggestions Automatically	Automatsko dovršavanje upisa/Automatski prikaz odgovarajućih prijedloga	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-auto-populated segment	automatski upisan segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-Auto-text	Automatski tekst	OmegaT_4.0.1_Beta_L10N_Full; OmegaT - Options Menu	IT
-auto-text	automatski tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
-available	dostupan	OmegaT_4.1.3_Beta_L10N_Full	IT
-Back in history...	Natrag po kronologiji...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-beginning of the active segment	početak otvorenoga segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
-beginning of the line in the segment	početak retka u segmentu	OmegaT_4.1.3_Beta_L10N_Full	IT
-beginning of the segment	početak segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
-bilingual dictionary	dvojezični rječnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-bottom panel	donji dio prozora	OmegaT_4.1.3_Beta_L10N_Full	IT
-bug	pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
-bug report	prijava pogreške	OmegaT_4.0.1_Beta_L10N_Full	IT
-bug report	prijava pogreške	OmegaT_4.1.3_Beta_L10N_Full	IT
-by default	prema zadanim postavkama	OmegaT_4.1.3_Beta_L10N_Full	IT
-CAT application	program za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
-CAT tool	alat za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
-chapter	poglavlje	OmegaT_4.1.3_Beta_L10N_Full	IT
-char	znak	OmegaT_4.1.3_Beta_L10N_Full	IT
-Character Table	Tablica znakova	OmegaT_4.0.1_Beta_L10N_Full	IT
-character table	tablica znakova	OmegaT_4.1.3_Beta_L10N_Full	IT
-check box	potvrdni kvadratić	OmegaT_4.1.3_Beta_L10N_Full	IT
-checkbox	potvrdni kvadratić	OmegaT_4.1.3_Beta_L10N_Full	IT
-checked-out contents	pripremljeni sadržaji	OmegaT_4.1.3_Beta_L10N_Full	IT
-checked-out material	pripremljeni materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
-checkout	završetak pripreme projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-checkout folder	mapa pripremljenoga projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-client	naručitelj	OmegaT_4.1.3_Beta_L10N_Full	IT
-clipboard	međuspremnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Close	Zatvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-code	kôd	OmegaT_4.1.3_Beta_L10N_Full	IT
-collaborative translation	timsko prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
-command	naredba	OmegaT_4.1.3_Beta_L10N_Full	IT
-command line	naredbeni redak	OmegaT_4.1.3_Beta_L10N_Full	IT
-command line mode	način rada naredbenim retkom	OmegaT_4.1.3_Beta_L10N_Full	IT
-command line parameters	parametri naredbenoga retka	OmegaT_4.1.3_Beta_L10N_Full	IT
-comment line	redak komentara	OmegaT_4.1.3_Beta_L10N_Full	IT
-commit	predaja projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-commit command	naredba za predaju projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-common material	zajednički materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
-common project	zajednički projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
-computer	računalo	OmegaT_4.1.3_Beta_L10N_Full	IT
-computer-aided translation tool	alat za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
-confidentiality	povjerljivost	OmegaT_4.1.3_Beta_L10N_Full	IT
-configuration file	konfiguracijska datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-configuration folder	konfiguracijska mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-conflicting changes	neusklađene promjene	OmegaT_4.1.3_Beta_L10N_Full	IT
-consecutive spaces	uzastopni razmaci	OmegaT_4.1.3_Beta_L10N_Full	IT
-contents of the checkout folder	sadržaj mape pripremljenoga projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-contextual suggestion	prijedlog u kontekstu	OmegaT_4.1.3_Beta_L10N_Full	IT
-copied file	kopirana datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-copy	kopirati	OmegaT_4.1.3_Beta_L10N_Full	IT
-Copy Files to Source Folder...	Kopiraj datoteke u izvorišnu mapu...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-copyright	autorska prava	OmegaT_4.1.3_Beta_L10N_Full	IT
-correct folder	odgovarajuća mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Create Alternative Translation	Izradi alternativni prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Create Current Translated Documents	Izradi tekuće prevedene dokumente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Create Glossary Entry	Dodavanje termina u glosar	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Create Translated Documents	Izradi prevedene dokumente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-creating a repository	izrada repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
-credentials	pristupni podaci	OmegaT_4.1.3_Beta_L10N_Full	IT
-current contents	tekući sadržaj	OmegaT_4.1.3_Beta_L10N_Full	IT
-current document	tekući dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
-current project	tekući projekt	OmegaT_4.0.1_Beta_L10N_Full	IT
-current segment	tekući segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-current source	tekući izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
-cursor	pokazivač miša	OmegaT_4.1.3_Beta_L10N_Full	IT
-Custom Colours...	Prilagođene boje...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-customize	prilagoditi	OmegaT_4.1.3_Beta_L10N_Full	IT
-cut	izrezati	OmegaT_4.1.3_Beta_L10N_Full	IT
-data shared	zajednički podaci	OmegaT_4.1.3_Beta_L10N_Full	IT
-decimal character	decimalni znak	OmegaT_4.0.1_Beta_L10N_Full	IT
-default OmegaT shortcuts	zadani prečaci programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full	IT
-default shortcut	zadani prečac	OmegaT_4.1.3_Beta_L10N_Full	IT
-default translation	zadani prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
-detail	pojedinost	OmegaT_4.1.3_Beta_L10N_Full	IT
-developer	programer	OmegaT_4.1.3_Beta_L10N_Full	IT
-developer group	programerska skupina	OmegaT_4.1.3_Beta_L10N_Full	IT
-development team	razvojni tim	OmegaT_4.1.3_Beta_L10N_Full	IT
-dialog	dijaloški okvir	OmegaT_4.1.3_Beta_L10N_Full	IT
-dict file	rječnička datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-dictionary	rječnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Dictionary feature	funkcija rječnika	OmegaT_4.1.3_Beta_L10N_Full	IT
-direct control	izravna kontrola	OmegaT_4.1.3_Beta_L10N_Full	IT
-Display Source Segments	Prikaži izvorišne segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-document	dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
-Download MediaWiki Page...	Preuzmi stranicu MediaWiki...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Download Team Project	Preuzimanje timskoga projekta	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-downloads page	stranica za preuzimanja	OmegaT_4.1.3_Beta_L10N_Full	IT
-draft	radna inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-dynamic language	dinamički jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Edit Menu	Izbornik Obrada	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-editable segment	segment koji je moguće obrađivati	OmegaT_4.1.3_Beta_L10N_Full	IT
-Editing behavior	Funkcioniranje obrade	OmegaT_4.0.1_Beta_L10N_Full	IT
-editing behavior	funkcioniranje obrade	OmegaT_4.1.3_Beta_L10N_Full	IT
-Editing Behavior...	Funkcioniranje obrade...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Editing behaviour	Funkcioniranje obrade	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-editing field	polje za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
-editor	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
-Editor	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
-editor pane	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
-empty folder	prazna mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-empty line	prazni redak	OmegaT_4.1.3_Beta_L10N_Full	IT
-Empty translation	Bez prijevoda	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-encoding set	kodni skup	OmegaT_4.1.3_Beta_L10N_Full	IT
-end of the active segment	kraj otvorenoga segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
-end of the line in the segment	kraj retka u segmentu	OmegaT_4.1.3_Beta_L10N_Full	IT
-end of the segment	kraj segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
-English language	engleski jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-environment	okruženje	OmegaT_4.1.3_Beta_L10N_Full	IT
-error	pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
-existing translation	postojeći prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
-Export Selection	Izvezi odabrano	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-extension	datotečni nastavak	OmegaT_4.1.3_Beta_L10N_Full	IT
-external service	vanjski servis	OmegaT_4.1.3_Beta_L10N_Full	IT
-External TMXs...	Vanjske datoteke u formatu TMX...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-F#	funkcijska tipka F s odgovarajućim brojem	OmegaT_4.1.3_Beta_L10N_Full	IT
-FAQ	Česta pitanja	OmegaT_4.1.3_Beta_L10N_Full	IT
-field	polje	OmegaT_4.1.3_Beta_L10N_Full	IT
-file a bug report	prijaviti pogrešku	OmegaT_4.1.3_Beta_L10N_Full	IT
-file filter	datotečni filtar	OmegaT_4.1.3_Beta_L10N_Full	IT
-file filtering	filtriranje datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-file filtering rules	pravila filtriranja datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-File Filters	Datotečni filtri	OmegaT_4.0.1_Beta_L10N_Full	IT
-File Filters...	Datotečni filtri...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-file format	datotečni format	OmegaT_4.1.3_Beta_L10N_Full	IT
-final product	konačni proizvod	OmegaT_4.1.3_Beta_L10N_Full	IT
-financial support	financijska potpora	OmegaT_4.1.3_Beta_L10N_Full	IT
-first-class functions	funkcije prvoga reda	OmegaT_4.1.3_Beta_L10N_Full	IT
-FITNESS FOR A PARTICULAR PURPOSE	PRIKLADNOST ZA NEKU ODREĐENU NAMJENU	OmegaT_4.1.3_Beta_L10N_Full	IT
-folder	mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-font	font	OmegaT_4.1.3_Beta_L10N_Full	IT
-Font...	Font...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Force saving password as plain text	Spremanje lozinke u obliku običnoga teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
-format	format	OmegaT_4.1.3_Beta_L10N_Full	IT
-formatted text	oblikovani tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
-Forward in history...	Naprijed po kronologiji...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-free software	softver bez ograničenja	OmegaT_4.1.3_Beta_L10N_Full	IT
-free version	besplatna inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-fuzzy match	djelomično podudaranje	OmegaT_4.1.3_Beta_L10N_Full	IT
-Fuzzy Matches pane	okno djelomičnih podudaranja	OmegaT_4.1.3_Beta_L10N_Full	IT
-glossary	glosar	OmegaT_4.1.3_Beta_L10N_Full	IT
-glossary entry	natuknica glosara	OmegaT_4.1.3_Beta_L10N_Full	IT
-Glossary/Display Context Description for TBX Glossaries	Glosar/Prikaz konteksta za glosare u formatu TBX	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Glossary/Use Stemming for Glossary Entries	Glosar/Koristi određivanje korijena riječi za natuknice glosara	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-GNU General Public License	Opća javna licenca GNU	OmegaT_4.1.3_Beta_L10N_Full	IT
-GoTo Menu	Izbornik Idi na	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-GPL license	licenca GPL	OmegaT_4.1.3_Beta_L10N_Full	IT
-grammar mistake	gramatička pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
-handling the server side	rad s poslužiteljima	OmegaT_4.1.3_Beta_L10N_Full	IT
-Help Menu	Izbornik Pomoć	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
-history	kronologija	OmegaT_4.1.3_Beta_L10N_Full	IT
-hosted service	komercijalni servis	OmegaT_4.1.3_Beta_L10N_Full	IT
-Hunspell	Hunspell	OmegaT_4.1.3_Beta_L10N_Full	IT
-Hunspell dictionary	Hunspellov rječnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-identical translation	istovjetan prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
-imperative	naredbeni	OmegaT_4.1.3_Beta_L10N_Full	IT
-implied warranty	podrazumijevano jamstvo	OmegaT_4.1.3_Beta_L10N_Full	IT
-in good order	u ispravnome stanju	OmegaT_4.1.3_Beta_L10N_Full	IT
-inconsistency	nedosljednost	OmegaT_4.1.3_Beta_L10N_Full	IT
-inflected word	deklinirana riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
-Insert Match or Selection	Umetni podudaranje ili odabrani sadržaj	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Insert Missing Source Tags	Umetni izvorišne oznake koje nedostaju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Insert Next Missing Tag	Umetni sljedeću oznaku koja nedostaje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Insert Source	Umetni izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Insert the best fuzzy match	Umetni najkvalitetnije podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-inserted automatically	automatski umetnut	OmegaT_4.1.3_Beta_L10N_Full	IT
-Inserting fuzzy matches	Umetanje djelomičnih podudaranja<	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-installation folder	instalacijska mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-interface with the server	povezati se s poslužiteljem	OmegaT_4.1.3_Beta_L10N_Full	IT
-introductory chapter	uvodno poglavlje	OmegaT_4.1.3_Beta_L10N_Full	IT
-Java	programski jezik Java	OmegaT_4.1.3_Beta_L10N_Full	IT
-Java Virtual machine	Java Virtual Machine	OmegaT_4.1.3_Beta_L10N_Full	IT
-key behavior	funkcionalnost tipki	OmegaT_4.1.3_Beta_L10N_Full	IT
-keyboard shortcut	tipkovni prečac	OmegaT_4.1.3_Beta_L10N_Full	IT
-keyevent	kombinacija tipki	OmegaT_4.1.3_Beta_L10N_Full	IT
-keystroke	tipkovna radnja	OmegaT_4.1.3_Beta_L10N_Full	IT
-keyword	ključna riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
-keyword index	kazalo ključnih riječi	OmegaT_4.1.3_Beta_L10N_Full	IT
-language	jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Language Checker	Jezična provjera	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-language code	oznaka jezika	OmegaT_4.1.3_Beta_L10N_Full	IT
-language pair	jezični par	OmegaT_4.1.3_Beta_L10N_Full	IT
-language settings	postavke jezika	OmegaT_4.1.3_Beta_L10N_Full	IT
-Language Tokenizer	Jezični tokenizator	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-LanguageTool	jezični alat LanguageTool	OmegaT_4.1.3_Beta_L10N_Full	IT
-Last Changes...	Zadnje promjene...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
-latest repository version	najnovija inačica repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
-latest server version	najnovija inačica na poslužitelju	OmegaT_4.1.3_Beta_L10N_Full	IT
-latest version	najnovija inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-Leave the segment empty	Ostavi prazni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Left	strelica lijevo	OmegaT_4.1.3_Beta_L10N_Full	IT
-left panel	lijevi dio prozora	OmegaT_4.1.3_Beta_L10N_Full	IT
-left-click	pritisak lijevom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
-left-click	pritisnuti lijevom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
-legal notices	pravne napomene	OmegaT_4.1.3_Beta_L10N_Full	IT
-line	redak	OmegaT_4.1.3_Beta_L10N_Full	IT
-line break	prijelom retka	OmegaT_4.1.3_Beta_L10N_Full	IT
-line breaks	prijelomi redaka	OmegaT_4.0.1_Beta_L10N_Full	IT
-link	poveznica	OmegaT_4.1.3_Beta_L10N_Full	IT
-Linux	sustav Linux	OmegaT_4.1.3_Beta_L10N_Full	IT
-loading	učitavanje	OmegaT_4.1.3_Beta_L10N_Full	IT
-local change	lokalna izmjena	OmegaT_4.1.3_Beta_L10N_Full	IT
-local computer	lokalno računalo	OmegaT_4.1.3_Beta_L10N_Full	IT
-local copy	lokalna kopija	OmegaT_4.1.3_Beta_L10N_Full	IT
-local file	lokalna datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-local folder	lokalna mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-local network	lokalna mreža	OmegaT_4.1.3_Beta_L10N_Full	IT
-local repository copy	lokalna kopija repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
-local version	lokalna inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-log	zapisnik	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
-Log...	Zapisnik...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
-login	prijaviti se	OmegaT_4.1.3_Beta_L10N_Full	IT
-LTR	pisanje slijeva nadesno	OmegaT_4.1.3_Beta_L10N_Full	IT
-Mac	sustav Mac	OmegaT_4.1.3_Beta_L10N_Full	IT
-machine translation	strojni prijevod	OmegaT_4.1.3_Beta_L10N_Full; as a machine-translated segment	IT
-machine translation	strojno prevođenje	OmegaT_4.1.3_Beta_L10N_Full; in general	IT
-macro	makroalat	OmegaT_4.1.3_Beta_L10N_Full	IT
-main dialog	glavni dijaloški okvir	OmegaT_4.0.1_Beta_L10N_Full	IT
-main menu	glavni izbornik	OmegaT_4.0.1_Beta_L10N_Full	IT
-main menu	glavni izbornik	OmegaT_4.1.3_Beta_L10N_Full	IT
-main window	glavni prozor	OmegaT_4.1.3_Beta_L10N_Full	IT
-manual	priručnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Mark Auto-Populated Segments	Označi automatski upisane segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Mark Bidirectional Algorithm Control Characters	Označi dvosmjerne kontrolne znakove algoritama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Mark Non-breakable Spaces	Označi razmake koji ostavljaju znakove u istome retku	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu [?]	IT
-Mark Non-Unique Segments	Označi višekratne segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Mark Segments with Notes	Označi segmente s bilješkama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu [sa „s” ili bez „s”?]	IT
-Mark Translated Segments	Označi prevedene segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Mark Untranslated Segments	Označi neprevedene segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Mark Whitespace	Označi bjeline	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-marked	označen	OmegaT_4.1.3_Beta_L10N_Full	IT
-marked accordingly	odgovarajuće označen	OmegaT_4.1.3_Beta_L10N_Full	IT
-match	podudaranje	OmegaT_4.1.3_Beta_L10N_Full	IT
-Match Statistics	Statistika podudaranja	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
-Match Statistics per File	Statistika podudaranja po datotekama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
-member of the team	član tima	OmegaT_4.1.3_Beta_L10N_Full	IT
-menu item	stavka izbornika	OmegaT_4.1.3_Beta_L10N_Full	IT
-menu item code	kôd stavke izbornika	OmegaT_4.1.3_Beta_L10N_Full	IT
-MERCHANTABILITY	TRŽIŠNI POTENCIJAL	OmegaT_4.1.3_Beta_L10N_Full	IT
-message window	prozor za poruke	OmegaT_4.1.3_Beta_L10N_Full	IT
-missing tag	oznaka teksta koja nedostaje	OmegaT_4.1.3_Beta_L10N_Full	IT
-modification	izmjena	OmegaT_4.1.3_Beta_L10N_Full	IT
-Modification Info/Display All	Informacije o izmjenama/Prikaz svega	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Modification Info/Display None	Informacije o izmjenama/Bez prikaza	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-Modification Info/Display Selected	Informacije o izmjenama/Prikaz odabranoga	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-modifier	modifikator	OmegaT_4.1.3_Beta_L10N_Full	IT
-move to inside segment	premještanje u segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-MT service	servis za strojno prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
-multi-paradigm language	jezik s više paradigmi	OmegaT_4.1.3_Beta_L10N_Full	IT
-New	Novi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Next Note	Sljedeća bilješka	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [napomena?]	IT
-Next Segment	Sljedeći segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-Next Translated Segment	Sljedeći prevedeni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-Next Unique Segment	Sljedeći jednokratni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [jedinstven ili unikatan?]	IT
-Next Untranslated Segment	Sljedeći neprevedeni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-next word	sljedeća riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
-non-breakable space	razmak koji ostavlja znakove u istome retku	[?] OmegaT_4.1.3_Beta_L10N_Full	IT
-non-unique segment	višekratni segment	OmegaT_4.0.1_Beta_L10N_Full	IT
-object model	objektni model	OmegaT_4.1.3_Beta_L10N_Full	IT
-object-oriented	objektno orijentiran	OmegaT_4.1.3_Beta_L10N_Full	IT
-offending segment	neprikladni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-OmegaT file	datoteka programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full	IT
-OmegaT project	projekt programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full [?]	IT
-omission	omaška	OmegaT_4.1.3_Beta_L10N_Full	IT
-on a volunteer basis	volonterski	OmegaT_4.1.3_Beta_L10N_Full	IT
-on the web	na webu	OmegaT_4.1.3_Beta_L10N_Full	IT
-Open	Otvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Open Project	Otvaranje projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Open Recent Project	Otvori nedavni projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-open-source domain	domena otvorenoga kôda	OmegaT_4.1.3_Beta_L10N_Full	IT
-operating system	operacijski sustav	OmegaT_4.1.3_Beta_L10N_Full	IT
-operation	operacija	OmegaT_4.1.3_Beta_L10N_Full	IT
-Options	Mogućnosti	OmegaT_4.1.3_Beta_L10N_Full	IT
-Options Menu	Izbornik Mogućnosti	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-original document	izvorni dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
-original document	izvorni dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
-package	paket	OmegaT_4.1.3_Beta_L10N_Full	IT
-pane	okno	OmegaT_4.1.3_Beta_L10N_Full	IT
-paragraph	odlomak	OmegaT_4.1.3_Beta_L10N_Full	IT
-paragraph segmentation	segmentacija po odlomcima	OmegaT_4.0.1_Beta_L10N_Full	IT
-password	lozinka	OmegaT_4.1.3_Beta_L10N_Full	IT
-paste	zalijepiti	OmegaT_4.1.3_Beta_L10N_Full	IT
-personal preferences	vlastiti odabir	OmegaT_4.1.3_Beta_L10N_Full	IT
-PgDn	Page Down	OmegaT_4.1.3_Beta_L10N_Full	IT
-PgUp	Page Up	OmegaT_4.1.3_Beta_L10N_Full	IT
-plain text	obični tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
-plain text file	datoteka običnoga teksta	OmegaT_4.0.1_Beta_L10N_Full	IT
-plugin	dodatni modul	OmegaT_4.1.3_Beta_L10N_Full	IT
-plural form	množinski oblik	OmegaT_4.0.1_Beta_L10N_Full	IT
-preferences folder	mapa korisničkih postavki	OmegaT_4.1.3_Beta_L10N_Full	IT
-prefix	prefiks	OmegaT_4.1.3_Beta_L10N_Full	IT
-Previous Note	Prethodna bilješka	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [napomena?]	IT
-previous pane	prethodno okno	OmegaT_4.1.3_Beta_L10N_Full	IT
-Previous Segment	Prethodni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-previous segment	prethodni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-print out	ispisati	OmegaT_4.1.3_Beta_L10N_Full	IT
-private SVN server	privatni poslužitelj SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
-programming style	stil programiranja	OmegaT_4.1.3_Beta_L10N_Full	IT
-programming tool	alat za programiranje	OmegaT_4.1.3_Beta_L10N_Full	IT
-Project	Projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-project	projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
-project administrator	administrator projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-project contents	sadržaji projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Project Files...	Datoteke projekta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-project folder	mapa projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-project manager	voditelj projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Project Menu	Izbornik Projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-project properties	svojstva projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Project Properties	svojstva projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Project Properties window	prozor svojstava projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
-ProjectLocker	servis ProjectLocker	OmegaT_4.1.3_Beta_L10N_Full	IT
-Properties...	Svojstva...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Proxy Login...	Prijava za proxy...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-quick tutorial	brzi vodič	OmegaT_4.1.3_Beta_L10N_Full	IT
-Quit	Zatvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Redo Last Action	Ponovi zadnju radnju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Redo Last Action	Ponovi zadnju radnju	OmegaT_4.0.1_Beta_L10N_Full	IT
-Register Identical Translation	Registriraj istovjetan prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-regular expression	regularni izraz	OmegaT_4.1.3_Beta_L10N_Full	IT
-relaunch	ponovno pokrenuti	OmegaT_4.1.3_Beta_L10N_Full	IT
-Reload	Ponovno učitaj	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Remove translation	Ukloni prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Replace with Machine Translation	Zamijeni strojnim prijevodom	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Replace With Match or Selection	Zamijeni podudaranjem ili odabranim sadržajem	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Replace With Source	Zamijeni izvorišnim tekstom	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-report	prijava	OmegaT_4.1.3_Beta_L10N_Full	IT
-reporting bugs	prijavljivanje pogrešaka	OmegaT_4.1.3_Beta_L10N_Full	IT
-repository	repozitorij	OmegaT_4.1.3_Beta_L10N_Full	IT
-repository version	inačica repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
-requests for enhancement	zahtjev za poboljšanje programa	OmegaT_4.0.1_Beta_L10N_Full	IT
-requests for enhancements	zahtjevi za poboljšanja programa	OmegaT_4.1.3_Beta_L10N_Full	IT
-resolving the conflicts	rješavanje kolizija	OmegaT_4.1.3_Beta_L10N_Full	IT
-Restore Main Window	Vrati glavni prozor	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Right	strelica desno	OmegaT_4.1.3_Beta_L10N_Full	IT
-right-click	pritisak desnom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
-right-click	pritisnuti desnom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
-root word	korijenska riječ	OmegaT_4.0.1_Beta_L10N_Full	IT
-RTL	pisanje zdesna nalijevo	OmegaT_4.1.3_Beta_L10N_Full	IT
-RTL-LTR switch	prebacivanje između pisanja zdesna nalijevo/slijeva nadesno	OmegaT_4.1.3_Beta_L10N_Full	IT
-rule set	skup pravila	OmegaT_4.1.3_Beta_L10N_Full	IT
-rule-based segmentation	segmentacija na temelju pravila	OmegaT_4.1.3_Beta_L10N_Full	IT
-Save	Spremi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Saving and Output...	Spremanje i izlazni rezultati...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-screen shot	slika zaslona	OmegaT_4.1.3_Beta_L10N_Full	IT
-script	skripta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Scripting	Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
-scripting language	skriptni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Scripting window	prozor Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full	IT
-Scripting window	prozor Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full	IT
-scripts folder	mapa „scripts”	OmegaT_4.1.3_Beta_L10N_Full	IT
-Search and Replace...	Pretraživanje i zamjena...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Search Project...	Pretraživanje projekta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-segment	segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-Segment number...	Segment pod brojem...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-segmentation	segmentacija	OmegaT_4.1.3_Beta_L10N_Full	IT
-segmentation rules	pravila segmentacije	OmegaT_4.1.3_Beta_L10N_Full	IT
-Segmentation...	Segmentacija...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Select Match #1	Odaberi podudaranje br. 1	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Select Match #2	Odaberi podudaranje br. 2	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Select Match #3	Odaberi podudaranje br. 3	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Select Match #4	Odaberi podudaranje br. 4	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Select Match #5	Odaberi podudaranje br. 5	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Select Next Match	Odaberi sljedeće podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Select Previous Match	Odaberi prethodno podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-sensitive file	datoteka s povjerljivim sadržajima	OmegaT_4.1.3_Beta_L10N_Full	IT
-sentence-based segmentation	segmentacija po rečenicama	OmegaT_4.1.3_Beta_L10N_Full	IT
-separate repositories	zasebni repozitoriji	OmegaT_4.1.3_Beta_L10N_Full	IT
-server	poslužitelj	OmegaT_4.1.3_Beta_L10N_Full	IT
-server repository	repozitorij poslužitelja	OmegaT_4.1.3_Beta_L10N_Full	IT
-server version	inačica na poslužitelju	OmegaT_4.1.3_Beta_L10N_Full	IT
-Set empty translation	Ostavi bez prijevoda	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-setting up the environment	postavljanje okruženja	OmegaT_4.1.3_Beta_L10N_Full	IT
-shared material	zajednički materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
-shortcut	prečac	OmegaT_4.1.3_Beta_L10N_Full	IT
-shortcut customization	prilagođavanje prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
-shortcut definition	definicija prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
-shortcut definition file	datoteka definicija prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
-shortcut definition syntax	sintaksa definicije prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
-similarity threshold	prag sličnosti	OmegaT_4.0.1_Beta_L10N_Full	IT
-similarity threshold	prag sličnosti	OmegaT_4.1.3_Beta_L10N_Full	IT
-simple float	jednostavni decimalni broj	OmegaT_4.0.1_Beta_L10N_Full	IT
-software	softver	OmegaT_4.1.3_Beta_L10N_Full	IT
-source and target languages	izvorišni i odredišni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-source folder	izvorišna mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-source language	izvorišni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-Source of Selected Match	Izvorište odabranoga podudaranja	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
-source segment	izvorišni segment	OmegaT_4.0.1_Beta_L10N_Full	IT
-source segment	izvorišni segment	OmegaT_4.0.1_Beta_L10N_Full	IT
-source text	izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
-SourceForge	servis SourceForge	OmegaT_4.1.3_Beta_L10N_Full	IT
-SourceForge user	korisnik servisa SourceForge	OmegaT_4.1.3_Beta_L10N_Full	IT
-source-target dictionary	rječnik s izvorišnim i odredišnim parovima	OmegaT_4.1.3_Beta_L10N_Full	IT
-Space	razmaknica	OmegaT_4.1.3_Beta_L10N_Full	IT
-special behavior	posebna funkcija	OmegaT_4.1.3_Beta_L10N_Full	IT
-spell checker	alat za provjeru pravopisa	OmegaT_4.1.3_Beta_L10N_Full	IT
-spell checking	provjera pravopisa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Spell checking...	Provjera pravopisa...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-spellchecker	alat za provjeru pravopisa	OmegaT_4.1.3_Beta_L10N_Full	IT
-spelling mistake	pravopisna pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
-StarDict	StarDict	OmegaT_4.1.3_Beta_L10N_Full	IT
-StarDict format	format StarDict	OmegaT_4.1.3_Beta_L10N_Full	IT
-stem word	korijenska riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
-stemming	određivanje korijena riječi	OmegaT_4.1.3_Beta_L10N_Full	IT
-stylistic mistake	stilska pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
-subfolder	podmapa	OmegaT_4.1.3_Beta_L10N_Full	IT
-subject line	polje predmeta poruke	OmegaT_4.1.3_Beta_L10N_Full	IT
-supported language	podržani jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-SVN	SVN	OmegaT_4.1.3_Beta_L10N_Full	IT
-SVN client	klijent SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
-SVN repository	repozitorij SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
-SVN server	poslužitelj SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
-Switch Case To/Cycle	Promijeni veličinu slova/Izmjenično<	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Switch Case To/Lower Case	Promijeni veličinu slova/Mala slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Switch Case To/Sentence Case	Promijeni veličinu slova/Prvo slovo rečenice veliko	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Switch Case To/Title Case	Promijeni veličinu slova/Velika početna slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Switch Case To/Upper Case	Promijeni veličinu slova/Velika slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-synchronize	usklađivati	OmegaT_4.1.3_Beta_L10N_Full	IT
-system shortcut	prečac sustava	OmegaT_4.1.3_Beta_L10N_Full	IT
-system shortcut	prečac sustava	OmegaT_4.1.3_Beta_L10N_Full	IT
-system-wide	na razini cijeloga sustava	OmegaT_4.1.3_Beta_L10N_Full	IT
-tag	oznaka teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
-tag handling	rad s oznakama teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
-Tag Processing...	Obrada oznaka teksta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-target language	odredišni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
-target segment	odredišni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-target text	odredišni tekst	OmegaT_4.0.1_Beta_L10N_Full	IT
-TBX glossary	glosar u formatu TBX	OmegaT_4.1.3_Beta_L10N_Full	IT
-team member	član tima	OmegaT_4.1.3_Beta_L10N_Full	IT
-team of translators	tim prevoditelja	OmegaT_4.1.3_Beta_L10N_Full	IT
-team project	timski projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
-Team...	Tim...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-term	termin	OmegaT_4.1.3_Beta_L10N_Full	IT
-terminology management	upravljanje terminologijom	OmegaT_4.1.3_Beta_L10N_Full	IT
-text area	područje teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
-tokenizer	tokenizator	OmegaT_4.1.3_Beta_L10N_Full	IT
-Tokenizer Behavior	Funkcioniranje tokenizatora	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
-Tools	Alati	OmegaT_4.1.3_Beta_L10N_Full	IT
-Tools Menu	Izbornik Alati	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
-top object	glavni objekt	OmegaT_4.1.3_Beta_L10N_Full	IT
-translatable content	prevodivi sadržaj	OmegaT_4.0.1_Beta_L10N_Full	IT
-translated file	datoteka prijevoda	OmegaT_4.1.3_Beta_L10N_Full	IT
-translated segment	prevedeni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation	prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation	prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation agency	prevoditeljska agencija	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation consistency	ujednačenost prijevoda	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation material	prijevodni materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation memory	prijevodna memorija	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation memory file	datoteka prijevodne memorije	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation project	prijevodni projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
-translation project	prijevodni projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
-TransTips	Savjetnik	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-TransTips/Enable Transtips	Savjetnik/Uključi Savjetnika	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Undo Last Action	Poništi zadnju radnju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Undo Last Action	Poništi zadnju radnju	OmegaT_4.0.1_Beta_L10N_Full	IT
-unpack	raspakirati	OmegaT_4.1.3_Beta_L10N_Full	IT
-untar	raspakirati	OmegaT_4.1.3_Beta_L10N_Full	IT
-untranslated segment	neprevedeni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
-updated version	ažurirana inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-up-to-date	ažuriran	OmegaT_4.1.3_Beta_L10N_Full	IT
-URL	URL	OmegaT_4.1.3_Beta_L10N_Full	IT
-URL address	URL adresa	OmegaT_4.1.3_Beta_L10N_Full	IT
-Use as Default Translation	Koristi kao zadani prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
-Use TAB To Advance	TAB za pomicanje naprijed	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-Use Terms Appearing Separately in the Source Text	Termini mogu biti razdvojeni u izvorišnome tekstu	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu [?]	IT
-user	korisnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-user file	korisnička datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
-user group	korisnička skupina	OmegaT_4.1.3_Beta_L10N_Full	IT
-user interface	korisničko sučelje	OmegaT_4.1.3_Beta_L10N_Full	IT
-User Manual	Priručnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-user manual	priručnik	OmegaT_4.1.3_Beta_L10N_Full	IT
-User Manual...	Priručnik...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
-user name	korisničko ime	OmegaT_4.1.3_Beta_L10N_Full	IT
-user support	korisnička podrška	OmegaT_4.1.3_Beta_L10N_Full	IT
-Validate Tags	Provjera valjanosti oznaka teksta	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
-Validate Tags for Current Document	Provjera valjanosti oznaka teksta za tekući dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
-VCS client	klijent VCS-a	OmegaT_4.1.3_Beta_L10N_Full	IT
-version	inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-version control	nadziranje inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-version control system	sustav nadziranja inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
-view	prikaz	OmegaT_4.1.3_Beta_L10N_Full	IT
-View Menu	Izbornik Prikaz	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
-View...	Prikaz...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
-warranty	jamstvo	OmegaT_4.1.3_Beta_L10N_Full	IT
-weakly typed	slabe tipizacije	OmegaT_4.1.3_Beta_L10N_Full	IT
-web site	web stranice	OmegaT_4.1.3_Beta_L10N_Full	IT
-whitespace	bjelina	OmegaT_4.1.3_Beta_L10N_Full	IT
-Windows	sustav Windows	OmegaT_4.1.3_Beta_L10N_Full	IT
-working copy	radna kopija	OmegaT_4.1.3_Beta_L10N_Full	IT
+About...	O programu...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu
+access	pristup	OmegaT_4.1.3_Beta_L10N_Full
+Access Configuration Folder	Pristup konfiguracijskoj mapi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Access Project Contents/Current Source Document	Pristup sadržajima projekta/Tekući izvorišni dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Current Target Document	Pristup sadržajima projekta/Tekući odredišni dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Dictionaries	Pristup sadržajima projekta/Rječnici	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Glossaries	Pristup sadržajima projekta/Glosari	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Root	Pristup sadržajima projekta/Ishodišna mapa	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Source Files	Pristup sadržajima projekta/Izvorišne datoteke	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Target Files	Pristup sadržajima projekta/Odredišne datoteke	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Access Project Contents/Writeable Glossary	Pristup sadržajima projekta/Zapisivi glosar	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+access rights	prava pristupa	OmegaT_4.1.3_Beta_L10N_Full
+action	radnja	OmegaT_4.1.3_Beta_L10N_Full
+active segment	otvoreni segment	OmegaT_4.1.3_Beta_L10N_Full
+Add	Dodaj	OmegaT_4.1.3_Beta_L10N_Full
+Add	Dodaj	OmegaT_4.1.3_Beta_L10N_Full
+additional rules	dodatna pravila	OmegaT_4.1.3_Beta_L10N_Full
+administrator	administrator	OmegaT_4.1.3_Beta_L10N_Full
+administrator rights	administratorska prava	OmegaT_4.0.1_Beta_L10N_Full
+advanced user	napredni korisnik	OmegaT_4.1.3_Beta_L10N_Full
+alternative translation	alternativni prijevod	OmegaT_4.1.3_Beta_L10N_Full
+Always Confirm Quit	Potvrda zatvaranja programa	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Apache server	poslužitelj Apache	OmegaT_4.1.3_Beta_L10N_Full
+application file	programska datoteka	OmegaT_4.1.3_Beta_L10N_Full
+assigning the access rights	dodjela prava pristupa	OmegaT_4.1.3_Beta_L10N_Full
+Auto-completer	automatsko dovršavanje upisa	OmegaT_4.1.3_Beta_L10N_Full
+Auto-completer dialog box	dijaloški okvir automatskoga dovršavanja upisa	OmegaT_4.1.3_Beta_L10N_Full
+Auto-completion	Automatsko dovršavanje upisa	OmegaT_4.0.1_Beta_L10N_Full; OmegaT - Options Menu
+auto-completion	automatsko dovršavanje upisa	OmegaT_4.1.3_Beta_L10N_Full
+Auto-completion/Auto-text...	Automatsko dovršavanje upisa/Automatski tekst...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Auto-completion/Character Table...	Automatsko dovršavanje upisa/Tablica znakova...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Auto-completion/Glossary...	Automatsko dovršavanje upisa/Glosar...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Auto-completion/Show Relevant Suggestions Automatically	Automatsko dovršavanje upisa/Automatski prikaz odgovarajućih prijedloga	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+auto-populated segment	automatski upisan segment	OmegaT_4.1.3_Beta_L10N_Full
+Auto-text	Automatski tekst	OmegaT_4.0.1_Beta_L10N_Full; OmegaT - Options Menu
+auto-text	automatski tekst	OmegaT_4.1.3_Beta_L10N_Full
+available	dostupan	OmegaT_4.1.3_Beta_L10N_Full
+Back in history...	Natrag po kronologiji...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+beginning of the active segment	početak otvorenoga segmenta	OmegaT_4.1.3_Beta_L10N_Full
+beginning of the line in the segment	početak retka u segmentu	OmegaT_4.1.3_Beta_L10N_Full
+beginning of the segment	početak segmenta	OmegaT_4.1.3_Beta_L10N_Full
+bilingual dictionary	dvojezični rječnik	OmegaT_4.1.3_Beta_L10N_Full
+bottom panel	donji dio prozora	OmegaT_4.1.3_Beta_L10N_Full
+bug	pogreška	OmegaT_4.1.3_Beta_L10N_Full
+bug report	prijava pogreške	OmegaT_4.0.1_Beta_L10N_Full
+bug report	prijava pogreške	OmegaT_4.1.3_Beta_L10N_Full
+by default	prema zadanim postavkama	OmegaT_4.1.3_Beta_L10N_Full
+CAT application	program za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full
+CAT tool	alat za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full
+chapter	poglavlje	OmegaT_4.1.3_Beta_L10N_Full
+char	znak	OmegaT_4.1.3_Beta_L10N_Full
+Character Table	Tablica znakova	OmegaT_4.0.1_Beta_L10N_Full
+character table	tablica znakova	OmegaT_4.1.3_Beta_L10N_Full
+check box	potvrdni kvadratić	OmegaT_4.1.3_Beta_L10N_Full
+checkbox	potvrdni kvadratić	OmegaT_4.1.3_Beta_L10N_Full
+checked-out contents	pripremljeni sadržaji	OmegaT_4.1.3_Beta_L10N_Full
+checked-out material	pripremljeni materijali	OmegaT_4.1.3_Beta_L10N_Full
+checkout	završetak pripreme projekta	OmegaT_4.1.3_Beta_L10N_Full
+checkout folder	mapa pripremljenoga projekta	OmegaT_4.1.3_Beta_L10N_Full
+client	naručitelj	OmegaT_4.1.3_Beta_L10N_Full
+clipboard	međuspremnik	OmegaT_4.1.3_Beta_L10N_Full
+Close	Zatvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+code	kôd	OmegaT_4.1.3_Beta_L10N_Full
+collaborative translation	timsko prevođenje	OmegaT_4.1.3_Beta_L10N_Full
+command	naredba	OmegaT_4.1.3_Beta_L10N_Full
+command line	naredbeni redak	OmegaT_4.1.3_Beta_L10N_Full
+command line mode	način rada naredbenim retkom	OmegaT_4.1.3_Beta_L10N_Full
+command line parameters	parametri naredbenoga retka	OmegaT_4.1.3_Beta_L10N_Full
+comment line	redak komentara	OmegaT_4.1.3_Beta_L10N_Full
+commit	predaja projekta	OmegaT_4.1.3_Beta_L10N_Full
+commit command	naredba za predaju projekta	OmegaT_4.1.3_Beta_L10N_Full
+common material	zajednički materijali	OmegaT_4.1.3_Beta_L10N_Full
+common project	zajednički projekt	OmegaT_4.1.3_Beta_L10N_Full
+computer	računalo	OmegaT_4.1.3_Beta_L10N_Full
+computer-aided translation tool	alat za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full
+confidentiality	povjerljivost	OmegaT_4.1.3_Beta_L10N_Full
+configuration file	konfiguracijska datoteka	OmegaT_4.1.3_Beta_L10N_Full
+configuration folder	konfiguracijska mapa	OmegaT_4.1.3_Beta_L10N_Full
+conflicting changes	neusklađene promjene	OmegaT_4.1.3_Beta_L10N_Full
+consecutive spaces	uzastopni razmaci	OmegaT_4.1.3_Beta_L10N_Full
+contents of the checkout folder	sadržaj mape pripremljenoga projekta	OmegaT_4.1.3_Beta_L10N_Full
+contextual suggestion	prijedlog u kontekstu	OmegaT_4.1.3_Beta_L10N_Full
+copied file	kopirana datoteka	OmegaT_4.1.3_Beta_L10N_Full
+copy	kopirati	OmegaT_4.1.3_Beta_L10N_Full
+Copy Files to Source Folder...	Kopiraj datoteke u izvorišnu mapu...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+copyright	autorska prava	OmegaT_4.1.3_Beta_L10N_Full
+correct folder	odgovarajuća mapa	OmegaT_4.1.3_Beta_L10N_Full
+Create Alternative Translation	Izradi alternativni prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Create Current Translated Documents	Izradi tekuće prevedene dokumente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Create Glossary Entry	Dodavanje termina u glosar	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Create Translated Documents	Izradi prevedene dokumente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+creating a repository	izrada repozitorija	OmegaT_4.1.3_Beta_L10N_Full
+credentials	pristupni podaci	OmegaT_4.1.3_Beta_L10N_Full
+current contents	tekući sadržaj	OmegaT_4.1.3_Beta_L10N_Full
+current document	tekući dokument	OmegaT_4.1.3_Beta_L10N_Full
+current project	tekući projekt	OmegaT_4.0.1_Beta_L10N_Full
+current segment	tekući segment	OmegaT_4.1.3_Beta_L10N_Full
+current source	tekući izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full
+cursor	pokazivač miša	OmegaT_4.1.3_Beta_L10N_Full
+Custom Colours...	Prilagođene boje...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+customize	prilagoditi	OmegaT_4.1.3_Beta_L10N_Full
+cut	izrezati	OmegaT_4.1.3_Beta_L10N_Full
+data shared	zajednički podaci	OmegaT_4.1.3_Beta_L10N_Full
+decimal character	decimalni znak	OmegaT_4.0.1_Beta_L10N_Full
+default OmegaT shortcuts	zadani prečaci programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full
+default shortcut	zadani prečac	OmegaT_4.1.3_Beta_L10N_Full
+default translation	zadani prijevod	OmegaT_4.1.3_Beta_L10N_Full
+detail	pojedinost	OmegaT_4.1.3_Beta_L10N_Full
+developer	programer	OmegaT_4.1.3_Beta_L10N_Full
+developer group	programerska skupina	OmegaT_4.1.3_Beta_L10N_Full
+development team	razvojni tim	OmegaT_4.1.3_Beta_L10N_Full
+dialog	dijaloški okvir	OmegaT_4.1.3_Beta_L10N_Full
+dict file	rječnička datoteka	OmegaT_4.1.3_Beta_L10N_Full
+dictionary	rječnik	OmegaT_4.1.3_Beta_L10N_Full
+Dictionary feature	funkcija rječnika	OmegaT_4.1.3_Beta_L10N_Full
+direct control	izravna kontrola	OmegaT_4.1.3_Beta_L10N_Full
+Display Source Segments	Prikaži izvorišne segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+document	dokument	OmegaT_4.1.3_Beta_L10N_Full
+Download MediaWiki Page...	Preuzmi stranicu MediaWiki...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Download Team Project	Preuzimanje timskoga projekta	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+downloads page	stranica za preuzimanja	OmegaT_4.1.3_Beta_L10N_Full
+draft	radna inačica	OmegaT_4.1.3_Beta_L10N_Full
+dynamic language	dinamički jezik	OmegaT_4.1.3_Beta_L10N_Full
+Edit Menu	Izbornik Obrada	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+editable segment	segment koji je moguće obrađivati	OmegaT_4.1.3_Beta_L10N_Full
+Editing behavior	Funkcioniranje obrade	OmegaT_4.0.1_Beta_L10N_Full
+editing behavior	funkcioniranje obrade	OmegaT_4.1.3_Beta_L10N_Full
+Editing Behavior...	Funkcioniranje obrade...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Editing behaviour	Funkcioniranje obrade	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+editing field	polje za obradu	OmegaT_4.1.3_Beta_L10N_Full
+editor	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full
+Editor	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full
+editor pane	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full
+empty folder	prazna mapa	OmegaT_4.1.3_Beta_L10N_Full
+empty line	prazni redak	OmegaT_4.1.3_Beta_L10N_Full
+Empty translation	Bez prijevoda	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+encoding set	kodni skup	OmegaT_4.1.3_Beta_L10N_Full
+end of the active segment	kraj otvorenoga segmenta	OmegaT_4.1.3_Beta_L10N_Full
+end of the line in the segment	kraj retka u segmentu	OmegaT_4.1.3_Beta_L10N_Full
+end of the segment	kraj segmenta	OmegaT_4.1.3_Beta_L10N_Full
+English language	engleski jezik	OmegaT_4.1.3_Beta_L10N_Full
+environment	okruženje	OmegaT_4.1.3_Beta_L10N_Full
+error	pogreška	OmegaT_4.1.3_Beta_L10N_Full
+existing translation	postojeći prijevod	OmegaT_4.1.3_Beta_L10N_Full
+Export Selection	Izvezi odabrano	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+extension	datotečni nastavak	OmegaT_4.1.3_Beta_L10N_Full
+external service	vanjski servis	OmegaT_4.1.3_Beta_L10N_Full
+External TMXs...	Vanjske datoteke u formatu TMX...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+F#	funkcijska tipka F s odgovarajućim brojem	OmegaT_4.1.3_Beta_L10N_Full
+FAQ	Česta pitanja	OmegaT_4.1.3_Beta_L10N_Full
+field	polje	OmegaT_4.1.3_Beta_L10N_Full
+file a bug report	prijaviti pogrešku	OmegaT_4.1.3_Beta_L10N_Full
+file filter	datotečni filtar	OmegaT_4.1.3_Beta_L10N_Full
+file filtering	filtriranje datoteka	OmegaT_4.1.3_Beta_L10N_Full
+file filtering rules	pravila filtriranja datoteka	OmegaT_4.1.3_Beta_L10N_Full
+File Filters	Datotečni filtri	OmegaT_4.0.1_Beta_L10N_Full
+File Filters...	Datotečni filtri...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+file format	datotečni format	OmegaT_4.1.3_Beta_L10N_Full
+final product	konačni proizvod	OmegaT_4.1.3_Beta_L10N_Full
+financial support	financijska potpora	OmegaT_4.1.3_Beta_L10N_Full
+first-class functions	funkcije prvoga reda	OmegaT_4.1.3_Beta_L10N_Full
+FITNESS FOR A PARTICULAR PURPOSE	PRIKLADNOST ZA NEKU ODREĐENU NAMJENU	OmegaT_4.1.3_Beta_L10N_Full
+folder	mapa	OmegaT_4.1.3_Beta_L10N_Full
+font	font	OmegaT_4.1.3_Beta_L10N_Full
+Font...	Font...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Force saving password as plain text	Spremanje lozinke u obliku običnoga teksta	OmegaT_4.1.3_Beta_L10N_Full
+format	format	OmegaT_4.1.3_Beta_L10N_Full
+formatted text	oblikovani tekst	OmegaT_4.1.3_Beta_L10N_Full
+Forward in history...	Naprijed po kronologiji...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+free software	softver bez ograničenja	OmegaT_4.1.3_Beta_L10N_Full
+free version	besplatna inačica	OmegaT_4.1.3_Beta_L10N_Full
+fuzzy match	djelomično podudaranje	OmegaT_4.1.3_Beta_L10N_Full
+Fuzzy Matches pane	okno djelomičnih podudaranja	OmegaT_4.1.3_Beta_L10N_Full
+glossary	glosar	OmegaT_4.1.3_Beta_L10N_Full
+glossary entry	natuknica glosara	OmegaT_4.1.3_Beta_L10N_Full
+Glossary/Display Context Description for TBX Glossaries	Glosar/Prikaz konteksta za glosare u formatu TBX	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Glossary/Use Stemming for Glossary Entries	Glosar/Koristi određivanje korijena riječi za natuknice glosara	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+GNU General Public License	Opća javna licenca GNU	OmegaT_4.1.3_Beta_L10N_Full
+GoTo Menu	Izbornik Idi na	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+GPL license	licenca GPL	OmegaT_4.1.3_Beta_L10N_Full
+grammar mistake	gramatička pogreška	OmegaT_4.1.3_Beta_L10N_Full
+handling the server side	rad s poslužiteljima	OmegaT_4.1.3_Beta_L10N_Full
+Help Menu	Izbornik Pomoć	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu
+history	kronologija	OmegaT_4.1.3_Beta_L10N_Full
+hosted service	komercijalni servis	OmegaT_4.1.3_Beta_L10N_Full
+Hunspell	Hunspell	OmegaT_4.1.3_Beta_L10N_Full
+Hunspell dictionary	Hunspellov rječnik	OmegaT_4.1.3_Beta_L10N_Full
+identical translation	istovjetan prijevod	OmegaT_4.1.3_Beta_L10N_Full
+imperative	naredbeni	OmegaT_4.1.3_Beta_L10N_Full
+implied warranty	podrazumijevano jamstvo	OmegaT_4.1.3_Beta_L10N_Full
+in good order	u ispravnome stanju	OmegaT_4.1.3_Beta_L10N_Full
+inconsistency	nedosljednost	OmegaT_4.1.3_Beta_L10N_Full
+inflected word	deklinirana riječ	OmegaT_4.1.3_Beta_L10N_Full
+Insert Match or Selection	Umetni podudaranje ili odabrani sadržaj	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Insert Missing Source Tags	Umetni izvorišne oznake koje nedostaju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Insert Next Missing Tag	Umetni sljedeću oznaku koja nedostaje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Insert Source	Umetni izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Insert the best fuzzy match	Umetni najkvalitetnije podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+inserted automatically	automatski umetnut	OmegaT_4.1.3_Beta_L10N_Full
+Inserting fuzzy matches	Umetanje djelomičnih podudaranja<	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+installation folder	instalacijska mapa	OmegaT_4.1.3_Beta_L10N_Full
+interface with the server	povezati se s poslužiteljem	OmegaT_4.1.3_Beta_L10N_Full
+introductory chapter	uvodno poglavlje	OmegaT_4.1.3_Beta_L10N_Full
+Java	programski jezik Java	OmegaT_4.1.3_Beta_L10N_Full
+Java Virtual machine	Java Virtual Machine	OmegaT_4.1.3_Beta_L10N_Full
+key behavior	funkcionalnost tipki	OmegaT_4.1.3_Beta_L10N_Full
+keyboard shortcut	tipkovni prečac	OmegaT_4.1.3_Beta_L10N_Full
+keyevent	kombinacija tipki	OmegaT_4.1.3_Beta_L10N_Full
+keystroke	tipkovna radnja	OmegaT_4.1.3_Beta_L10N_Full
+keyword	ključna riječ	OmegaT_4.1.3_Beta_L10N_Full
+keyword index	kazalo ključnih riječi	OmegaT_4.1.3_Beta_L10N_Full
+language	jezik	OmegaT_4.1.3_Beta_L10N_Full
+Language Checker	Jezična provjera	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+language code	oznaka jezika	OmegaT_4.1.3_Beta_L10N_Full
+language pair	jezični par	OmegaT_4.1.3_Beta_L10N_Full
+language settings	postavke jezika	OmegaT_4.1.3_Beta_L10N_Full
+Language Tokenizer	Jezični tokenizator	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+LanguageTool	jezični alat LanguageTool	OmegaT_4.1.3_Beta_L10N_Full
+Last Changes...	Zadnje promjene...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu
+latest repository version	najnovija inačica repozitorija	OmegaT_4.1.3_Beta_L10N_Full
+latest server version	najnovija inačica na poslužitelju	OmegaT_4.1.3_Beta_L10N_Full
+latest version	najnovija inačica	OmegaT_4.1.3_Beta_L10N_Full
+Leave the segment empty	Ostavi prazni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Left	strelica lijevo	OmegaT_4.1.3_Beta_L10N_Full
+left panel	lijevi dio prozora	OmegaT_4.1.3_Beta_L10N_Full
+left-click	pritisak lijevom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full
+left-click	pritisnuti lijevom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full
+legal notices	pravne napomene	OmegaT_4.1.3_Beta_L10N_Full
+line	redak	OmegaT_4.1.3_Beta_L10N_Full
+line break	prijelom retka	OmegaT_4.1.3_Beta_L10N_Full
+line breaks	prijelomi redaka	OmegaT_4.0.1_Beta_L10N_Full
+link	poveznica	OmegaT_4.1.3_Beta_L10N_Full
+Linux	sustav Linux	OmegaT_4.1.3_Beta_L10N_Full
+loading	učitavanje	OmegaT_4.1.3_Beta_L10N_Full
+local change	lokalna izmjena	OmegaT_4.1.3_Beta_L10N_Full
+local computer	lokalno računalo	OmegaT_4.1.3_Beta_L10N_Full
+local copy	lokalna kopija	OmegaT_4.1.3_Beta_L10N_Full
+local file	lokalna datoteka	OmegaT_4.1.3_Beta_L10N_Full
+local folder	lokalna mapa	OmegaT_4.1.3_Beta_L10N_Full
+local network	lokalna mreža	OmegaT_4.1.3_Beta_L10N_Full
+local repository copy	lokalna kopija repozitorija	OmegaT_4.1.3_Beta_L10N_Full
+local version	lokalna inačica	OmegaT_4.1.3_Beta_L10N_Full
+log	zapisnik	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu
+Log...	Zapisnik...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu
+login	prijaviti se	OmegaT_4.1.3_Beta_L10N_Full
+LTR	pisanje slijeva nadesno	OmegaT_4.1.3_Beta_L10N_Full
+Mac	sustav Mac	OmegaT_4.1.3_Beta_L10N_Full
+machine translation	strojni prijevod	OmegaT_4.1.3_Beta_L10N_Full; as a machine-translated segment
+machine translation	strojno prevođenje	OmegaT_4.1.3_Beta_L10N_Full; in general
+macro	makroalat	OmegaT_4.1.3_Beta_L10N_Full
+main dialog	glavni dijaloški okvir	OmegaT_4.0.1_Beta_L10N_Full
+main menu	glavni izbornik	OmegaT_4.0.1_Beta_L10N_Full
+main menu	glavni izbornik	OmegaT_4.1.3_Beta_L10N_Full
+main window	glavni prozor	OmegaT_4.1.3_Beta_L10N_Full
+manual	priručnik	OmegaT_4.1.3_Beta_L10N_Full
+Mark Auto-Populated Segments	Označi automatski upisane segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Mark Bidirectional Algorithm Control Characters	Označi dvosmjerne kontrolne znakove algoritama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Mark Non-breakable Spaces	Označi razmake koji ostavljaju znakove u istome retku	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu [?]
+Mark Non-Unique Segments	Označi višekratne segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Mark Segments with Notes	Označi segmente s bilješkama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu [sa „s” ili bez „s”?]
+Mark Translated Segments	Označi prevedene segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Mark Untranslated Segments	Označi neprevedene segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Mark Whitespace	Označi bjeline	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+marked	označen	OmegaT_4.1.3_Beta_L10N_Full
+marked accordingly	odgovarajuće označen	OmegaT_4.1.3_Beta_L10N_Full
+match	podudaranje	OmegaT_4.1.3_Beta_L10N_Full
+Match Statistics	Statistika podudaranja	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu
+Match Statistics per File	Statistika podudaranja po datotekama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu
+member of the team	član tima	OmegaT_4.1.3_Beta_L10N_Full
+menu item	stavka izbornika	OmegaT_4.1.3_Beta_L10N_Full
+menu item code	kôd stavke izbornika	OmegaT_4.1.3_Beta_L10N_Full
+MERCHANTABILITY	TRŽIŠNI POTENCIJAL	OmegaT_4.1.3_Beta_L10N_Full
+message window	prozor za poruke	OmegaT_4.1.3_Beta_L10N_Full
+missing tag	oznaka teksta koja nedostaje	OmegaT_4.1.3_Beta_L10N_Full
+modification	izmjena	OmegaT_4.1.3_Beta_L10N_Full
+Modification Info/Display All	Informacije o izmjenama/Prikaz svega	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Modification Info/Display None	Informacije o izmjenama/Bez prikaza	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+Modification Info/Display Selected	Informacije o izmjenama/Prikaz odabranoga	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+modifier	modifikator	OmegaT_4.1.3_Beta_L10N_Full
+move to inside segment	premještanje u segment	OmegaT_4.1.3_Beta_L10N_Full
+MT service	servis za strojno prevođenje	OmegaT_4.1.3_Beta_L10N_Full
+multi-paradigm language	jezik s više paradigmi	OmegaT_4.1.3_Beta_L10N_Full
+New	Novi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Next Note	Sljedeća bilješka	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [napomena?]
+Next Segment	Sljedeći segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+Next Translated Segment	Sljedeći prevedeni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+Next Unique Segment	Sljedeći jednokratni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [jedinstven ili unikatan?]
+Next Untranslated Segment	Sljedeći neprevedeni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+next word	sljedeća riječ	OmegaT_4.1.3_Beta_L10N_Full
+non-breakable space	razmak koji ostavlja znakove u istome retku	[?] OmegaT_4.1.3_Beta_L10N_Full
+non-unique segment	višekratni segment	OmegaT_4.0.1_Beta_L10N_Full
+object model	objektni model	OmegaT_4.1.3_Beta_L10N_Full
+object-oriented	objektno orijentiran	OmegaT_4.1.3_Beta_L10N_Full
+offending segment	neprikladni segment	OmegaT_4.1.3_Beta_L10N_Full
+OmegaT file	datoteka programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full
+OmegaT project	projekt programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full [?]
+omission	omaška	OmegaT_4.1.3_Beta_L10N_Full
+on a volunteer basis	volonterski	OmegaT_4.1.3_Beta_L10N_Full
+on the web	na webu	OmegaT_4.1.3_Beta_L10N_Full
+Open	Otvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Open Project	Otvaranje projekta	OmegaT_4.1.3_Beta_L10N_Full
+Open Recent Project	Otvori nedavni projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+open-source domain	domena otvorenoga kôda	OmegaT_4.1.3_Beta_L10N_Full
+operating system	operacijski sustav	OmegaT_4.1.3_Beta_L10N_Full
+operation	operacija	OmegaT_4.1.3_Beta_L10N_Full
+Options	Mogućnosti	OmegaT_4.1.3_Beta_L10N_Full
+Options Menu	Izbornik Mogućnosti	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+original document	izvorni dokument	OmegaT_4.1.3_Beta_L10N_Full
+original document	izvorni dokument	OmegaT_4.1.3_Beta_L10N_Full
+package	paket	OmegaT_4.1.3_Beta_L10N_Full
+pane	okno	OmegaT_4.1.3_Beta_L10N_Full
+paragraph	odlomak	OmegaT_4.1.3_Beta_L10N_Full
+paragraph segmentation	segmentacija po odlomcima	OmegaT_4.0.1_Beta_L10N_Full
+password	lozinka	OmegaT_4.1.3_Beta_L10N_Full
+paste	zalijepiti	OmegaT_4.1.3_Beta_L10N_Full
+personal preferences	vlastiti odabir	OmegaT_4.1.3_Beta_L10N_Full
+PgDn	Page Down	OmegaT_4.1.3_Beta_L10N_Full
+PgUp	Page Up	OmegaT_4.1.3_Beta_L10N_Full
+plain text	obični tekst	OmegaT_4.1.3_Beta_L10N_Full
+plain text file	datoteka običnoga teksta	OmegaT_4.0.1_Beta_L10N_Full
+plugin	dodatni modul	OmegaT_4.1.3_Beta_L10N_Full
+plural form	množinski oblik	OmegaT_4.0.1_Beta_L10N_Full
+preferences folder	mapa korisničkih postavki	OmegaT_4.1.3_Beta_L10N_Full
+prefix	prefiks	OmegaT_4.1.3_Beta_L10N_Full
+Previous Note	Prethodna bilješka	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [napomena?]
+previous pane	prethodno okno	OmegaT_4.1.3_Beta_L10N_Full
+Previous Segment	Prethodni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+previous segment	prethodni segment	OmegaT_4.1.3_Beta_L10N_Full
+print out	ispisati	OmegaT_4.1.3_Beta_L10N_Full
+private SVN server	privatni poslužitelj SVN-a	OmegaT_4.1.3_Beta_L10N_Full
+programming style	stil programiranja	OmegaT_4.1.3_Beta_L10N_Full
+programming tool	alat za programiranje	OmegaT_4.1.3_Beta_L10N_Full
+Project	Projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+project	projekt	OmegaT_4.1.3_Beta_L10N_Full
+project administrator	administrator projekta	OmegaT_4.1.3_Beta_L10N_Full
+project contents	sadržaji projekta	OmegaT_4.1.3_Beta_L10N_Full
+Project Files...	Datoteke projekta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+project folder	mapa projekta	OmegaT_4.1.3_Beta_L10N_Full
+project manager	voditelj projekta	OmegaT_4.1.3_Beta_L10N_Full
+Project Menu	Izbornik Projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+project properties	svojstva projekta	OmegaT_4.1.3_Beta_L10N_Full
+Project Properties	svojstva projekta	OmegaT_4.1.3_Beta_L10N_Full
+Project Properties window	prozor svojstava projekta	OmegaT_4.1.3_Beta_L10N_Full
+ProjectLocker	servis ProjectLocker	OmegaT_4.1.3_Beta_L10N_Full
+Properties...	Svojstva...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Proxy Login...	Prijava za proxy...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+quick tutorial	brzi vodič	OmegaT_4.1.3_Beta_L10N_Full
+Quit	Zatvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Redo Last Action	Ponovi zadnju radnju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Redo Last Action	Ponovi zadnju radnju	OmegaT_4.0.1_Beta_L10N_Full
+Register Identical Translation	Registriraj istovjetan prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+regular expression	regularni izraz	OmegaT_4.1.3_Beta_L10N_Full
+relaunch	ponovno pokrenuti	OmegaT_4.1.3_Beta_L10N_Full
+Reload	Ponovno učitaj	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Remove translation	Ukloni prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Replace with Machine Translation	Zamijeni strojnim prijevodom	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Replace With Match or Selection	Zamijeni podudaranjem ili odabranim sadržajem	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Replace With Source	Zamijeni izvorišnim tekstom	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+report	prijava	OmegaT_4.1.3_Beta_L10N_Full
+reporting bugs	prijavljivanje pogrešaka	OmegaT_4.1.3_Beta_L10N_Full
+repository	repozitorij	OmegaT_4.1.3_Beta_L10N_Full
+repository version	inačica repozitorija	OmegaT_4.1.3_Beta_L10N_Full
+requests for enhancement	zahtjev za poboljšanje programa	OmegaT_4.0.1_Beta_L10N_Full
+requests for enhancements	zahtjevi za poboljšanja programa	OmegaT_4.1.3_Beta_L10N_Full
+resolving the conflicts	rješavanje kolizija	OmegaT_4.1.3_Beta_L10N_Full
+Restore Main Window	Vrati glavni prozor	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Right	strelica desno	OmegaT_4.1.3_Beta_L10N_Full
+right-click	pritisak desnom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full
+right-click	pritisnuti desnom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full
+root word	korijenska riječ	OmegaT_4.0.1_Beta_L10N_Full
+RTL	pisanje zdesna nalijevo	OmegaT_4.1.3_Beta_L10N_Full
+RTL-LTR switch	prebacivanje između pisanja zdesna nalijevo/slijeva nadesno	OmegaT_4.1.3_Beta_L10N_Full
+rule set	skup pravila	OmegaT_4.1.3_Beta_L10N_Full
+rule-based segmentation	segmentacija na temelju pravila	OmegaT_4.1.3_Beta_L10N_Full
+Save	Spremi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Saving and Output...	Spremanje i izlazni rezultati...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+screen shot	slika zaslona	OmegaT_4.1.3_Beta_L10N_Full
+script	skripta	OmegaT_4.1.3_Beta_L10N_Full
+Scripting	Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu
+scripting language	skriptni jezik	OmegaT_4.1.3_Beta_L10N_Full
+Scripting window	prozor Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full
+Scripting window	prozor Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full
+scripts folder	mapa „scripts”	OmegaT_4.1.3_Beta_L10N_Full
+Search and Replace...	Pretraživanje i zamjena...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Search Project...	Pretraživanje projekta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+segment	segment	OmegaT_4.1.3_Beta_L10N_Full
+Segment number...	Segment pod brojem...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+segmentation	segmentacija	OmegaT_4.1.3_Beta_L10N_Full
+segmentation rules	pravila segmentacije	OmegaT_4.1.3_Beta_L10N_Full
+Segmentation...	Segmentacija...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Select Match #1	Odaberi podudaranje br. 1	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Select Match #2	Odaberi podudaranje br. 2	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Select Match #3	Odaberi podudaranje br. 3	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Select Match #4	Odaberi podudaranje br. 4	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Select Match #5	Odaberi podudaranje br. 5	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Select Next Match	Odaberi sljedeće podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Select Previous Match	Odaberi prethodno podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+sensitive file	datoteka s povjerljivim sadržajima	OmegaT_4.1.3_Beta_L10N_Full
+sentence-based segmentation	segmentacija po rečenicama	OmegaT_4.1.3_Beta_L10N_Full
+separate repositories	zasebni repozitoriji	OmegaT_4.1.3_Beta_L10N_Full
+server	poslužitelj	OmegaT_4.1.3_Beta_L10N_Full
+server repository	repozitorij poslužitelja	OmegaT_4.1.3_Beta_L10N_Full
+server version	inačica na poslužitelju	OmegaT_4.1.3_Beta_L10N_Full
+Set empty translation	Ostavi bez prijevoda	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+setting up the environment	postavljanje okruženja	OmegaT_4.1.3_Beta_L10N_Full
+shared material	zajednički materijali	OmegaT_4.1.3_Beta_L10N_Full
+shortcut	prečac	OmegaT_4.1.3_Beta_L10N_Full
+shortcut customization	prilagođavanje prečaca	OmegaT_4.1.3_Beta_L10N_Full
+shortcut definition	definicija prečaca	OmegaT_4.1.3_Beta_L10N_Full
+shortcut definition file	datoteka definicija prečaca	OmegaT_4.1.3_Beta_L10N_Full
+shortcut definition syntax	sintaksa definicije prečaca	OmegaT_4.1.3_Beta_L10N_Full
+similarity threshold	prag sličnosti	OmegaT_4.0.1_Beta_L10N_Full
+similarity threshold	prag sličnosti	OmegaT_4.1.3_Beta_L10N_Full
+simple float	jednostavni decimalni broj	OmegaT_4.0.1_Beta_L10N_Full
+software	softver	OmegaT_4.1.3_Beta_L10N_Full
+source and target languages	izvorišni i odredišni jezik	OmegaT_4.1.3_Beta_L10N_Full
+source folder	izvorišna mapa	OmegaT_4.1.3_Beta_L10N_Full
+source language	izvorišni jezik	OmegaT_4.1.3_Beta_L10N_Full
+Source of Selected Match	Izvorište odabranoga podudaranja	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu
+source segment	izvorišni segment	OmegaT_4.0.1_Beta_L10N_Full
+source segment	izvorišni segment	OmegaT_4.0.1_Beta_L10N_Full
+source text	izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full
+SourceForge	servis SourceForge	OmegaT_4.1.3_Beta_L10N_Full
+SourceForge user	korisnik servisa SourceForge	OmegaT_4.1.3_Beta_L10N_Full
+source-target dictionary	rječnik s izvorišnim i odredišnim parovima	OmegaT_4.1.3_Beta_L10N_Full
+Space	razmaknica	OmegaT_4.1.3_Beta_L10N_Full
+special behavior	posebna funkcija	OmegaT_4.1.3_Beta_L10N_Full
+spell checker	alat za provjeru pravopisa	OmegaT_4.1.3_Beta_L10N_Full
+spell checking	provjera pravopisa	OmegaT_4.1.3_Beta_L10N_Full
+Spell checking...	Provjera pravopisa...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+spellchecker	alat za provjeru pravopisa	OmegaT_4.1.3_Beta_L10N_Full
+spelling mistake	pravopisna pogreška	OmegaT_4.1.3_Beta_L10N_Full
+StarDict	StarDict	OmegaT_4.1.3_Beta_L10N_Full
+StarDict format	format StarDict	OmegaT_4.1.3_Beta_L10N_Full
+stem word	korijenska riječ	OmegaT_4.1.3_Beta_L10N_Full
+stemming	određivanje korijena riječi	OmegaT_4.1.3_Beta_L10N_Full
+stylistic mistake	stilska pogreška	OmegaT_4.1.3_Beta_L10N_Full
+subfolder	podmapa	OmegaT_4.1.3_Beta_L10N_Full
+subject line	polje predmeta poruke	OmegaT_4.1.3_Beta_L10N_Full
+supported language	podržani jezik	OmegaT_4.1.3_Beta_L10N_Full
+SVN	SVN	OmegaT_4.1.3_Beta_L10N_Full
+SVN client	klijent SVN-a	OmegaT_4.1.3_Beta_L10N_Full
+SVN repository	repozitorij SVN-a	OmegaT_4.1.3_Beta_L10N_Full
+SVN server	poslužitelj SVN-a	OmegaT_4.1.3_Beta_L10N_Full
+Switch Case To/Cycle	Promijeni veličinu slova/Izmjenično<	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Switch Case To/Lower Case	Promijeni veličinu slova/Mala slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Switch Case To/Sentence Case	Promijeni veličinu slova/Prvo slovo rečenice veliko	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Switch Case To/Title Case	Promijeni veličinu slova/Velika početna slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Switch Case To/Upper Case	Promijeni veličinu slova/Velika slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+synchronize	usklađivati	OmegaT_4.1.3_Beta_L10N_Full
+system shortcut	prečac sustava	OmegaT_4.1.3_Beta_L10N_Full
+system shortcut	prečac sustava	OmegaT_4.1.3_Beta_L10N_Full
+system-wide	na razini cijeloga sustava	OmegaT_4.1.3_Beta_L10N_Full
+tag	oznaka teksta	OmegaT_4.1.3_Beta_L10N_Full
+tag handling	rad s oznakama teksta	OmegaT_4.1.3_Beta_L10N_Full
+Tag Processing...	Obrada oznaka teksta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+target language	odredišni jezik	OmegaT_4.1.3_Beta_L10N_Full
+target segment	odredišni segment	OmegaT_4.1.3_Beta_L10N_Full
+target text	odredišni tekst	OmegaT_4.0.1_Beta_L10N_Full
+TBX glossary	glosar u formatu TBX	OmegaT_4.1.3_Beta_L10N_Full
+team member	član tima	OmegaT_4.1.3_Beta_L10N_Full
+team of translators	tim prevoditelja	OmegaT_4.1.3_Beta_L10N_Full
+team project	timski projekt	OmegaT_4.1.3_Beta_L10N_Full
+Team...	Tim...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+term	termin	OmegaT_4.1.3_Beta_L10N_Full
+terminology management	upravljanje terminologijom	OmegaT_4.1.3_Beta_L10N_Full
+text area	područje teksta	OmegaT_4.1.3_Beta_L10N_Full
+tokenizer	tokenizator	OmegaT_4.1.3_Beta_L10N_Full
+Tokenizer Behavior	Funkcioniranje tokenizatora	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu
+Tools	Alati	OmegaT_4.1.3_Beta_L10N_Full
+Tools Menu	Izbornik Alati	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu
+top object	glavni objekt	OmegaT_4.1.3_Beta_L10N_Full
+translatable content	prevodivi sadržaj	OmegaT_4.0.1_Beta_L10N_Full
+translated file	datoteka prijevoda	OmegaT_4.1.3_Beta_L10N_Full
+translated segment	prevedeni segment	OmegaT_4.1.3_Beta_L10N_Full
+translation	prevođenje	OmegaT_4.1.3_Beta_L10N_Full
+translation	prijevod	OmegaT_4.1.3_Beta_L10N_Full
+translation agency	prevoditeljska agencija	OmegaT_4.1.3_Beta_L10N_Full
+translation consistency	ujednačenost prijevoda	OmegaT_4.1.3_Beta_L10N_Full
+translation material	prijevodni materijali	OmegaT_4.1.3_Beta_L10N_Full
+translation memory	prijevodna memorija	OmegaT_4.1.3_Beta_L10N_Full
+translation memory file	datoteka prijevodne memorije	OmegaT_4.1.3_Beta_L10N_Full
+translation project	prijevodni projekt	OmegaT_4.1.3_Beta_L10N_Full
+translation project	prijevodni projekt	OmegaT_4.1.3_Beta_L10N_Full
+TransTips	Savjetnik	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+TransTips/Enable Transtips	Savjetnik/Uključi Savjetnika	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Undo Last Action	Poništi zadnju radnju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Undo Last Action	Poništi zadnju radnju	OmegaT_4.0.1_Beta_L10N_Full
+unpack	raspakirati	OmegaT_4.1.3_Beta_L10N_Full
+untar	raspakirati	OmegaT_4.1.3_Beta_L10N_Full
+untranslated segment	neprevedeni segment	OmegaT_4.1.3_Beta_L10N_Full
+updated version	ažurirana inačica	OmegaT_4.1.3_Beta_L10N_Full
+up-to-date	ažuriran	OmegaT_4.1.3_Beta_L10N_Full
+URL	URL	OmegaT_4.1.3_Beta_L10N_Full
+URL address	URL adresa	OmegaT_4.1.3_Beta_L10N_Full
+Use as Default Translation	Koristi kao zadani prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu
+Use TAB To Advance	TAB za pomicanje naprijed	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+Use Terms Appearing Separately in the Source Text	Termini mogu biti razdvojeni u izvorišnome tekstu	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu [?]
+user	korisnik	OmegaT_4.1.3_Beta_L10N_Full
+user file	korisnička datoteka	OmegaT_4.1.3_Beta_L10N_Full
+user group	korisnička skupina	OmegaT_4.1.3_Beta_L10N_Full
+user interface	korisničko sučelje	OmegaT_4.1.3_Beta_L10N_Full
+User Manual	Priručnik	OmegaT_4.1.3_Beta_L10N_Full
+user manual	priručnik	OmegaT_4.1.3_Beta_L10N_Full
+User Manual...	Priručnik...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu
+user name	korisničko ime	OmegaT_4.1.3_Beta_L10N_Full
+user support	korisnička podrška	OmegaT_4.1.3_Beta_L10N_Full
+Validate Tags	Provjera valjanosti oznaka teksta	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu
+Validate Tags for Current Document	Provjera valjanosti oznaka teksta za tekući dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu
+VCS client	klijent VCS-a	OmegaT_4.1.3_Beta_L10N_Full
+version	inačica	OmegaT_4.1.3_Beta_L10N_Full
+version control	nadziranje inačica	OmegaT_4.1.3_Beta_L10N_Full
+version control system	sustav nadziranja inačica	OmegaT_4.1.3_Beta_L10N_Full
+view	prikaz	OmegaT_4.1.3_Beta_L10N_Full
+View Menu	Izbornik Prikaz	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu
+View...	Prikaz...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu
+warranty	jamstvo	OmegaT_4.1.3_Beta_L10N_Full
+weakly typed	slabe tipizacije	OmegaT_4.1.3_Beta_L10N_Full
+web site	web stranice	OmegaT_4.1.3_Beta_L10N_Full
+whitespace	bjelina	OmegaT_4.1.3_Beta_L10N_Full
+Windows	sustav Windows	OmegaT_4.1.3_Beta_L10N_Full
+working copy	radna kopija	OmegaT_4.1.3_Beta_L10N_Full
 dialog window	dijaloški prozor
 converting numbers	pretvaranje brojeva
 convert numbers	pretvarati brojeve
