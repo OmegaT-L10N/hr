@@ -1,0 +1,1732 @@
+About...	O programu...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
+access	pristup	OmegaT_4.1.3_Beta_L10N_Full	IT
+Access Configuration Folder	Pristup konfiguracijskoj mapi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Access Project Contents/Current Source Document	Pristup sadržajima projekta/Tekući izvorišni dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Current Target Document	Pristup sadržajima projekta/Tekući odredišni dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Dictionaries	Pristup sadržajima projekta/Rječnici	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Glossaries	Pristup sadržajima projekta/Glosari	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Root	Pristup sadržajima projekta/Ishodišna mapa	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Source Files	Pristup sadržajima projekta/Izvorišne datoteke	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Target Files	Pristup sadržajima projekta/Odredišne datoteke	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Access Project Contents/Writeable Glossary	Pristup sadržajima projekta/Zapisivi glosar	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+access rights	prava pristupa	OmegaT_4.1.3_Beta_L10N_Full	IT
+action	radnja	OmegaT_4.1.3_Beta_L10N_Full	IT
+active segment	otvoreni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+Add	Dodaj	OmegaT_4.1.3_Beta_L10N_Full	IT
+Add	Dodaj	OmegaT_4.1.3_Beta_L10N_Full	IT
+additional rules	dodatna pravila	OmegaT_4.1.3_Beta_L10N_Full	IT
+administrator	administrator	OmegaT_4.1.3_Beta_L10N_Full	IT
+administrator rights	administratorska prava	OmegaT_4.0.1_Beta_L10N_Full	IT
+advanced user	napredni korisnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+alternative translation	alternativni prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
+Always Confirm Quit	Potvrda zatvaranja programa	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Apache server	poslužitelj Apache	OmegaT_4.1.3_Beta_L10N_Full	IT
+application file	programska datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+assigning the access rights	dodjela prava pristupa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Auto-completer	automatsko dovršavanje upisa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Auto-completer dialog box	dijaloški okvir automatskoga dovršavanja upisa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Auto-completion	Automatsko dovršavanje upisa	OmegaT_4.0.1_Beta_L10N_Full; OmegaT - Options Menu	IT
+auto-completion	automatsko dovršavanje upisa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Auto-completion/Auto-text...	Automatsko dovršavanje upisa/Automatski tekst...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Auto-completion/Character Table...	Automatsko dovršavanje upisa/Tablica znakova...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Auto-completion/Glossary...	Automatsko dovršavanje upisa/Glosar...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Auto-completion/Show Relevant Suggestions Automatically	Automatsko dovršavanje upisa/Automatski prikaz odgovarajućih prijedloga	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+auto-populated segment	automatski upisan segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+Auto-text	Automatski tekst	OmegaT_4.0.1_Beta_L10N_Full; OmegaT - Options Menu	IT
+auto-text	automatski tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
+available	dostupan	OmegaT_4.1.3_Beta_L10N_Full	IT
+Back in history...	Natrag po kronologiji...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+beginning of the active segment	početak otvorenoga segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
+beginning of the line in the segment	početak retka u segmentu	OmegaT_4.1.3_Beta_L10N_Full	IT
+beginning of the segment	početak segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
+bilingual dictionary	dvojezični rječnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+bottom panel	donji dio prozora	OmegaT_4.1.3_Beta_L10N_Full	IT
+bug	pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
+bug report	prijava pogreške	OmegaT_4.0.1_Beta_L10N_Full	IT
+bug report	prijava pogreške	OmegaT_4.1.3_Beta_L10N_Full	IT
+by default	prema zadanim postavkama	OmegaT_4.1.3_Beta_L10N_Full	IT
+CAT application	program za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
+CAT tool	alat za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
+chapter	poglavlje	OmegaT_4.1.3_Beta_L10N_Full	IT
+char	znak	OmegaT_4.1.3_Beta_L10N_Full	IT
+Character Table	Tablica znakova	OmegaT_4.0.1_Beta_L10N_Full	IT
+character table	tablica znakova	OmegaT_4.1.3_Beta_L10N_Full	IT
+check box	potvrdni kvadratić	OmegaT_4.1.3_Beta_L10N_Full	IT
+checkbox	potvrdni kvadratić	OmegaT_4.1.3_Beta_L10N_Full	IT
+checked-out contents	pripremljeni sadržaji	OmegaT_4.1.3_Beta_L10N_Full	IT
+checked-out material	pripremljeni materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
+checkout	završetak pripreme projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+checkout folder	mapa pripremljenoga projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+client	naručitelj	OmegaT_4.1.3_Beta_L10N_Full	IT
+clipboard	međuspremnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Close	Zatvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+code	kôd	OmegaT_4.1.3_Beta_L10N_Full	IT
+collaborative translation	timsko prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
+command	naredba	OmegaT_4.1.3_Beta_L10N_Full	IT
+command line	naredbeni redak	OmegaT_4.1.3_Beta_L10N_Full	IT
+command line mode	način rada naredbenim retkom	OmegaT_4.1.3_Beta_L10N_Full	IT
+command line parameters	parametri naredbenoga retka	OmegaT_4.1.3_Beta_L10N_Full	IT
+comment line	redak komentara	OmegaT_4.1.3_Beta_L10N_Full	IT
+commit	predaja projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+commit command	naredba za predaju projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+common material	zajednički materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
+common project	zajednički projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
+computer	računalo	OmegaT_4.1.3_Beta_L10N_Full	IT
+computer-aided translation tool	alat za računalno potpomognuto prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
+confidentiality	povjerljivost	OmegaT_4.1.3_Beta_L10N_Full	IT
+configuration file	konfiguracijska datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+configuration folder	konfiguracijska mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+conflicting changes	neusklađene promjene	OmegaT_4.1.3_Beta_L10N_Full	IT
+consecutive spaces	uzastopni razmaci	OmegaT_4.1.3_Beta_L10N_Full	IT
+contents of the checkout folder	sadržaj mape pripremljenoga projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+contextual suggestion	prijedlog u kontekstu	OmegaT_4.1.3_Beta_L10N_Full	IT
+copied file	kopirana datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+copy	kopirati	OmegaT_4.1.3_Beta_L10N_Full	IT
+Copy Files to Source Folder...	Kopiraj datoteke u izvorišnu mapu...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+copyright	autorska prava	OmegaT_4.1.3_Beta_L10N_Full	IT
+correct folder	odgovarajuća mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Create Alternative Translation	Izradi alternativni prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Create Current Translated Documents	Izradi tekuće prevedene dokumente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Create Glossary Entry	Dodavanje termina u glosar	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Create Translated Documents	Izradi prevedene dokumente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+creating a repository	izrada repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
+credentials	pristupni podaci	OmegaT_4.1.3_Beta_L10N_Full	IT
+current contents	tekući sadržaj	OmegaT_4.1.3_Beta_L10N_Full	IT
+current document	tekući dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
+current project	tekući projekt	OmegaT_4.0.1_Beta_L10N_Full	IT
+current segment	tekući segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+current source	tekući izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
+cursor	pokazivač miša	OmegaT_4.1.3_Beta_L10N_Full	IT
+Custom Colours...	Prilagođene boje...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+customize	prilagoditi	OmegaT_4.1.3_Beta_L10N_Full	IT
+cut	izrezati	OmegaT_4.1.3_Beta_L10N_Full	IT
+data shared	zajednički podaci	OmegaT_4.1.3_Beta_L10N_Full	IT
+decimal character	decimalni znak	OmegaT_4.0.1_Beta_L10N_Full	IT
+default OmegaT shortcuts	zadani prečaci programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full	IT
+default shortcut	zadani prečac	OmegaT_4.1.3_Beta_L10N_Full	IT
+default translation	zadani prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
+detail	pojedinost	OmegaT_4.1.3_Beta_L10N_Full	IT
+developer	programer	OmegaT_4.1.3_Beta_L10N_Full	IT
+developer group	programerska skupina	OmegaT_4.1.3_Beta_L10N_Full	IT
+development team	razvojni tim	OmegaT_4.1.3_Beta_L10N_Full	IT
+dialog	dijaloški okvir	OmegaT_4.1.3_Beta_L10N_Full	IT
+dict file	rječnička datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+dictionary	rječnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Dictionary feature	funkcija rječnika	OmegaT_4.1.3_Beta_L10N_Full	IT
+direct control	izravna kontrola	OmegaT_4.1.3_Beta_L10N_Full	IT
+Display Source Segments	Prikaži izvorišne segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+document	dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
+Download MediaWiki Page...	Preuzmi stranicu MediaWiki...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Download Team Project	Preuzimanje timskoga projekta	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+downloads page	stranica za preuzimanja	OmegaT_4.1.3_Beta_L10N_Full	IT
+draft	radna inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+dynamic language	dinamički jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Edit Menu	Izbornik Obrada	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+editable segment	segment koji je moguće obrađivati	OmegaT_4.1.3_Beta_L10N_Full	IT
+Editing behavior	Funkcioniranje obrade	OmegaT_4.0.1_Beta_L10N_Full	IT
+editing behavior	funkcioniranje obrade	OmegaT_4.1.3_Beta_L10N_Full	IT
+Editing Behavior...	Funkcioniranje obrade...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Editing behaviour	Funkcioniranje obrade	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+editing field	polje za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
+editor	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
+Editor	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
+editor pane	okno za obradu	OmegaT_4.1.3_Beta_L10N_Full	IT
+empty folder	prazna mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+empty line	prazni redak	OmegaT_4.1.3_Beta_L10N_Full	IT
+Empty translation	Bez prijevoda	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+encoding set	kodni skup	OmegaT_4.1.3_Beta_L10N_Full	IT
+end of the active segment	kraj otvorenoga segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
+end of the line in the segment	kraj retka u segmentu	OmegaT_4.1.3_Beta_L10N_Full	IT
+end of the segment	kraj segmenta	OmegaT_4.1.3_Beta_L10N_Full	IT
+English language	engleski jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+environment	okruženje	OmegaT_4.1.3_Beta_L10N_Full	IT
+error	pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
+existing translation	postojeći prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
+Export Selection	Izvezi odabrano	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+extension	datotečni nastavak	OmegaT_4.1.3_Beta_L10N_Full	IT
+external service	vanjski servis	OmegaT_4.1.3_Beta_L10N_Full	IT
+External TMXs...	Vanjske datoteke u formatu TMX...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+F#	funkcijska tipka F s odgovarajućim brojem	OmegaT_4.1.3_Beta_L10N_Full	IT
+FAQ	Česta pitanja	OmegaT_4.1.3_Beta_L10N_Full	IT
+field	polje	OmegaT_4.1.3_Beta_L10N_Full	IT
+file a bug report	prijaviti pogrešku	OmegaT_4.1.3_Beta_L10N_Full	IT
+file filter	datotečni filtar	OmegaT_4.1.3_Beta_L10N_Full	IT
+file filtering	filtriranje datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+file filtering rules	pravila filtriranja datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+File Filters	Datotečni filtri	OmegaT_4.0.1_Beta_L10N_Full	IT
+File Filters...	Datotečni filtri...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+file format	datotečni format	OmegaT_4.1.3_Beta_L10N_Full	IT
+final product	konačni proizvod	OmegaT_4.1.3_Beta_L10N_Full	IT
+financial support	financijska potpora	OmegaT_4.1.3_Beta_L10N_Full	IT
+first-class functions	funkcije prvoga reda	OmegaT_4.1.3_Beta_L10N_Full	IT
+FITNESS FOR A PARTICULAR PURPOSE	PRIKLADNOST ZA NEKU ODREĐENU NAMJENU	OmegaT_4.1.3_Beta_L10N_Full	IT
+folder	mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+font	font	OmegaT_4.1.3_Beta_L10N_Full	IT
+Font...	Font...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Force saving password as plain text	Spremanje lozinke u obliku običnoga teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
+format	format	OmegaT_4.1.3_Beta_L10N_Full	IT
+formatted text	oblikovani tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
+Forward in history...	Naprijed po kronologiji...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+free software	softver bez ograničenja	OmegaT_4.1.3_Beta_L10N_Full	IT
+free version	besplatna inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+fuzzy match	djelomično podudaranje	OmegaT_4.1.3_Beta_L10N_Full	IT
+Fuzzy Matches pane	okno djelomičnih podudaranja	OmegaT_4.1.3_Beta_L10N_Full	IT
+glossary	glosar	OmegaT_4.1.3_Beta_L10N_Full	IT
+glossary entry	natuknica glosara	OmegaT_4.1.3_Beta_L10N_Full	IT
+Glossary/Display Context Description for TBX Glossaries	Glosar/Prikaz konteksta za glosare u formatu TBX	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Glossary/Use Stemming for Glossary Entries	Glosar/Koristi određivanje korijena riječi za natuknice glosara	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+GNU General Public License	Opća javna licenca GNU	OmegaT_4.1.3_Beta_L10N_Full	IT
+GoTo Menu	Izbornik Idi na	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+GPL license	licenca GPL	OmegaT_4.1.3_Beta_L10N_Full	IT
+grammar mistake	gramatička pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
+handling the server side	rad s poslužiteljima	OmegaT_4.1.3_Beta_L10N_Full	IT
+Help Menu	Izbornik Pomoć	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
+history	kronologija	OmegaT_4.1.3_Beta_L10N_Full	IT
+hosted service	komercijalni servis	OmegaT_4.1.3_Beta_L10N_Full	IT
+Hunspell	Hunspell	OmegaT_4.1.3_Beta_L10N_Full	IT
+Hunspell dictionary	Hunspellov rječnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+identical translation	istovjetan prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
+imperative	naredbeni	OmegaT_4.1.3_Beta_L10N_Full	IT
+implied warranty	podrazumijevano jamstvo	OmegaT_4.1.3_Beta_L10N_Full	IT
+in good order	u ispravnome stanju	OmegaT_4.1.3_Beta_L10N_Full	IT
+inconsistency	nedosljednost	OmegaT_4.1.3_Beta_L10N_Full	IT
+inflected word	deklinirana riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
+Insert Match or Selection	Umetni podudaranje ili odabrani sadržaj	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Insert Missing Source Tags	Umetni izvorišne oznake koje nedostaju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Insert Next Missing Tag	Umetni sljedeću oznaku koja nedostaje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Insert Source	Umetni izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Insert the best fuzzy match	Umetni najkvalitetnije podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+inserted automatically	automatski umetnut	OmegaT_4.1.3_Beta_L10N_Full	IT
+Inserting fuzzy matches	Umetanje djelomičnih podudaranja<	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+installation folder	instalacijska mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+interface with the server	povezati se s poslužiteljem	OmegaT_4.1.3_Beta_L10N_Full	IT
+introductory chapter	uvodno poglavlje	OmegaT_4.1.3_Beta_L10N_Full	IT
+Java	programski jezik Java	OmegaT_4.1.3_Beta_L10N_Full	IT
+Java Virtual machine	Java Virtual Machine	OmegaT_4.1.3_Beta_L10N_Full	IT
+key behavior	funkcionalnost tipki	OmegaT_4.1.3_Beta_L10N_Full	IT
+keyboard shortcut	tipkovni prečac	OmegaT_4.1.3_Beta_L10N_Full	IT
+keyevent	kombinacija tipki	OmegaT_4.1.3_Beta_L10N_Full	IT
+keystroke	tipkovna radnja	OmegaT_4.1.3_Beta_L10N_Full	IT
+keyword	ključna riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
+keyword index	kazalo ključnih riječi	OmegaT_4.1.3_Beta_L10N_Full	IT
+language	jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Language Checker	Jezična provjera	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+language code	oznaka jezika	OmegaT_4.1.3_Beta_L10N_Full	IT
+language pair	jezični par	OmegaT_4.1.3_Beta_L10N_Full	IT
+language settings	postavke jezika	OmegaT_4.1.3_Beta_L10N_Full	IT
+Language Tokenizer	Jezični tokenizator	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+LanguageTool	jezični alat LanguageTool	OmegaT_4.1.3_Beta_L10N_Full	IT
+Last Changes...	Zadnje promjene...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
+latest repository version	najnovija inačica repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
+latest server version	najnovija inačica na poslužitelju	OmegaT_4.1.3_Beta_L10N_Full	IT
+latest version	najnovija inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+Leave the segment empty	Ostavi prazni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Left	strelica lijevo	OmegaT_4.1.3_Beta_L10N_Full	IT
+left panel	lijevi dio prozora	OmegaT_4.1.3_Beta_L10N_Full	IT
+left-click	pritisak lijevom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
+left-click	pritisnuti lijevom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
+legal notices	pravne napomene	OmegaT_4.1.3_Beta_L10N_Full	IT
+line	redak	OmegaT_4.1.3_Beta_L10N_Full	IT
+line break	prijelom retka	OmegaT_4.1.3_Beta_L10N_Full	IT
+line breaks	prijelomi redaka	OmegaT_4.0.1_Beta_L10N_Full	IT
+link	poveznica	OmegaT_4.1.3_Beta_L10N_Full	IT
+Linux	sustav Linux	OmegaT_4.1.3_Beta_L10N_Full	IT
+loading	učitavanje	OmegaT_4.1.3_Beta_L10N_Full	IT
+local change	lokalna izmjena	OmegaT_4.1.3_Beta_L10N_Full	IT
+local computer	lokalno računalo	OmegaT_4.1.3_Beta_L10N_Full	IT
+local copy	lokalna kopija	OmegaT_4.1.3_Beta_L10N_Full	IT
+local file	lokalna datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+local folder	lokalna mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+local network	lokalna mreža	OmegaT_4.1.3_Beta_L10N_Full	IT
+local repository copy	lokalna kopija repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
+local version	lokalna inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+log	zapisnik	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
+Log...	Zapisnik...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
+login	prijaviti se	OmegaT_4.1.3_Beta_L10N_Full	IT
+LTR	pisanje slijeva nadesno	OmegaT_4.1.3_Beta_L10N_Full	IT
+Mac	sustav Mac	OmegaT_4.1.3_Beta_L10N_Full	IT
+machine translation	strojni prijevod	OmegaT_4.1.3_Beta_L10N_Full; as a machine-translated segment	IT
+machine translation	strojno prevođenje	OmegaT_4.1.3_Beta_L10N_Full; in general	IT
+macro	makroalat	OmegaT_4.1.3_Beta_L10N_Full	IT
+main dialog	glavni dijaloški okvir	OmegaT_4.0.1_Beta_L10N_Full	IT
+main menu	glavni izbornik	OmegaT_4.0.1_Beta_L10N_Full	IT
+main menu	glavni izbornik	OmegaT_4.1.3_Beta_L10N_Full	IT
+main window	glavni prozor	OmegaT_4.1.3_Beta_L10N_Full	IT
+manual	priručnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Mark Auto-Populated Segments	Označi automatski upisane segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Mark Bidirectional Algorithm Control Characters	Označi dvosmjerne kontrolne znakove algoritama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Mark Non-breakable Spaces	Označi razmake koji ostavljaju znakove u istome retku	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu [?]	IT
+Mark Non-Unique Segments	Označi višekratne segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Mark Segments with Notes	Označi segmente s bilješkama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu [sa „s” ili bez „s”?]	IT
+Mark Translated Segments	Označi prevedene segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Mark Untranslated Segments	Označi neprevedene segmente	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Mark Whitespace	Označi bjeline	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+marked	označen	OmegaT_4.1.3_Beta_L10N_Full	IT
+marked accordingly	odgovarajuće označen	OmegaT_4.1.3_Beta_L10N_Full	IT
+match	podudaranje	OmegaT_4.1.3_Beta_L10N_Full	IT
+Match Statistics	Statistika podudaranja	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
+Match Statistics per File	Statistika podudaranja po datotekama	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
+member of the team	član tima	OmegaT_4.1.3_Beta_L10N_Full	IT
+menu item	stavka izbornika	OmegaT_4.1.3_Beta_L10N_Full	IT
+menu item code	kôd stavke izbornika	OmegaT_4.1.3_Beta_L10N_Full	IT
+MERCHANTABILITY	TRŽIŠNI POTENCIJAL	OmegaT_4.1.3_Beta_L10N_Full	IT
+message window	prozor za poruke	OmegaT_4.1.3_Beta_L10N_Full	IT
+missing tag	oznaka teksta koja nedostaje	OmegaT_4.1.3_Beta_L10N_Full	IT
+modification	izmjena	OmegaT_4.1.3_Beta_L10N_Full	IT
+Modification Info/Display All	Informacije o izmjenama/Prikaz svega	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Modification Info/Display None	Informacije o izmjenama/Bez prikaza	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+Modification Info/Display Selected	Informacije o izmjenama/Prikaz odabranoga	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+modifier	modifikator	OmegaT_4.1.3_Beta_L10N_Full	IT
+move to inside segment	premještanje u segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+MT service	servis za strojno prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
+multi-paradigm language	jezik s više paradigmi	OmegaT_4.1.3_Beta_L10N_Full	IT
+New	Novi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Next Note	Sljedeća bilješka	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [napomena?]	IT
+Next Segment	Sljedeći segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+Next Translated Segment	Sljedeći prevedeni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+Next Unique Segment	Sljedeći jednokratni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [jedinstven ili unikatan?]	IT
+Next Untranslated Segment	Sljedeći neprevedeni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+next word	sljedeća riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
+non-breakable space	razmak koji ostavlja znakove u istome retku	[?] OmegaT_4.1.3_Beta_L10N_Full	IT
+non-unique segment	višekratni segment	OmegaT_4.0.1_Beta_L10N_Full	IT
+object model	objektni model	OmegaT_4.1.3_Beta_L10N_Full	IT
+object-oriented	objektno orijentiran	OmegaT_4.1.3_Beta_L10N_Full	IT
+offending segment	neprikladni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+OmegaT file	datoteka programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full	IT
+OmegaT project	projekt programa OmegaT	OmegaT_4.1.3_Beta_L10N_Full [?]	IT
+omission	omaška	OmegaT_4.1.3_Beta_L10N_Full	IT
+on a volunteer basis	volonterski	OmegaT_4.1.3_Beta_L10N_Full	IT
+on the web	na webu	OmegaT_4.1.3_Beta_L10N_Full	IT
+Open	Otvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Open Project	Otvaranje projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Open Recent Project	Otvori nedavni projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+open-source domain	domena otvorenoga kôda	OmegaT_4.1.3_Beta_L10N_Full	IT
+operating system	operacijski sustav	OmegaT_4.1.3_Beta_L10N_Full	IT
+operation	operacija	OmegaT_4.1.3_Beta_L10N_Full	IT
+Options	Mogućnosti	OmegaT_4.1.3_Beta_L10N_Full	IT
+Options Menu	Izbornik Mogućnosti	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+original document	izvorni dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
+original document	izvorni dokument	OmegaT_4.1.3_Beta_L10N_Full	IT
+package	paket	OmegaT_4.1.3_Beta_L10N_Full	IT
+pane	okno	OmegaT_4.1.3_Beta_L10N_Full	IT
+paragraph	odlomak	OmegaT_4.1.3_Beta_L10N_Full	IT
+paragraph segmentation	segmentacija po odlomcima	OmegaT_4.0.1_Beta_L10N_Full	IT
+password	lozinka	OmegaT_4.1.3_Beta_L10N_Full	IT
+paste	zalijepiti	OmegaT_4.1.3_Beta_L10N_Full	IT
+personal preferences	vlastiti odabir	OmegaT_4.1.3_Beta_L10N_Full	IT
+PgDn	Page Down	OmegaT_4.1.3_Beta_L10N_Full	IT
+PgUp	Page Up	OmegaT_4.1.3_Beta_L10N_Full	IT
+plain text	obični tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
+plain text file	datoteka običnoga teksta	OmegaT_4.0.1_Beta_L10N_Full	IT
+plugin	dodatni modul	OmegaT_4.1.3_Beta_L10N_Full	IT
+plural form	množinski oblik	OmegaT_4.0.1_Beta_L10N_Full	IT
+preferences folder	mapa korisničkih postavki	OmegaT_4.1.3_Beta_L10N_Full	IT
+prefix	prefiks	OmegaT_4.1.3_Beta_L10N_Full	IT
+Previous Note	Prethodna bilješka	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu [napomena?]	IT
+previous pane	prethodno okno	OmegaT_4.1.3_Beta_L10N_Full	IT
+Previous Segment	Prethodni segment	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+previous segment	prethodni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+print out	ispisati	OmegaT_4.1.3_Beta_L10N_Full	IT
+private SVN server	privatni poslužitelj SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
+programming style	stil programiranja	OmegaT_4.1.3_Beta_L10N_Full	IT
+programming tool	alat za programiranje	OmegaT_4.1.3_Beta_L10N_Full	IT
+Project	Projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+project	projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
+project administrator	administrator projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+project contents	sadržaji projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Project Files...	Datoteke projekta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+project folder	mapa projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+project manager	voditelj projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Project Menu	Izbornik Projekt	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+project properties	svojstva projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Project Properties	svojstva projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Project Properties window	prozor svojstava projekta	OmegaT_4.1.3_Beta_L10N_Full	IT
+ProjectLocker	servis ProjectLocker	OmegaT_4.1.3_Beta_L10N_Full	IT
+Properties...	Svojstva...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Proxy Login...	Prijava za proxy...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+quick tutorial	brzi vodič	OmegaT_4.1.3_Beta_L10N_Full	IT
+Quit	Zatvori	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Redo Last Action	Ponovi zadnju radnju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Redo Last Action	Ponovi zadnju radnju	OmegaT_4.0.1_Beta_L10N_Full	IT
+Register Identical Translation	Registriraj istovjetan prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+regular expression	regularni izraz	OmegaT_4.1.3_Beta_L10N_Full	IT
+relaunch	ponovno pokrenuti	OmegaT_4.1.3_Beta_L10N_Full	IT
+Reload	Ponovno učitaj	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Remove translation	Ukloni prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Replace with Machine Translation	Zamijeni strojnim prijevodom	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Replace With Match or Selection	Zamijeni podudaranjem ili odabranim sadržajem	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Replace With Source	Zamijeni izvorišnim tekstom	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+report	prijava	OmegaT_4.1.3_Beta_L10N_Full	IT
+reporting bugs	prijavljivanje pogrešaka	OmegaT_4.1.3_Beta_L10N_Full	IT
+repository	repozitorij	OmegaT_4.1.3_Beta_L10N_Full	IT
+repository version	inačica repozitorija	OmegaT_4.1.3_Beta_L10N_Full	IT
+requests for enhancement	zahtjev za poboljšanje programa	OmegaT_4.0.1_Beta_L10N_Full	IT
+requests for enhancements	zahtjevi za poboljšanja programa	OmegaT_4.1.3_Beta_L10N_Full	IT
+resolving the conflicts	rješavanje kolizija	OmegaT_4.1.3_Beta_L10N_Full	IT
+Restore Main Window	Vrati glavni prozor	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Right	strelica desno	OmegaT_4.1.3_Beta_L10N_Full	IT
+right-click	pritisak desnom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
+right-click	pritisnuti desnom tipkom miša	OmegaT_4.1.3_Beta_L10N_Full	IT
+root word	korijenska riječ	OmegaT_4.0.1_Beta_L10N_Full	IT
+RTL	pisanje zdesna nalijevo	OmegaT_4.1.3_Beta_L10N_Full	IT
+RTL-LTR switch	prebacivanje između pisanja zdesna nalijevo/slijeva nadesno	OmegaT_4.1.3_Beta_L10N_Full	IT
+rule set	skup pravila	OmegaT_4.1.3_Beta_L10N_Full	IT
+rule-based segmentation	segmentacija na temelju pravila	OmegaT_4.1.3_Beta_L10N_Full	IT
+Save	Spremi	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Saving and Output...	Spremanje i izlazni rezultati...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+screen shot	slika zaslona	OmegaT_4.1.3_Beta_L10N_Full	IT
+script	skripta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Scripting	Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
+scripting language	skriptni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Scripting window	prozor Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full	IT
+Scripting window	prozor Skriptiranje	OmegaT_4.1.3_Beta_L10N_Full	IT
+scripts folder	mapa „scripts”	OmegaT_4.1.3_Beta_L10N_Full	IT
+Search and Replace...	Pretraživanje i zamjena...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Search Project...	Pretraživanje projekta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+segment	segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+Segment number...	Segment pod brojem...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+segmentation	segmentacija	OmegaT_4.1.3_Beta_L10N_Full	IT
+segmentation rules	pravila segmentacije	OmegaT_4.1.3_Beta_L10N_Full	IT
+Segmentation...	Segmentacija...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Select Match #1	Odaberi podudaranje br. 1	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Select Match #2	Odaberi podudaranje br. 2	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Select Match #3	Odaberi podudaranje br. 3	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Select Match #4	Odaberi podudaranje br. 4	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Select Match #5	Odaberi podudaranje br. 5	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Select Next Match	Odaberi sljedeće podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Select Previous Match	Odaberi prethodno podudaranje	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+sensitive file	datoteka s povjerljivim sadržajima	OmegaT_4.1.3_Beta_L10N_Full	IT
+sentence-based segmentation	segmentacija po rečenicama	OmegaT_4.1.3_Beta_L10N_Full	IT
+separate repositories	zasebni repozitoriji	OmegaT_4.1.3_Beta_L10N_Full	IT
+server	poslužitelj	OmegaT_4.1.3_Beta_L10N_Full	IT
+server repository	repozitorij poslužitelja	OmegaT_4.1.3_Beta_L10N_Full	IT
+server version	inačica na poslužitelju	OmegaT_4.1.3_Beta_L10N_Full	IT
+Set empty translation	Ostavi bez prijevoda	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+setting up the environment	postavljanje okruženja	OmegaT_4.1.3_Beta_L10N_Full	IT
+shared material	zajednički materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
+shortcut	prečac	OmegaT_4.1.3_Beta_L10N_Full	IT
+shortcut customization	prilagođavanje prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
+shortcut definition	definicija prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
+shortcut definition file	datoteka definicija prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
+shortcut definition syntax	sintaksa definicije prečaca	OmegaT_4.1.3_Beta_L10N_Full	IT
+similarity threshold	prag sličnosti	OmegaT_4.0.1_Beta_L10N_Full	IT
+similarity threshold	prag sličnosti	OmegaT_4.1.3_Beta_L10N_Full	IT
+simple float	jednostavni decimalni broj	OmegaT_4.0.1_Beta_L10N_Full	IT
+software	softver	OmegaT_4.1.3_Beta_L10N_Full	IT
+source and target languages	izvorišni i odredišni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+source folder	izvorišna mapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+source language	izvorišni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+Source of Selected Match	Izvorište odabranoga podudaranja	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - GoTo Menu	IT
+source segment	izvorišni segment	OmegaT_4.0.1_Beta_L10N_Full	IT
+source segment	izvorišni segment	OmegaT_4.0.1_Beta_L10N_Full	IT
+source text	izvorišni tekst	OmegaT_4.1.3_Beta_L10N_Full	IT
+SourceForge	servis SourceForge	OmegaT_4.1.3_Beta_L10N_Full	IT
+SourceForge user	korisnik servisa SourceForge	OmegaT_4.1.3_Beta_L10N_Full	IT
+source-target dictionary	rječnik s izvorišnim i odredišnim parovima	OmegaT_4.1.3_Beta_L10N_Full	IT
+Space	razmaknica	OmegaT_4.1.3_Beta_L10N_Full	IT
+special behavior	posebna funkcija	OmegaT_4.1.3_Beta_L10N_Full	IT
+spell checker	alat za provjeru pravopisa	OmegaT_4.1.3_Beta_L10N_Full	IT
+spell checking	provjera pravopisa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Spell checking...	Provjera pravopisa...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+spellchecker	alat za provjeru pravopisa	OmegaT_4.1.3_Beta_L10N_Full	IT
+spelling mistake	pravopisna pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
+StarDict	StarDict	OmegaT_4.1.3_Beta_L10N_Full	IT
+StarDict format	format StarDict	OmegaT_4.1.3_Beta_L10N_Full	IT
+stem word	korijenska riječ	OmegaT_4.1.3_Beta_L10N_Full	IT
+stemming	određivanje korijena riječi	OmegaT_4.1.3_Beta_L10N_Full	IT
+stylistic mistake	stilska pogreška	OmegaT_4.1.3_Beta_L10N_Full	IT
+subfolder	podmapa	OmegaT_4.1.3_Beta_L10N_Full	IT
+subject line	polje predmeta poruke	OmegaT_4.1.3_Beta_L10N_Full	IT
+supported language	podržani jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+SVN	SVN	OmegaT_4.1.3_Beta_L10N_Full	IT
+SVN client	klijent SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
+SVN repository	repozitorij SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
+SVN server	poslužitelj SVN-a	OmegaT_4.1.3_Beta_L10N_Full	IT
+Switch Case To/Cycle	Promijeni veličinu slova/Izmjenično<	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Switch Case To/Lower Case	Promijeni veličinu slova/Mala slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Switch Case To/Sentence Case	Promijeni veličinu slova/Prvo slovo rečenice veliko	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Switch Case To/Title Case	Promijeni veličinu slova/Velika početna slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Switch Case To/Upper Case	Promijeni veličinu slova/Velika slova	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+synchronize	usklađivati	OmegaT_4.1.3_Beta_L10N_Full	IT
+system shortcut	prečac sustava	OmegaT_4.1.3_Beta_L10N_Full	IT
+system shortcut	prečac sustava	OmegaT_4.1.3_Beta_L10N_Full	IT
+system-wide	na razini cijeloga sustava	OmegaT_4.1.3_Beta_L10N_Full	IT
+tag	oznaka teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
+tag handling	rad s oznakama teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
+Tag Processing...	Obrada oznaka teksta...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+target language	odredišni jezik	OmegaT_4.1.3_Beta_L10N_Full	IT
+target segment	odredišni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+target text	odredišni tekst	OmegaT_4.0.1_Beta_L10N_Full	IT
+TBX glossary	glosar u formatu TBX	OmegaT_4.1.3_Beta_L10N_Full	IT
+team member	član tima	OmegaT_4.1.3_Beta_L10N_Full	IT
+team of translators	tim prevoditelja	OmegaT_4.1.3_Beta_L10N_Full	IT
+team project	timski projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
+Team...	Tim...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+term	termin	OmegaT_4.1.3_Beta_L10N_Full	IT
+terminology management	upravljanje terminologijom	OmegaT_4.1.3_Beta_L10N_Full	IT
+text area	područje teksta	OmegaT_4.1.3_Beta_L10N_Full	IT
+tokenizer	tokenizator	OmegaT_4.1.3_Beta_L10N_Full	IT
+Tokenizer Behavior	Funkcioniranje tokenizatora	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Project Menu	IT
+Tools	Alati	OmegaT_4.1.3_Beta_L10N_Full	IT
+Tools Menu	Izbornik Alati	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
+top object	glavni objekt	OmegaT_4.1.3_Beta_L10N_Full	IT
+translatable content	prevodivi sadržaj	OmegaT_4.0.1_Beta_L10N_Full	IT
+translated file	datoteka prijevoda	OmegaT_4.1.3_Beta_L10N_Full	IT
+translated segment	prevedeni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation	prevođenje	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation	prijevod	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation agency	prevoditeljska agencija	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation consistency	ujednačenost prijevoda	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation material	prijevodni materijali	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation memory	prijevodna memorija	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation memory file	datoteka prijevodne memorije	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation project	prijevodni projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
+translation project	prijevodni projekt	OmegaT_4.1.3_Beta_L10N_Full	IT
+TransTips	Savjetnik	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+TransTips/Enable Transtips	Savjetnik/Uključi Savjetnika	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Undo Last Action	Poništi zadnju radnju	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Undo Last Action	Poništi zadnju radnju	OmegaT_4.0.1_Beta_L10N_Full	IT
+unpack	raspakirati	OmegaT_4.1.3_Beta_L10N_Full	IT
+untar	raspakirati	OmegaT_4.1.3_Beta_L10N_Full	IT
+untranslated segment	neprevedeni segment	OmegaT_4.1.3_Beta_L10N_Full	IT
+updated version	ažurirana inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+up-to-date	ažuriran	OmegaT_4.1.3_Beta_L10N_Full	IT
+URL	URL	OmegaT_4.1.3_Beta_L10N_Full	IT
+URL address	URL adresa	OmegaT_4.1.3_Beta_L10N_Full	IT
+Use as Default Translation	Koristi kao zadani prijevod	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Edit Menu	IT
+Use TAB To Advance	TAB za pomicanje naprijed	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+Use Terms Appearing Separately in the Source Text	Termini mogu biti razdvojeni u izvorišnome tekstu	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu [?]	IT
+user	korisnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+user file	korisnička datoteka	OmegaT_4.1.3_Beta_L10N_Full	IT
+user group	korisnička skupina	OmegaT_4.1.3_Beta_L10N_Full	IT
+user interface	korisničko sučelje	OmegaT_4.1.3_Beta_L10N_Full	IT
+User Manual	Priručnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+user manual	priručnik	OmegaT_4.1.3_Beta_L10N_Full	IT
+User Manual...	Priručnik...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Help Menu	IT
+user name	korisničko ime	OmegaT_4.1.3_Beta_L10N_Full	IT
+user support	korisnička podrška	OmegaT_4.1.3_Beta_L10N_Full	IT
+Validate Tags	Provjera valjanosti oznaka teksta	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
+Validate Tags for Current Document	Provjera valjanosti oznaka teksta za tekući dokument	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Tools Menu	IT
+VCS client	klijent VCS-a	OmegaT_4.1.3_Beta_L10N_Full	IT
+version	inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+version control	nadziranje inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+version control system	sustav nadziranja inačica	OmegaT_4.1.3_Beta_L10N_Full	IT
+view	prikaz	OmegaT_4.1.3_Beta_L10N_Full	IT
+View Menu	Izbornik Prikaz	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - View Menu	IT
+View...	Prikaz...	OmegaT_4.1.3_Beta_L10N_Full; OmegaT - Options Menu	IT
+warranty	jamstvo	OmegaT_4.1.3_Beta_L10N_Full	IT
+weakly typed	slabe tipizacije	OmegaT_4.1.3_Beta_L10N_Full	IT
+web site	web stranice	OmegaT_4.1.3_Beta_L10N_Full	IT
+whitespace	bjelina	OmegaT_4.1.3_Beta_L10N_Full	IT
+Windows	sustav Windows	OmegaT_4.1.3_Beta_L10N_Full	IT
+working copy	radna kopija	OmegaT_4.1.3_Beta_L10N_Full	IT
+dialog window	dijaloški prozor
+converting numbers	pretvaranje brojeva
+convert numbers	pretvarati brojeve
+inserting a fuzzy match	umetanje djelomičnoga podudaranja
+source contents	sadržaj izvorišnoga segmenta
+restriction	ograničenje
+integer	cijeli broj
+Translation equal to source	Prijevod isti kao izvorišni tekst	OmegaT - Options Menu
+Allow the translation to be equal to source	Prijevod smije biti isti kao izvorišni tekst	OmegaT - Options Menu
+invariable text	nepromjenjivi tekst
+Exporting the current segment	Izvoz tekućega segmenta	OmegaT - Options Menu
+Allow tag editing	Dopusti obradu oznaka teksta	OmegaT - Options Menu
+Edit	Obrada	OmegaT - Edit Menu
+TaaS Terminology Lookup	Pretraživanje TaaS-ove terminologije	OmegaT - Options Menu
+shallow-transfer machine translation engine	modul plitkoga prijenosa za strojno prevođenje
+Export the segment to text files	Izvezi segment u tekstne datoteke	OmegaT - Options Menu
+text export function	funkcija izvoza teksta
+plain text file	datoteka običnoga teksta
+data	podaci
+unformatted plain text file	datoteka običnoga teksta bez oblikovanja
+unformatted plain text	obični tekst bez oblikovanja
+unformatted	bez oblikovanja
+Segments with alternative translation	Segmenti s alternativnim prijevodima	OmegaT - Options Menu
+Go To Next Untranslated Segment stops where there is at least one alternative translation	Funkcija Idi na sljedeći neprevedeni segment automatski se zaustavlja na segmentu za koji postoji barem jedan alternativni prijevod	OmegaT - Options Menu [?]
+text file	tekstna datoteka
+Validate tags when leaving a segment	Provjeri valjanost oznaka teksta pri zatvaranju segmenta	OmegaT - Options Menu
+Save auto-populated status	Spremi stanje automatski upisanih sadržaja	OmegaT - Options Menu
+View menu	izbornik Prikaz	OmegaT - View Menu
+Mark Auto-Populated Segments	Označi automatski upisane segmente	OmegaT - View Menu
+Initially load this many segments	Broj početno učitanih segmenata	OmegaT - Options Menu
+initial segments	početni segmenti
+scrollbar	traka za pomicanje
+translatable content	prevodivi sadržaj
+file name	naziv datoteke
+main dialog	glavni dijaloški okvir
+project specific file filters	datotečni filtri za predmetni projekt
+Enable project specific filters	Uključi filtre za predmetni projekt	OmegaT - Project Menu
+filters configuration	postavke filtara
+project filters	filtri projekta
+user filters	korisnički filtri
+filter options	mogućnosti filtara
+filter options	mogućnosti filtra
+reload the project	ponovno učitati projekt
+target document	odredišni dokument
+default settings	zadane postavke
+Defaults	Zadano	OmegaT - Project Menu
+Remove leading and trailing tags	Ukloni početne i završne oznake teksta	OmegaT - Project Menu
+technical tag	tehnička oznaka
+Remove leading and trailing whitespace in non-segmented projects	Ukloni početne i završne bjeline u nesegmentiranim projektima	OmegaT - Project Menu
+non-segmented project	nesegmentirani projekt
+Preserve spaces for all tags	Zadrži razmake svih oznaka	OmegaT - Project Menu
+source documents	izvorišna dokumentacija
+Ignore file context when identifying segments with alternate translations	Zanemari datotečni kontekst pri utvrđivanju segmenata s alternativnim prijevodima	OmegaT - Project Menu
+source file name	naziv izvorišne datoteke
+alternate translation	alternativni prijevod
+Menu Options	Izbornik Mogućnosti	OmegaT - Options Menu
+Language Checker	Jezična provjera	OmegaT - Options Menu
+Machine Translate	Strojni prijevod	OmegaT - Options Menu
+line break	prijelom retka
+empty line	prazni redak
+sentence segmentation rules	pravila segmentacije po rečenicama
+PO file	datoteka PO
+Allow blank translations in the target file	Dopusti segmente bez prijevoda u odredišnoj datoteci	OmegaT - Project Menu
+target file	odredišna datoteka
+paragraph	odlomak
+PO target file	odredišna datoteka PO
+standard behavior	standardan način rada
+Skip PO header	Preskoči zaglavlje PO	OmegaT - Project Menu
+PO header	zaglavlje PO
+Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header	Automatska zamjena „nplurals=INTEGER; plural=EXPRESSION;” u zaglavlju	OmegaT - Project Menu
+header	zaglavlje
+PO file header	zaglavlje datoteke PO
+default	zadane vrijednosti
+selected target language	odabrani odredišni jezik
+XHTML file	datoteka XHTML
+Translate the following attributes	Prevedi sljedeće atribute	OmegaT - Project Menu
+HTML tag	HTML oznaka
+Start a new paragraph on	Oznaka početka novoga odlomka	OmegaT - Project Menu
+Skip text matching regular expression	Preskoči tekst koji se podudara s regularnim izrazima	OmegaT - Project Menu
+italic	kurziv
+in italic	u kurzivu
+Do not translate the content attribute of meta-tags...	Ne prevodi sadržaj atributa metaoznaka...	OmegaT - Project Menu
+meta-tag	metaoznaka
+key-value pair	par ključ-vrijednost
+Do not translate the content of tags with the following attribute key-value pairs (separate with commas)	Ne prevodi sadržaj oznaka sa sljedećim atributima parova ključ-vrijednost (odvojenim zarezima)	OmegaT - Project Menu
+untranslatable	neprevodiv
+value of attribute	vrijednost atributa
+untranslated	nepreveden
+Microsoft Office Open XML file	datoteka Microsoft Office Open XML
+separate segment	zasebni segment
+instruction text	tekst uputa	MS Word
+comment	komentar	MS Word, MS Excel
+footnote	fusnota	MS Word
+endnote	krajnja bilješka	MS Word
+footer	podnožje	MS Word
+sheet name	naziv lista	MS Excel
+slide comment	komentar stranice	MS PowerPoint
+slide master	matrica stranice	MS PowerPoint
+slide layout	izgled stranice	MS PowerPoint
+chart	grafikon	Microsoft
+diagram	dijagram	Microsoft
+drawing	crtež	Microsoft
+WordArt	WordArt	Microsoft
+translatable text	prevodivi tekst
+Aggregate tags	Združene oznake	OmegaT - Project Menu
+Preserve spaces for all tags	Zadrži razmake svih oznaka	OmegaT - Project Menu
+space	razmak
+newline	novi redak
+encoding character set	kodna stranica
+source file	izvorišna datoteka
+explicitly defined	izrijekom definiran
+implied	podrazumijevan
+encoding declaration	deklaracija kodiranja
+HTML and XHTML files	datoteke HTML i XHTML
+Add or rewrite encoding declaration in HTML and XHTML files	Dodaj ili prepiši deklaraciju kodiranja u datotekama HTML i XHTML	OmegaT - Project Menu
+encoding scheme	shema kodiranja
+Always	Uvijek	OmegaT - Project Menu
+Translate the following attributes	Prevedi sljedeće atribute	OmegaT - Project Menu
+attribute	atribut
+Compress whitespace in translated document	Sažmi bjeline u prevedenome dokumentu	OmegaT - Project Menu
+translated document	prevedeni dokument
+Remove HTML comments in translated document	Ukloni komentare HTML-a u prevedenome dokumentu	OmegaT - Project Menu
+Open Document Format (ODF) file	datoteka Open Document Format (ODF)
+index entry	stavka kazala	Open Document Format (ODF)
+bookmark	knjižna oznaka	Open Document Format (ODF)
+bookmark reference	uputa na knjižnu oznaku	Open Document Format (ODF)
+note	bilješka	Open Document Format (ODF)
+comment	komentar	Open Document Format (ODF)
+presentation note	bilješka prezentacije	Open Document Format (ODF)
+link	poveznica
+sheet name	naziv lista	Open Document Format (ODF)
+edit filter dialog	dijaloški okvir za obradu filtara	OmegaT - Project Menu
+source filename pattern	uzorak naziva izvorišnih datoteka
+Edit	Obrada
+pattern	uzorak
+filename pattern editor	funkcija za obradu uzoraka naziva datoteka
+output file	izlazna datoteka
+file type	vrsta datoteke
+name pattern	uzorak naziva
+source file type	vrsta izvorišne datoteke
+filename pattern	uzorak naziva datoteke
+filename	naziv datoteke
+Searches	Pretraživanja
+text filter	tekstni filtar
+readme file	datoteka procitajme
+readme	procitajme
+read.me	procitaj.me
+readme.txt	procitajme.txt
+read*	procitaj*
+encoding	kodiranje
+file format	format datoteke
+default encoding	zadano kodiranje
+operating system	operacijski sustav
+encoding field	polje kodiranja
+combo box	kombinirani okvir
+supported encoding	podržano kodiranje
+source file encoding	kodiranje izvorišne datoteke
+mandatory encoding	obavezno kodiranje
+Java properties	svojstva jezika Java
+target filename	naziv odredišne datoteke
+target filename pattern	uzorak naziva odredišnih datoteka
+special syntax	posebna sintaksa
+click	pritisnuti
+Edit Pattern Dialog	Dijaloški okvir obrade uzoraka	OmegaT - Project Menu
+default configuration	zadane postavke
+target filename pattern field	polje uzorka naziva odredišne datoteke
+file filters dialog	dijaloški okvir filtra datoteka
+name of the source file	naziv izvorišne datoteke
+original file extension	izvorni datotečni nastavak
+file extension	datotečni nastavak
+target locale code	regionalni kôd odredišne datoteke
+locale code	regionalni kôd
+country code	oznaka države
+system user name	korisničko ime u sustavu
+system host name	naziv glavnoga računala u sustavu
+host	glavno računalo
+system	sustav
+target file encoding	kodiranje odredišne datoteke
+Microsoft target locale	Microsoftova regionalna oznaka odredišne datoteke
+target locale	regionalna oznaka odredišne datoteke
+variable	varijabla
+extension number	broj datotečnoga nastavka
+translation project file	datoteka prijevodnoga projekta
+translating	prevođenje
+on a daily basis	svakodnevno
+user settings file	datoteka korisničkih postavki
+user preference settings	korisničke postavke
+factory settings	zadane postavke
+project management	upravljanje projektima
+top folder	glavna mapa
+subfolder dictionary	podmapa rječnika
+subfolder glossary	podmapa glosara
+subfolder omegat	podmapa omegat
+working translation memory	radna prijevodna memorija
+inadvertent data loss	nehotičan gubitak podataka
+data loss	gubitak podataka
+preventing data loss	sprječavanje gubitka podataka
+statistics file	datoteka statističkih podataka
+subfolder source	podmapa izvorišnih datoteka
+tree structure	razgranata struktura
+top-level subfolder	glavna podmapa
+target subfolder	podmapa odredišnih datoteka
+script file	skriptna datoteka
+script plugin	skriptni dodatak
+default segmentation rules	zadana pravila segmentacije
+GUI	grafičko korisničko sučelje
+platform	platforma
+User Name	ime korisnika
+User Home	korisnička početna mapa
+package	paket
+download	preuzeti
+platform-independent package	paket neovisan o platformama
+source code	izvorni kôd
+specific package	ciljani paket
+compressed file	sažeta datoteka
+zip or tar archive	arhiva zip ili tar
+extract	raspakirati
+Internet browser	internetski preglednik
+external link	poveznica prema vanjskim sadržajima
+graphics	slikovni sadržaji
+icon	simbol
+logo	logotip
+OmegaT user group	korisnička skupina programa OmegaT
+Yahoo! Groups	servis Yahoo! Groups
+additional services	dodatne usluge
+questionnaire	anketa
+detailed list	detaljan popis
+modifying	mijenjanje
+distributing	distribuiranje
+project member	sudionik u projektu
+documentation	dokumentacija
+license	licenca
+launching	pokretanje programa
+launching	pokretanje
+general information	opće informacije
+application folder	programska mapa
+batch file	datoteka skupne obrade
+color	boja
+ASCII text	tekst ASCII
+encoded text	kodirani tekst
+Java resource bundle	paket izvora za jezik Java
+INI file	datoteka INI
+DTD file	datoteka DTD
+DokuWiki file	datoteka DokuWiki
+SubRip title file	datoteka titlova SubRip
+Magento CE Locale CSV file	datoteka Magento CE Locale CSV
+supported file type	podržana vrsta datoteke
+.pod file	datoteka .pod
+ASCII text filter	filtar za tekst ASCII
+pre-processing	predobrada
+bilingual file	dvojezična datoteka
+formatted text file	datoteka oblikovanoga teksta
+word processor	program za obradu teksta
+HTML editor	program za obradu HTML-a
+formatting information	informacije o oblikovanju
+bold	podebljani tekst
+formatting	oblikovanje
+formatted text format	format oblikovanoga teksta
+ResX file	datoteka ResX
+Android resource	izvor za Android
+Flash XML export	izvoz iz Flash XML-a
+Java property XML	XML svojstava jezika Java
+RELAX NG schema for XML	shema RELAX NG za XML
+PDF text file	tekstna datoteka PDF
+PDF file	datoteka PDF
+special case	poseban slučaj
+text formatting	oblikovanje teksta
+default filter	zadani filtar
+ODG file	datoteka ODG
+text layer	sloj teksta
+‘dead’ PDF	‘mrtvi’ PDF
+optical character recognition	optičko prepoznavanje znakova
+file conversion tool	alat za pretvaranje datoteka
+external tool	vanjski alat
+original format	izvorni format
+ODT format	format ODT
+Word file	Wordova datoteka
+DOC extension	datotečni nastavak DOC
+auxiliary translation tools	pomoćni prijevodni alati
+right-to-left language	jezik koji se piše zdesna nalijevo
+justification	poravnanje teksta
+project languages	jezici projekta
+left-to-right language	jezik koji se piše slijeva nadesno
+left justification	poravnavanje teksta slijeva
+right justification	poravnanje teksta zdesna
+numeral	brojka
+letter	slovo
+display mode	način prikaza
+default justification	zadano poravnanje teksta
+text input	unos teksta
+display	prikaz
+pane	okno
+input field	polje za unos
+search window	prozor za pretraživanje
+mixing RTL and LTR strings	kombiniranje nizova RTL i LTR
+mixing RTL and LTR strings in segments	kombiniranje nizova RTL i LTR u segmentima
+default view	zadani prikaz
+product name	naziv proizvoda
+localization file	lokalizacijska datoteka
+number	broj
+text	tekst
+bidirectional	dvosmjeran
+OmegaT tags in RTL languages	oznake programa OmegaT u jezicima RTL
+OmegaT tag	oznaka programa OmegaT
+LTR string	niz LTR
+style information	informacije o stilovima
+OmegaT interface	sučelje programa OmegaT
+Hints	Savjeti
+tags management	upravljanje oznakama teksta
+validate tags	provjeriti valjanost oznaka teksta
+tag validation	provjera valjanosti oznaka teksta
+Menu	Izbornik
+hint	savjet
+RTL target file	odredišna datoteka RTL
+RTL target text<	odredišni tekst RTL
+translated RTL document	prevedeni dokument RTL
+display direction	smjer prikaza
+output format	izlazni format
+application manual	priručnik programa
+section	odjeljak
+table	tablica
+bidi	dvosmjerni prikaz
+text element	tekstni element
+display parameters	parametri prikaza
+ODF file	datoteka ODF
+in-line formatting information	informacije o oblikovanju u tekstu
+in-line formatting	oblikovanje u tekstu
+supported format	podržani format
+formatting tag	oznaka oblikovanja teksta
+naming	imenovanje
+tag naming	imenovanje oznaka teksta
+unique numbering	jedinstveno numeriranje
+shortcut character	znak prečaca
+underlying meaning	temeljno značenje
+numbering	numeriranje
+tag numbering	numeriranje oznaka teksta
+tag group	skupina oznaka teksta
+pair	par
+single	samac
+surrounding text	okolni tekst
+extra space	dodatni razmak
+opening tag	početna oznaka teksta
+closing tag	završna oznaka teksta
+log file	datoteka zapisnika
+sentence segmenting	segmentiranje rečenica
+operation	postupak
+tag operations	postupci s oznakama teksta
+final file	konačna inačica datoteke
+basic rule	osnovno pravilo
+sequence of tags	redoslijed oznaka teksta
+duplication	dupliciranje
+tag duplication	dupliciranje oznaka teksta
+group deletion	brisanje skupina
+tag group deletion	brisanje skupina oznaka teksta
+group nesting	gniježđenje skupina
+tag group nesting	gniježđenje skupina oznaka teksta
+nesting	gniježđenje
+moving	premještanje
+moving	prebacivanje
+group overlapping	preklapanje skupina
+tag group overlapping	preklapanje skupina oznaka teksta
+bad manipulation	pogrešno postupanje
+tag validation options	mogućnosti provjere valjanosti oznaka teksta
+do not check	bez provjere
+check simple	provjera jednostavnih
+check all	provjera svega
+printf variables	varijable printf
+programming variables	varijable programiranja
+simple printf variables	jednostavne varijable printf
+custom tag	prilagođena oznaka teksta
+instance	pojavnica
+unwanted contents	neželjeni sadržaj
+penalty	oduzimanje postotka podudaranja
+tag group validation	provjera valjanosti skupina oznaka teksta
+tag sequence	slijed oznaka teksta
+bad tag	neispravna oznaka teksta
+broken tag	oštećena oznaka teksta
+validate tags function	funkcija provjere valjanosti oznaka
+tag validation entry	prikaz provjere valjanosti oznaka teksta
+translated contents	prevedeni sadržaj
+tag validation window	prozor za provjeru valjanosti oznaka teksta
+tag error	pogreška u vezi s oznakom teksta
+tag order	poredak oznaka teksta
+original text	izvorni tekst
+font size	veličina fonta
+font color	boja fonta
+tag pair	par oznaka teksta
+advanced feature	napredna funkcija
+project properties dialog	dijaloški okvir svojstava projekta
+character set	znakovni skup
+tab-separated	razdvojeni tabulatorom
+existing content	postojeći sadržaj
+existing file	postojeća datoteka
+glossary subfolder	podmapa glosara
+existing glossary	postojeći glosar
+glossary file	datoteka glosara
+automatically detect	automatski otkrivati
+Glossary pane	okno glosara
+glossary function	funkcija glosara
+exact match	potpuno podudarna natuknica	OmegaT - Glossary
+inflected form	deklinirani oblik
+text editor	program za obradu teksta
+source term	izvorišni termin
+single-word item	jednorječna natuknica
+multiple-words entry	višerječna natuknica
+highlight	označiti
+cursor position	položaj pokazivača miša
+tab-delimited	razdvojeni tabulatorom
+additional information	dodatne informacije
+column	stupac
+target column	stupac ekvivalenata
+Unicode	unicode
+target term	ekvivalent
+TBX format	format TBX
+read-only	samo za čitanje
+glossary format	format glosara
+Microsoft Terminology collection	Microsoftova terminološka zbirka
+structured terminological data	strukturirani terminološki podaci
+terminological data	terminološki podaci
+international standard	međunarodna norma
+standard	norma
+IT	informatička tehnologija
+writable glossary	zapisivi glosar
+writable glossary file	datoteka zapisivoga glosara
+memory	memorija
+note	napomena
+spreadsheet program	program za rad s proračunskim tablicama
+application	program
+white space	bjelina
+priorities	prioriteti
+priority glossary	prioritetni glosar
+non-priority glossary	neprioritetni glosar
+in bold	podebljanim znakovima
+Trados MultiTerm	Trados MultiTerm
+glossary term	termin iz glosara
+correct encoding	odgovarajuće kodiranje
+reloaded	ponovno učitan
+file encoding	kodiranje datoteke
+installation instructions	upute za instaliranje
+highlights	najbitnije značajke
+standard tmx file format	standardni datotečni format tmx
+specific domain	određeno područje
+tutorial	vodič
+reference guide	referentni priručnik
+quick tutorial	brzi vodič
+specific instructions	konkretne upute
+textual unit	jedinica teksta
+Google Translate	Google prevoditelj
+Microsoft Translator	Microsoft prevoditelj
+Create New Project	Priprema novoga projekta	OmegaT - Project Menu
+OK	U redu	OmegaT - Project Menu
+Project Files	Datoteke projekta	OmegaT - Project Menu
+selected file	odabrana datoteka
+next untranslated segment	sljedeći neprevedeni segment
+next translated segment	sljedeći prevedeni segment
+final format	konačni oblik
+source sentence	izvorišna rečenica
+target sentence	odredišna rečenica
+initial settings	početne postavke
+translation program	program za prevođenje
+Text Search	Pretraživanje teksta
+OmegaT for beginners	OmegaT za početnike
+Windows user	korisnik sustava Windows
+license agreement	licencni ugovor
+setup program	instalacijski program
+desktop	radna površina
+quick launch bar	traka za brzo pokretanje
+user language	korisnički jezik
+country	država
+Remote Desktop session	rad s udaljenom radnom površinom
+cross-platform version	međuplatformska inačica
+existing installation	postojeća instalacija
+launch script	skripta za pokretanje
+new version	nova inačica
+new folder	nova mapa
+.bat file	datoteka .bat
+downloaded file	preuzeta datoteka
+working folder	radna mapa
+KDE 4 user	korisnik radnoga okruženja KDE 4
+submenu	podizbornik
+navigation button	navigacijski gumb
+GNOME user	korisnik radnoga okruženja GNOME
+unpacked folder	neraspakirana mapa
+SVG file	datoteka SVG
+distribution	distribucijski paket
+Mac OS X user	korisnik sustava Mac OS X
+Dock	Dock	Mac OS X
+Applications	Aplikacije	Mac OS X
+drag and drop	odvući i ispustiti
+Properties	Svojstva	Mac OS X
+launch parameters	parametri pokretanja
+text editor	program za obradu teksta
+pre-defined options	unaprijed definirane mogućnosti
+goodies	dodatni sadržaji	Mac OS X [?]
+Services	Usluge	Mac OS X
+AppleScript	AppleScript	Mac OS X
+Automator	Automator	Mac OS X
+frequent actions	česte radnje
+terminal	terminal	Linux
+installation instructions	upute za instaliranje
+Java Web Start	tehnologija Java Web Start
+security warning	sigurnosno upozorenje
+hard drive	disk
+initial installation	početna instalacija
+privacy	privatnost
+application	program
+normal installation	uobičajena instalacija
+launch command arguments	naredbeni argumenti za pokretanje
+command argument	naredbeni argument
+command line window	prozor naredbenoga retka
+Utilities	Uslužni programi	Mac OS X
+capitalization	veličina slova
+terminal window	prozor terminala
+launch command	naredba za pokretanje
+launch script arguments	argumenti skripte za pokretanje
+standard behavior	standardni način funkcioniranja
+user country	država korisnika
+instant start guide	vodič za brzi početak rada
+memory assignment	rezerviranje memorije
+IP address	IP adresa
+proxy host	proxy glavno računalo
+Proxy host IP address	IP adresa proxy glavnoga računala
+port number	broj priključka
+proxy host port number	broj priključka proxy glavnoga računala
+Microsoft account	Microsoftov račun
+free Microsoft account	besplatni Microsoftov račun
+free of charge	besplatno
+primary account key	primarni ključ računa	Microsoft Azure Marketplace
+Customer-ID	oznaka klijenta	Microsoft Azure Marketplace
+Yandex Translate	Yandex Translate
+Yandex account	Yandexov račun
+free Yandex account	besplatni Yandexov račun
+private Google API key	privatni ključ API-ja za Google
+Yandex Translate API key	ključ API-ja za Yandex Translate
+API key	ključ API-ja
+console mode	konzolni način rada
+translation tool	prevoditeljski alat
+scripting environment	okruženje skriptiranja
+console	konzola
+graphical environment	grafičko okruženje
+user home folder	korisnička početna mapa
+default value	zadana vrijednost
+TMX file	datoteka TMX
+properties file	datoteka svojstava
+contents	sadržaj
+specified location	naznačena lokacija
+additional parameter	dodatni parametar
+target data	odredišni podaci
+HTML file	datoteka HTML
+backslash	obrnuta kosa crta
+in a batch mode	skupno
+invalid segment	neispravni segment
+tag validator	provjera valjanosti oznaka teksta
+team work	timski rad
+locked	zaključan
+error message	poruka o pogrešci
+quiet mode	tihi način rada
+status bar	traka stanja
+source	izvorni kôd
+ant program	program ant
+project settings	postavke projekta
+Match pane	okno podudaranja
+Dictonary pane	okno rječnika
+dictionary hit	natuknica pronađena u rječniku
+Machine Translations pane	okno strojnoga prijevoda
+Notes pane	okno bilješki
+current key	tekući ključ
+key=value file format	datotečni format ključ=vrijednost
+Statistics	Statistika	OmegaT - Tools Menu
+settings dialog	dijaloški okvir postavki
+Properties	Svojstva	OmegaT - Project Menu
+pane	okno
+pane widget	alatni blok okna
+factory setup	tvorničke postavke
+counter	brojač
+current file	tekuća datoteka
+total number	ukupni broj
+original language	izvorni jezik
+untranslated text	neprevedeni tekst
+double-click	dvostruki pritisak mišem
+segment marker	marker segmenta
+editing field	polje za obradu
+marker	marker
+occurrence	pojavnica
+validate	potvrditi
+store	spremiti
+validated	potvrđen
+stored	spremljen
+Del	Delete
+translation editing	revidiranje prijevoda	[?]
+pop-up menu	skočni izbornik
+Cut	Izreži	OmegaT - pop-up menu
+Copy	Kopiraj	OmegaT - pop-up menu
+Paste	Zalijepi	OmegaT - pop-up menu
+GoTo segment	Idi na segment	OmegaT - pop-up menu
+Add glossary entry	Dodaj natuknicu u glosar	OmegaT - pop-up menu
+Alternative translations	Alternativni prijevodi	OmegaT - pop-up menu
+Cursor lock off	Isključeno zaključavanje pokazivača miša	OmegaT - Editor pane
+Cursor lock on	Uključeno zaključavanje pokazivača miša	OmegaT - Editor pane
+figure	slika
+matches pane	okno podudaranja
+internal project translation memory	interna prijevodna memorija projekta
+ancillary translation memory	pomoćna prijevodna memorija
+matching percentage	postotak podudaranja
+target field	odredišno polje
+orphan segment	segment „siročić”
+default project translation memory	zadana prijevodna memorija projekta
+customizing	prilagođavanje
+variable	varijabla
+string	niz
+multi-word entry	višerječna natuknica
+Dictionary pane	okno rječnika
+Multiple Translations pane	okno višestrukih prijevoda
+multiple translations	višestruki prijevodi
+translation work	prevoditeljski rad
+machine translation tool	alat za strojno prevođenje
+translatable file	prevodiva datoteka
+unique segment	jednokratni segment
+duplicate segment	duplicirani segment
+search pane	okno za pretraživanje
+text field	polje za unos teksta
+flag	izborno polje
+radio button	kružić za označavanje
+display area	područje prikaza
+starting tag	početna oznaka teksta
+statistics window	prozor statističkih podataka
+progress bar	traka prikaza tijeka
+Repetitions	Ponavljanja	OmegaT - Tools Menu
+Exact match	Potpuno podudaranje	OmegaT - Tools Menu
+exact match	potpuno podudaranje
+No match	Bez podudaranja	OmegaT - Tools Menu
+standard statistics window	standardni prozor statističkih podataka
+external TM	vanjska prijevodna memorija
+help browser	preglednik pomoći
+time-stamped	vremenski označen
+User Manual...	Priručnik...	OmegaT - Help Menu
+Help	Pomoć	OmegaT - Main Menu
+Back	Natrag	OmegaT - Help Menu
+Contents	Sadržaj	OmegaT - Help Menu
+HTML document	dokument u formatu HTML
+web browser	preglednik weba
+menu bar	traka izbornika
+UNIX-like	izvedenica UNIX-a
+selected file	odabrana datoteka
+internal translation memory	interna prijevodna memorija
+hard disk	disk
+Create Current Translated Document	Izradi tekući prevedeni dokument	OmegaT - Project Menu
+project languages	jezici projekta
+folder location	lokacija mape
+Project Files window	prozor datoteka projekta	OmegaT - Project Menu
+Access Project Contents	Pristup sadržajima projekta	OmegaT - Project Menu
+default glossary file	zadana datoteka glosara
+text string	tekstni niz
+Search for	Traži	OmegaT - Edit Menu
+search and replace window	prozor za pretraživanje i zamjenu	OmegaT - Edit Menu
+Switch Case To	Promjena veličine slova	OmegaT - Edit Menu
+case selection	odabir veličine slova
+Lower Case	Mala slova	OmegaT - Edit Menu
+Upper case	Velika slova	OmegaT - Edit Menu
+Title Case	Velika početna slova	OmegaT - Edit Menu
+Sentence Case	Prvo slovo rečenice veliko	OmegaT - Edit Menu
+Select Match	Odabir podudaranja	OmegaT - Edit Menu
+match viewer	okno podudaranja
+color coding	obilježavanje bojom
+<EMPTY>	<PRAZNO>
+Allow translation to be equal to source	Prijevod smije biti isti kao izvorišni tekst	OmegaT - Options Menu
+Fuzzy Matches	Djelomična podudaranja	OmegaT - Fuzzy Matches pane
+bidirectional control character	dvosmjerni kontrolni znak
+Aggressive Font Fallback	Agresivni povrat fontova	OmegaT - View Menu
+standard font fallback	standardni povrat fontova
+Modification Info	Informacije o izmjenama	OmegaT - View Menu
+formatted file	oblikovana datoteka
+project statistics	statistički podaci projekta
+number of repetitions	broj ponavljanja
+no-match	nepodudaranje
+Scripting...	Skriptiranje...	OmegaT - Tools Menu
+Untranslated Segments Only	Samo neprevedeni segmenti	OmegaT - Options Menu
+Automatically Fetch Translations	Automatsko dohvaćanje prijevoda	OmegaT - Options Menu
+already translated segment	već prevedeni segment
+Display Context Description for TBX Glossaries	Prikaz konteksta za glosare u formatu TBX	OmegaT - Options Menu
+Use Stemming for Glossary Entries	Koristi određivanje korijena riječi za natuknice glosara	OmegaT - Options Menu
+Replace Glossary Hits when Inserting Source Text	Zamijeni pronađene natuknice glosara pri umetanju izvorišnoga teksta	OmegaT - Options Menu
+glossary hit	pronađena natuknica glosara
+glossary matching	pronalaženje rezultata podudaranja u glosarima
+case-insensitive	nije bitna veličina slova
+Show Relevant Suggestions Automatically	Automatski prikaz odgovarajućih prijedloga	OmegaT - Options Menu
+window resizing	promjena veličine prozora
+font settings	postavke fonta
+pre-defined theme	unaprijed definirana tema
+Switch Colour Themes	Promjena teme po boji	OmegaT - script name
+Dark	Tama	OmegaT - theme name
+file handling and parsing	manipulacija i analiza datoteka
+Source segmentation	Segmentacija izvorišnoga teksta	OmegaT - Options Menu
+text segmentation	segmentacija teksta
+Translation editing	Revidiranje prijevoda	OmegaT - Options Menu [?]
+Match Display Template	Predložak prikaza podudaranja	OmegaT - Options Menu
+pre-configured variable	već namještena varijabla
+interval	vremenski razmak
+consecutive automatic saves	uzastopna automatska spremanja
+automatic save	automatsko spremanje
+default state	zadano stanje
+post-processing command	postobradna naredba
+default browser	zadani preglednik
+credits	zahvale
+license information	podaci o licenciranju
+functionalities	funkcije
+enhancement	poboljšanje
+bug fix	ispravak nedostatka
+new release	nova inačica
+current log file	tekuća datoteka zapisnika
+editing	obrađivanje
+moving around	prebacivanje
+reference window	referentni prozor
+root folder	korijenska mapa
+Open project	Otvaranje projekta	OmegaT - Project management shortcuts
+Save	Spremi	OmegaT - Project management shortcuts
+Close Project	Zatvaranje projekta	OmegaT - Project management shortcuts
+Create Translated Documents	Izradi prevedene dokumente	OmegaT - Project management shortcuts
+Project properties	Svojstva projekta	OmegaT - Project management shortcuts
+Undo last action	Poništi zadnju radnju	OmegaT - Editing shortcuts
+Redo last action	Ponovi zadnju radnju	OmegaT - Editing shortcuts
+Select match #N	Odaberi podudaranje br. N	OmegaT - Editing shortcuts
+Replace with match	Zamijeni podudaranjem	OmegaT - Editing shortcuts
+Insert match	Umetni podudaranje	OmegaT - Editing shortcuts
+Replace with source	Zamijeni izvorišnim tekstom	OmegaT - Editing shortcuts
+Insert source	Umetni izvorišni tekst	OmegaT - Editing shortcuts
+Insert Source Tags	Umetni izvorišne oznake teksta	OmegaT - Editing shortcuts
+Search project	Pretraživanje projekta	OmegaT - Editing shortcuts
+Replace with Machine Translation	Zamijeni strojnim prijevodom	OmegaT - Editing shortcuts
+Export Selection	Izvezi odabrano	OmegaT - Editing shortcuts
+Create Glossary Entry	Dodavanje termina u glosar	OmegaT - Editing shortcuts
+Next Untranslated Segment	Sljedeći neprevedeni segment	OmegaT - Moving around shortcuts
+Next Segment	Sljedeći segment	OmegaT - Moving around shortcuts
+Previous Segment	Prethodni segment	OmegaT - Moving around shortcuts
+editing field	polje za obradu
+Segment number...	Segment pod brojem...	OmegaT - Moving around shortcuts
+Back in history...	Natrag po kronologiji...	OmegaT - Moving around shortcuts
+Forward in history...	Naprijed po kronologiji...	OmegaT - Moving around shortcuts
+Project files listing	Popis datoteka projekta	OmegaT - Various shortcuts
+Validate Tags	Provjera valjanosti oznaka teksta	OmegaT - Various shortcuts
+Export Selection	Izvezi odabrano<	OmegaT - Various shortcuts
+Search Project	Pretraživanje projekta	OmegaT - Various shortcuts
+Help files	Datoteke pomoći	OmegaT - Various shortcuts
+drop-down menu	padajući izbornik
+Enable Sentence-level Segmenting	Uključi segmentaciju na razini rečenice	OmegaT - Project Menu
+segmenting by paragraphs	segmentiranje po odlomcima
+Project specific segmentation rules	Pravila segmentacije za predmetni projekt	OmegaT - Project Menu
+set of file filters	skup datotečnih filtara
+Auto-propagation of Translations	Automatska propagacija prijevoda	OmegaT - Project Menu
+automatic translation	automatsko prevođenje
+auto-propagation	automatska propagacija
+Remove Tags	Ukloni oznake teksta	OmegaT - Project Menu
+inline formatting	umetnuto oblikovanje
+inline tag	umetnuta oznaka teksta
+External Post-processing Command	Vanjska postobradna naredba	OmegaT - Project Menu
+pipe	znak okomite crte
+external command	vanjska naredba
+File locations	Lokacije datoteka	OmegaT - Project Menu
+Exclusions...	Izuzeća...	OmegaT - Project Menu
+Exclusion Patterns	Uzorci izuzeća	OmegaT - Project Menu
+Exclusion Patterns dialog	dijaloški okvir Uzorci izuzeća
+pattern	uzorak
+wildcard	zamjenski znak
+ant syntax	sintaksa ant
+textual information	tekstne informacije
+Text	Tekst	OmegaT - Options Menu (file fillters dialog)
+Source File Encoding	Kodiranje izvorišnih datoteka	OmegaT - Options Menu (file fillters dialog)
+<auto>	<automatski>	OmegaT - Options Menu (file fillters dialog)
+File Format	Datotečni format	OmegaT - Options Menu (file fillters dialog)
+Edit Filter	Obrada filtra	OmegaT - Options Menu (file fillters dialog)
+Source File Encoding	Kodiranje izvorišne datoteke	OmegaT - Options Menu (file fillters dialog)
+Translated File Encoding	Kodiranje prevedene datoteke	OmegaT - Options Menu (file fillters dialog)
+Source Filename Pattern	Uzorak naziva izvorišnih datoteka	OmegaT - Options Menu (file fillters dialog)
+short list	uži popis
+main project folder	glavna mapa projekta
+main translation memory	glavna prijevodna memorija
+pretranslation	pretprevođenje
+translation unit	prijevodna jedinica
+master TM	glavna prijevodna memorija
+team member	član tima
+target version	odredišna inačica
+backup	sigurnosna kopija
+translation unit variant	varijanta prijevodne jedinice
+TUV	VPJ	OmegaT - [varijanta prijevodne jedinice]
+multilingual	višejezična
+reference translation	referentni prijevod
+repository folder	mapa repozitorija
+defective file	neispravna datoteka
+invalid tmx file	neispravna datoteka tmx
+troubleshooting	rješavanje problema
+sharing	zajedničko korištenje
+revision control system	sustav za nadziranje revizija
+open source license	licenca otvorenoga kôda
+alternative language pair	alternativni jezični par
+Comment pane	okno komentara
+pseudotranslation	pseudoprijevod
+pseudo-translated memory	pseudoprevedena memorija
+translation memory tool	alat za rad s prijevodnim memorijama
+rule-based segmentation	segmentacija na temelju pravila
+sentence segmentation	segmentacija po rečenicama
+project translation memory	prijevodna memorija projekta
+empty line	prazni redak
+structural unit	strukturna jedinica
+segment break	prijelom segmenta
+exception rule	pravilo iznimke
+break rule	pravilo prijeloma
+Break/Exception	Prijelom/iznimka	OmegaT - segmentation rules
+European language	europski jezik
+Japanese	japanski
+language pattern	jezični uzorak
+set of rules	skup pravila
+Add	Dodaj	OmegaT - Segmentation...
+Move Up	Premjesti nagore	OmegaT - Segmentation...
+period	točka
+space	razmak
+tab	tabulator
+Japanese period	japanska točka	„。”
+dropdown arrow	strelica za otvaranje padajućega izbornika
+File	Datoteka	OmegaT - Search window
+Search for selection	Traži odabrano	OmegaT - Search window
+search field	polje za pretraživanje
+Close	Zatvori	OmegaT - Search window
+Insert source	Umetni izvorišni tekst	OmegaT - Search window
+Edit	Obrada	OmegaT - Search window
+Replace with source	Zamijeni izvorišnim tekstom	OmegaT - Search window
+Create Glossary Entry	Dodavanje termina u glosar	omegaT - Search window
+search term	izraz za pretraživanje
+Exact search	Pretraživanje po istovjetnosti	OmegaT - Search window
+Keyword search	Pretraživanje po ključnim riječima	OmegaT - Search window
+Internet search engine	pretraživač weba
+search string	niz za pretraživanje
+Case sensitive	Razlikovanje velikih/malih slova	OmegaT - Search window
+Space matches nbsp	Razmak uključuje i nbsp	OmegaT - Search window
+non-breaking space	neodvojivi razmak	?
+In source	U izvorniku	OmegaT - Search window
+In translations	U prijevodima	OmegaT - Search window
+In notes	U bilješkama	OmegaT - Search window
+In comments	U komentarima	OmegaT - Search window
+Translated or untranslated	Prevedeno ili neprevedeno	OmegaT - Search window
+Translated	Prevedeno	OmegaT - Search window
+Untranslated	Neprevedeno	OmegaT - Search window
+Display:	Prikaz:	OmegaT - Search window
+all matching segments	svi pronađeni segmenti	OmegaT - Search window
+file names	nazivi datoteka	OmegaT - Search window
+Search in	Pretraži	OmegaT - Search window
+Project	Projekt	OmegaT - Search window
+Memory	Memorija	OmegaT - Search window
+TMs	TM-ovi	OmegaT - Search window
+Glossaries	Glosari	OmegaT - Search window
+Files	Datoteke	OmegaT - Search window
+Show Advanced Options	Prikaz naprednih mogućnosti	OmegaT - Search window
+Exclude orphan segments	Isključi segmente „siročiće”	OmegaT - Search window
+Full/Half width char insensitive	Bez razlikovanja širine znakova	OmegaT - Search window
+fullwidth form	oblik pune širine	znakovi za CJK (Chinese, Japanese, Korean)
+CJK characters	znakovi za CJK	CJK = Chinese, Japanese, Korean
+halfwidth form	poluširoki oblik
+search results	rezultati pretraživanja
+search button	gumb za pretraživanje
+identical segments	istovjetni segmenti
+translated text	prevedeni tekst
+Auto-sync with Editor	Automatska sinkronizacija s oknom za obradu	OmegaT - Search window
+terminology	terminologija
+standard shortcut	standardni prečac
+entry	pojavnica
+entry	natuknica
+Filter	Filtriraj	OmegaT - Search window
+search criteria	kriteriji pretraživanja
+matching entry	odgovarajuća pojavnica
+duplicate	duplikat
+Remove filter	Ukloni filtar	OmegaT - Editor pane
+Search for:	Traži:	OmegaT - Text Replace window
+Search	Traži	OmegaT - Search & Text Replace windows
+Replace with:	Zamijeni ovim:	OmegaT - Text Replace window
+Replace All	Zamijeni sve	OmegaT - Text Replace window
+occurrence	pojavnica
+confirmation window	prozor za potvrdu
+Replace	Zamijeni	OmegaT - Text Replace window
+Replace Next	Zamijeni sljedeći	OmegaT - Text Replace > Editor pane
+Skip	Preskoči	OmegaT - Text Replace > Editor pane
+Finish	Završi	OmegaT - Text Replace > Editor pane
+Close	Zatvori	OmegaT - Text Replace window
+search options	mogućnosti pretraživanja
+Untranslated	Neprevedeno	OmegaT - Text Replace window
+regex	regex	OmegaT - regex
+flag	indikator	OmegaT - regex
+construct	konstrukt	OmegaT - regex
+character	znak
+hexadecimal value	heksadecimalna vrijednost	OmegaT - regex
+tab character	znak tabulatora	OmegaT - regex
+newline (line feed) character	znak novoga retka	OmegaT - regex
+carriage-return character	znak kraja retka	OmegaT - regex
+form-feed character	znak nove stranice	OmegaT - regex
+alert (bell) character	znak zvona	OmegaT - regex
+escape character	prekidni znak	OmegaT - regex
+control character	kontrolni znak	OmegaT - regex
+octal value	oktalna vrijednost	OmegaT - regex
+character with hexadecimal value 0xhhhh	znak heksadecimalne vrijednosti 0xhhhh	OmegaT - regex
+character with octal value 0n	znak oktalne vrijednosti 0n	OmegaT - regex
+character with octal value 0nn	znak oktalne vrijednosti 0nn	OmegaT - regex
+character with octal value 0mnn	znak oktalne vrijednosti 0mnn	OmegaT - regex
+character with hexadecimal value 0xhh	znak heksadecimalne vrijednosti 0xhh	OmegaT - regex
+quotation	citat	OmegaT - regex
+meta character	metaznak	OmegaT - regex
+backslash character	znak obrnute kose crte	OmegaT - regex
+backslash	obrnuta kosa crta
+quoting	citiranje	OmegaT - regex
+block	blok	OmegaT - regex
+Greek block	grčki blok	OmegaT - regex
+character in the Greek block	znak u grčkome bloku	OmegaT - regex
+uppercase letter	veliko slovo
+category	kategorija	OmegaT - regex
+currency symbol	simbol valute	OmegaT - regex
+any character	bilo koji znak	OmegaT - regex
+negation	negacija	OmegaT - regex
+any letter	bilo koje slovo	OmegaT - regex
+subtraction	oduzimanje	OmegaT - regex
+character class	klasa znakova	OmegaT - regex
+simple class	jednostavna klasa	OmegaT - regex
+range	raspon	OmegaT - regex
+predefined character class	unaprijed određena klasa znakova	OmegaT - regex
+line terminator	znak okončanja retka	OmegaT - regex
+digit	znamenka	OmegaT - regex
+non-digit	nije znamenka	OmegaT - regex
+whitespace character	znak bjeline	OmegaT - regex
+non-whitespace character	nije praznina	OmegaT - regex
+word character	znak riječi	OmegaT - regex
+non-word character	nije riječ	OmegaT - regex
+boundary matcher	granični podudarivač	OmegaT - regex
+beginning of a line	početak retka	OmegaT - regex
+end of a line	kraj retka	OmegaT - regex
+word boundary	granica riječi	OmegaT - regex
+non-word boundary	granica svega osim riječi	OmegaT - regex
+greedy quantifier	pohlepni kvantifikator	OmegaT - regex
+reluctant (non-greedy) quantifier	reluktantni (nepohlepni) kvantifikator	OmegaT - regex
+logical operator	logički operator	OmegaT - regex
+regex tools	alati za regex
+interactive tool	interaktivni alat
+Regular Expression Tester	Regular Expression Tester	OmegaT - alat za regex
+text box	tekstni okvir
+stand-alone tool	samostalni alat
+double words	dvostruke riječi	OmegaT - regex
+comma	zarez
+end of the line	kraj retka
+vowel	samoglasnik
+consonant	suglasnik
+CSV format	format CSV
+plain text format	format običnoga teksta
+LISA	LISA
+ISO	ISO
+terminology services	terminološke usluge
+TaaS service	servis TaaS
+Russian	ruski
+public data	javni podaci
+private data	privatni podaci
+private glossary	privatni glosar	OmegaT - TaaS service
+collection	zbirka	OmegaT - TaaS service
+key	ključ	OmegaT - TaaS service
+Browse TaaS Collections	Pregled TaaS-ovih zbirki	OmegaT - Options Menu [OBSOLETE]
+private collection	privatna zbirka	OmegaT - TaaS service
+current glossary folder	tekuća mapa glosara
+glossary folder	mapa glosara
+TaaS Terminology Lookup	Pretraživanje TaaS-ove terminologije	OmegaT - Options Menu [OBSOLETE]
+amount of data	količina podataka
+Select TaaS Terminology Lookup Domain	Odabir područja pretraživanja TaaS-ove terminologije	OmegaT - Options Menu
+domain	područje
+linguistic tools	lingvistički alati
+rule-based linguistic tools	lingvistički alati na temelju pravila
+translation model	prijevodni model
+statistical learning techniques	tehnike učenja na temelju statističke obrade
+machine translation service	servis za strojno prevođenje
+on-line	spojen na internet
+private unique key	privatni jedinstveni ključ	OmegaT - Google services
+final translation	konačni prijevod
+Google Translate	Google prevoditelj	OmegaT - Options Menu
+machine translation engine	modul za strojno prevođenje
+language-independent	neovisan o jezicima
+linguistic data	lingvistički podaci
+machine translation system	sustav strojnoga prevođenja
+de-formatting	uklanjanje oblikovanja
+morphological analysis	morfološka analiza
+part-of-speech disambiguation	automatsko određivanje vrsta riječi
+shallow structural transfer	plitki strukturalni prijenos
+lexical transfer	leksički prijenos
+morphological generation	morfološko generiranje
+re-formatting	vraćanje oblikovanja
+simple XML-based standard format	format na temelju norme jednostavnoga XML-a
+professional translator	profesionalni prevoditelj
+private TM	privatna prijevodna memorija	OmegaT - MyMemory
+MT tool	alat za strojno prevođenje
+online	spojen na internet
+runtime parameters	parametri izvođenja
+Google Translate v2	Google prevoditelj v2	OmegaT - Options Menu
+built-in	ugrađen
+spelling dictionary	rječnik za provjeru pravopisa
+spell check function	funkcija provjere pravopisa
+dictionary file	datoteka rječnika
+manually	ručnim putem
+file manager	program za upravljanje datotekama
+Install new dictionary...	Instaliranje novoga rječnika...	OmegaT - Options Menu
+Internet connection	internetska veza
+setup window	prozor postavki
+URL of online dictionaries:	URL rječnika na webu:	OmegaT - Options Menu
+dictionary installer window	prozor za instaliranje rječnika
+Automatically check the spelling of text	Automatska provjera pravopisa teksta	OmegaT - Options Menu
+underlined word	podcrtana riječ
+target language code	oznaka odredišnoga jezika
+Remove	Ukloni	OmegaT - Options Menu
+GUI	grafičko korisničko sučelje
+localized interface	lokalizirano sučelje
+aligning	sravnjivanje
+automatic aligner	alat za automatsko sravnjivanje
+Font	Font	OmegaT - Options Menu
+Size	Veličina	OmegaT - Options Menu
+font size	veličina fonta
+Sample text	Ogledni tekst	OmegaT - Options Menu
+immediate preview	izravni prikaz
+backup translation memory	sigurnosna kopija prijevodne memorije
+backup media	mediji za sigurnosno kopiranje
+CD	CD
+DVD	DVD
+Free Software Foundation	Free Software Foundation
+library	biblioteka
+installation program	instalacijski program
+.zip archive	arhiva .zip
+unpack	raspakirati
+Applications folder	mapa Aplikacije	Mac OS X
+archive	arhiva
+installation script	instalacijska skripta
+Dock	Dock	Mac OS X
+Finder window	prozor Finder	Mac OS X
+Finder	Finder	Mac OS X
+Spotlight	Spotlight	Mac OS X
+Kaptain script	skripta Kaptain
+Kaptain	Kaptain
+launch	pokrenuti
+at system level	na razini sustava
+command path	putanja naredbe
+full path	puna putanja
+QA	kontrola kakvoće
+check rules	pravila provjere
+punctuation	interpunkcija
+local working copy	lokalna radna kopija
+file picker	pronalazač datoteka
+valid value	valjana vrijednost
+invalid tag	neispravna oznaka teksta
+usage information	informacije o korištenju
+supported file format	podržani datotečni format
+MED Project	projekt MED
+source document	izvorišni dokument
+Left-to-right mark	oznaka slijeva nadesno	LRM
+Right-to-left mark	oznaka zdesna nalijevo	RLM
+left-to-right embedding	Ulaganje slijeva nadesno	LRE
+right-to-left embedding	ulaganje zdesna nalijevo	RLE
+Pop directional formatting	Pop usmjereno oblikovanje	PDF
+prediction	predviđanje upisa
+completion	dovršavanje upisa
+fatal error	ozbiljna pogreška
+word	riječ
+without spaces	bez razmaka
+space	razmak
+including spaces	s razmacima
+unique	jednokratni
+unique word	jednokratna riječ
+unique character	jednokratni znak
+structure-level segmentation	segmentacija na razini strukture
+sentence-level segmenting	segmentacija na razini rečenice
+writeable glossary	zapisivi glosar
+tokenizer	tokenizator
+Saving and Output	Spremanje i izlazni rezultati	OmegaT - Options Menu
+ZIP file	datoteka ZIP
+remote folder	udaljena mapa
+remote file	udaljena datoteka
+Select Folder	Odabir mape	OmegaT - Text Search
+matching segments	pronađeni segmenti
+TM	prijevodna memorija
+space-separated	razdvojeni razmacima
+replacement string	zamjenski niz
+find	pronađeni rezultat
+maximum number	najveći broj
+XML file	datoteka XML
+XML version	inačica XML-a
+unsupported	nepodržan
+comment tag	oznaka komentara
+empty tag	prazna oznaka
+close block	završni blok
+malformed data	deformirani podaci
+parse error	pogreška u analizi
+preferences file	datoteka postavki
+recoverable error	popravljiva pogreška
+unrecoverable error	nepopravljiva pogreška
+TMX header	zaglavlje TMX-a
+resegment	ponovno segmentirati
+jar	jar
+Translated File Encoding	Kodiranje prevedenih datoteka
+Translated Filename Pattern	Uzorak naziva datoteka prijevoda
+PO	PO
+blank source segment	prazni izvorišni segment
+Standard	Standardni
+invalid file format	neispravan datotečni format
+PDF input	Unos PDF-a
+password-protected	zaštićen lozinkom
+untranslated string	neprevedeni niz
+line length	dužina retka
+\u sequence	slijed \u
+sequence	slijed
+XLIFF	XLIFF
+ResX	ResX
+Schematron	Schematron
+RELAX NG	RELAX NG
+WiX Localization	WiX Localization
+Typo3 LocManager	Typo3 LocManager
+Typo3 l10nmgr	Typo3 l10nmgr
+SVG Image	Slika SVG
+Infix	Infix
+DOCTYPE declaration	deklaracija DOCTYPE
+namespace	polje naziva
+identifier	identifikator
+resname	naziv izvora
+fallback	povrat
+filter pattern	uzorak filtra
+setting	postavka
+language attribute	jezični atribut
+break	prijelom
+HHC file	datoteka HHC
+set of segmentation rules	skup pravila segmentacije
+TM Matches	Podudaranja iz prijevodnih memorija	OmegaT - Options Menu
+tooltips	opisi alata
+protected part	zaštićeni dio
+protected parts	zaštićeni dijelovi
+custom template	prilagođeni predložak
+custom templates	prilagođeni predlošci
+authenticated proxy	autorizirani proxy
+protected text	zaštićeni tekst
+in bold	u obliku podebljanoga teksta
+home folder	početna mapa
+application startup	pokretanje programa
+event	događaj
+application shutdown	zatvaranje programa
+spellchecking dictionary	pravopisni rječnik
+local port	lokalni priključak
+port	priključak
+JAR file	datoteka JAR
+local server	lokalni poslužitelj
+remote server	udaljeni poslužitelj
+Latin letters	slova latiničnoga pisma
+underscore	podvlaka
+glossary match	podudaranje iz glosara
+MT	strojni prijevod
+response	odziv
+engine	modul
+daily limit	dnevno ograničenje
+translation direction	smjer prevođenja
+scripts folder	mapa skripti
+remote translation	udaljeni prijevod
+push	prosljeđivanje
+offline mode	izvanmrežni način rada
+in offline mode	u izvanmrežnom načinu rada
+local project	lokalni projekt
+team functionality	funkcija za timski rad
+local data	lokalni podaci
+authentication	autorizacija
+remote repository	udaljeni repozitorij
+local translation	lokalni prijevod
+team synchronization	timsko usklađivanje
+project file	datoteka projekta
+remote project file	udaljena datoteka projekta
+History Completions	Upisi dovršeni prema kronologiji
+History Predictions	Upisi predviđeni prema kronologiji
+typed text	uneseni tekst
+auto-text file	datoteka automatskoga teksta
+full text	cijeli tekst
+full table	cijela tablica
+custom table	prilagođena tablica
+change date	datum izmjene
+creation date	datum izrade
+TaaS Collections	TaaS-ove zbirke
+collection list	popis zbirki	OmegaT - TaaS
+domain list	popis područja	OmegaT - TaaS
+response format	format odziva	OmegaT - TaaS
+TaaS	TaaS
+custom colours	prilagođene boje
+aligner	alat za automatsko sravnjivanje
+Accepted	Prihvaćena	OmegaT - Aligner
+Needs Review	Za pregled	OmegaT - Aligner
+new colours	nove boje	OmegaT - Aligner
+colour	boja	OmegaT - Aligner
+language-dependent	ovisno o jeziku
+Table View	Tablični prikaz
+fuzzy	djelomično podudaran
+Changed by	Autor izmjene
+Changed on	Vrijeme izmjene
+Created by	Autor
+Created on	Vrijeme izrade
+Move Down	Premjesti nadolje
+Start Pinpoint Align	Početak pozicijskoga sravnjivanja
+Toggle Selected	Mijenjanje odabira
+Segment	Segmentiraj	OmegaT - Aligner
+filter settings	postavke filtra
+master password	glavna lozinka
+empty	bez znakova
+provider	davatelj
+Secure Store	Sigurna pohrana
+for security reasons	zbog sigurnosnih razloga
+External Search	Pretraživanje vanjskih sadržaja	OmegaT - Options Menu
+delimiter	graničnik
+command delimiter	graničnik naredbe
+context menu	kontekstni izbornik
+mnemonic	mnemonik
+search text	tekst za pretraživanje
+sample output	primjer rezultata
