@@ -21538,6 +21538,22 @@ u konfiguracijskoj mapi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134245Z" creationid="DGRACIN" creationdate="20180312T134245Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134302Z" creationid="DGRACIN" creationdate="20180312T134302Z">
+        <seg>URL poslužitelja za Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180123T192351Z" creationid="DGRACIN" creationdate="20180123T192351Z">
@@ -23014,6 +23030,14 @@ u konfiguracijskoj mapi.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182714Z" creationid="DGRACIN" creationdate="20170531T182714Z">
         <seg>ODF – OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134332Z" creationid="DGRACIN" creationdate="20180312T134332Z">
+        <seg>U redu</seg>
       </tuv>
     </tu>
     <tu>
@@ -28644,6 +28668,14 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134427Z" creationid="DGRACIN" creationdate="20180312T134427Z">
+        <seg>Poslužitelj ne poznaje metodu „prijevoda”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T184300Z" creationid="DGRACIN" creationdate="20180219T184300Z">
@@ -30818,6 +30850,14 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134327Z" creationid="DGRACIN" creationdate="20180312T134327Z">
+        <seg>Provjeravanje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T212832Z" creationid="DGRACIN" creationdate="20180217T212832Z">
@@ -31219,6 +31259,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180123T184627Z" creationid="DGRACIN" creationdate="20180123T184413Z">
         <seg>Statistički podaci podudaranja razdvojeni su tabulatorom, pa stoga možete označiti sve podatke kombinacijom tipki &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, kopirati ih s pomoću Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, pa na koncu zalijepiti putem &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; u neki program za rad s proračunskim tablicama radi lakšega pregledavanja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134318Z" creationid="DGRACIN" creationdate="20180312T134318Z">
+        <seg>URL poslužitelja za Moses nije postavljen</seg>
       </tuv>
     </tu>
     <tu>
@@ -45650,6 +45698,16 @@ izradu konfiguracijske mape.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T134526Z" creationid="DGRACIN" creationdate="20180312T134526Z">
+        <seg>Riječ</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OmegaT_4.1.3_Beta_L10N_Full/source/doc_src/en/Miscelanea.xml</prop>
       <prop type="prev">&lt;a0&gt;OmegaT&lt;/a0&gt; main window (Editor, Match viewer, Glossary viewer)</prop>
