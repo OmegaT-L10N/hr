@@ -13530,6 +13530,14 @@ datoteka project_save.tmx nije poslana, a SVN je prebačen na nestabilno stanje.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T133915Z" creationid="DGRACIN" creationdate="20180312T133915Z">
+        <seg>Pogreška prilikom zamjene regularnoga izraza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T190340Z" creationid="DGRACIN" creationdate="20180219T190340Z">
@@ -36616,6 +36624,14 @@ u retku {1}, stupac {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T133856Z" creationid="DGRACIN" creationdate="20180312T133856Z">
+        <seg>Za referencu na određeni broj skupine koristite $n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T111546Z" creationid="DGRACIN" creationdate="20180206T111546Z">
@@ -37752,6 +37768,14 @@ u retku {1}, stupac {2}.</seg>
         <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T195307Z" creationid="DGRACIN" creationdate="20180217T195307Z">
+        <seg>Valja znati da pri korištenju regularnih izraza zamjenski niz ne podržava reference na skupine definirane u nizu za pretraživanje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180312T133722Z" creationid="DGRACIN" creationdate="20180312T133722Z">
         <seg>Valja znati da pri korištenju regularnih izraza zamjenski niz ne podržava reference na skupine definirane u nizu za pretraživanje.</seg>
       </tuv>
     </tu>
