@@ -18477,6 +18477,15 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>K fix</note>
+      <tuv lang="EN">
+        <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T191331Z" creationid="Kos Ivantsov" creationdate="20180315T191331Z">
+        <seg>Ako tome nije tako, otvorite glavni dijaloški okvir putem&lt;e0&gt; Mogućnosti → Datotečni filtri...&lt;/e0&gt; na glavnome izborniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.</seg>
@@ -19064,7 +19073,7 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>K Fix</note>
+      <note>K fix</note>
       <tuv lang="EN">
         <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
