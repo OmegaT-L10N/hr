@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10292M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2949,6 +2949,15 @@ Trenutno postavljena veličina iznosi {0}MB.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180115T075808Z" creationid="DGRACIN" creationdate="20180115T075808Z">
         <seg>&lt;e0&gt;Ne prevodi sadržaj atributa metaoznaka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>K fix</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183621Z" creationid="Kos Ivantsov" creationdate="20180315T183555Z">
+        <seg>&lt;e0&gt;Ne prevodi sadržaj atributa metaoznaka... :&lt;/e0&gt; Popis metaoznaka koje se ne prevode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10093,6 +10102,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184248Z" creationid="Kos Ivantsov" creationdate="20180315T184248Z">
+        <seg>Pritisnite &lt;g1&gt;Kopiraj datoteke u izvorišnu mapu...&lt;/g1&gt; radi odabira izvorišnih datoteka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T183113Z" creationid="DGRACIN" creationdate="20180114T183436Z">
@@ -10121,6 +10138,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180118T093117Z" creationid="DGRACIN" creationdate="20180118T091850Z">
         <seg>Pritisnite na simbol, a zatim na &lt;e0&gt;Pregled...&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the icon button, then hit &lt;e0&gt;Browse...&lt;/e0&gt; and navigate to the /images subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184224Z" creationid="Kos Ivantsov" creationdate="20180315T184224Z">
+        <seg>Pritisnite na simbol, a zatim na &lt;e0&gt;Pregled...&lt;/e0&gt; pa prijeđite na podmapu /images u programskoj mapi &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17306,6 +17331,14 @@ zadana vrijednosti uslijed promjene lokacije.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184131Z" creationid="Kos Ivantsov" creationdate="20180315T184131Z">
+        <seg>Ako podatke izvozite prema ponuđenoj funkciji razdvajanja tabulatorom („tab-delimited export”), trebate izbrisati prvih pet stupaca koje stvara program (Seq.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq. Nr, Date created etc).</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180224T093245Z" creationid="DGRACIN" creationdate="20180116T101743Z">
@@ -17574,6 +17607,15 @@ zadana vrijednosti uslijed promjene lokacije.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180115T100337Z" creationid="DGRACIN" creationdate="20180115T100337Z">
         <seg>Za vraćanje zadanih postavki filtra pritisnite &lt;e2&gt;Zadano&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>K Fix</note>
+      <tuv lang="EN">
+        <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183737Z" creationid="Kos Ivantsov" creationdate="20180315T183737Z">
+        <seg>Za vraćanje zadanih postavki filtra pritisnite &lt;e2&gt;Zadano&lt;/e2&gt;. Naziv možete mijenjati i izravno u polju uzorka naziva odredišne datoteke dijaloškoga okvira filtra datoteka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22998,6 +23040,14 @@ u konfiguracijskoj mapi.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T195930Z" creationid="DGRACIN" creationdate="20180217T195930Z">
         <seg>Br. pronađenih segmenata: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr, Date created etc).</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184141Z" creationid="Kos Ivantsov" creationdate="20180315T184141Z">
+        <seg>Nr, Date created itd).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32465,6 +32515,15 @@ xx ili xxx oznaka jezika, dok je YY oznaka regije ili države (po izboru).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>K Fix</note>
+      <tuv lang="EN">
+        <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184113Z" creationid="Kos Ivantsov" creationdate="20180315T184113Z">
+        <seg>Lokaciju datoteke zapisivoga glosara možete odrediti u dijaloškome okviru &lt;g0&gt;Projekt &gt; Svojstva...&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
@@ -34526,6 +34585,14 @@ poslužitelja.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184005Z" creationid="Kos Ivantsov" creationdate="20180315T184005Z">
+        <seg>Radi se o običnoj datoteci html, koja vas po otvaranju internetskim preglednikom upućuje na korisničku skupinu programa OmegaT na servisu Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo! Groups.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182709Z" creationid="DGRACIN" creationdate="20170531T182709Z">
@@ -35386,6 +35453,15 @@ poslužitelja.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>K fix</note>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183710Z" creationid="Kos Ivantsov" creationdate="20180315T183710Z">
+        <seg>Uzorak datotečnoga filtra možete mijenjati bilo izravnim mijenjanjem polja ili pritiskom na &lt;e0&gt;Obrada&lt;/e0&gt;. Novi uzorak datotečnoga filtra možete dodati pritiskom na &lt;e1&gt;Dodaj&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
@@ -35455,6 +35531,15 @@ poslužitelja.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180218T202014Z" creationid="DGRACIN" creationdate="20180114T182814Z">
         <seg>Prikaz datotečnih formata koje podržava program OmegaT možete vidjeti putem izbornika &lt;g0&gt;Mogućnosti &gt; Datotečni filtri...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>K fix</note>
+      <tuv lang="EN">
+        <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183353Z" creationid="Kos Ivantsov" creationdate="20180315T183353Z">
+        <seg>Prikaz datotečnih formata koje podržava program OmegaT možete vidjeti putem izbornika &lt;g0&gt;Mogućnosti &gt; Datotečni filtri...&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41995,11 +42080,28 @@ izradu konfiguracijske mape.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>K fix</note>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183954Z" creationid="Kos Ivantsov" creationdate="20180315T183954Z">
+        <seg>ako postoji, ova datoteka sadržava datotečne filtere za predmetni projekt, ako se to zatraži putem &lt;g0&gt;Projekt &gt; Svojstva... &lt;/g0&gt;Pogledajte &lt;l1&gt;poglavlje Svojstva projekta&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ...</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180218T195703Z" creationid="DGRACIN" creationdate="20180115T130657Z">
         <seg>ako postoji, ova datoteka sadržava pravila segmentacije za predmetni projekt, ako se to zatraži putem &lt;g0&gt;Projekt &gt; Svojstva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183815Z" creationid="Kos Ivantsov" creationdate="20180315T183815Z">
+        <seg>ako postoji, ova datoteka sadržava pravila segmentacije za predmetni projekt, ako se to zatraži putem &lt;g0&gt;Projekt &gt; Svojstva... &lt;/g0&gt;Pogledajte &lt;l1&gt;poglavlje Svojstva projekta&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45858,6 +45960,29 @@ izradu konfiguracijske mape.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180225T121345Z" creationid="DGRACIN" creationdate="20180225T121345Z">
         <seg>Odredište:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Website.xml</prop>
+      <prop type="prev">User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</prop>
+      <prop type="next">The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</prop>
+      <note>K fix</note>
+      <tuv lang="EN">
+        <seg>User Group&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T183337Z" creationid="Kos Ivantsov" creationdate="20180315T183337Z">
+        <seg>na servisu Yahoo!&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/FilesAndFolders.xml</prop>
+      <prop type="prev">This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</prop>
+      <prop type="next">Joining is not necessary, but will provide you with access to additional services, such as files, questionnaires, and the opportunity to take part in OmegaT-related discussions.</prop>
+      <tuv lang="EN">
+        <seg>Groups.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="Kos Ivantsov" changedate="20180315T184013Z" creationid="Kos Ivantsov" creationdate="20180315T184013Z">
+        <seg>Groups.</seg>
       </tuv>
     </tu>
     <tu>
