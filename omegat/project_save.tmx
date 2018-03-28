@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10292M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6942,6 +6942,14 @@ Trenutno postavljena veličina iznosi {0}MB.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T192326Z" creationid="DGRACIN" creationdate="20180205T192326Z">
         <seg>===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180328T102007Z" creationid="DGRACIN" creationdate="20180328T102007Z">
+        <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
     </tu>
     <tu>
@@ -49381,7 +49389,7 @@ izradu konfiguracijske mape.</seg>
       <prop type="file">doc_src/App_Website.xml</prop>
       <prop type="prev">User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</prop>
       <prop type="next">The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</prop>
-      <note>K fix</note>
+      <note>K fix - Where is the fix [DGRACIN]?</note>
       <tuv lang="EN">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
