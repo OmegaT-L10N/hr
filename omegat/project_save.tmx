@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6948,8 +6948,8 @@ Trenutno postavljena veličina iznosi {0}MB.</seg>
       <tuv lang="EN">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20180328T102007Z" creationid="DGRACIN" creationdate="20180328T102007Z">
-        <seg>@TRANSLATION_NOTICE@</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180402T115034Z" creationid="DGRACIN" creationdate="20180328T102007Z">
+        <seg>Autor ovoga prijevoda je Denis Gracin; autorska prava © 2018.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31392,6 +31392,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182901Z" creationid="DGRACIN" creationdate="20170531T182901Z">
         <seg>Ponekad je korisno razlikovati prijevodne memorije visoke kvalitete od onih manje pouzdanih, bilo zbog tematike, klijenta, stanja provjere ili nečega drugoga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180402T114426Z" creationid="DGRACIN" creationdate="20180402T114426Z">
+        <seg>Sorry</seg>
       </tuv>
     </tu>
     <tu>
