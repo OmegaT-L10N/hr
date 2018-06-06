@@ -22740,6 +22740,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105530Z" creationid="DGRACIN" creationdate="20180606T105530Z">
+        <seg>Popisi adresa za primanje pošte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180123T190739Z" creationid="DGRACIN" creationdate="20180123T190739Z">
@@ -25351,6 +25359,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105631Z" creationid="DGRACIN" creationdate="20180606T105631Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182710Z" creationid="DGRACIN" creationdate="20170531T182631Z">
@@ -25427,6 +25443,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T182744Z" creationid="DGRACIN" creationdate="20180205T182534Z">
         <seg>OmegaT također izrađuje sigurnosne kopije prijevodne memorije, tj. datoteke project_save.tmx.GODNMMDDHHNN.bak, i sprema ih u istu podmapu pri svakom otvaranju ili ponovnom učitavanju projekta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105628Z" creationid="DGRACIN" creationdate="20180606T105628Z">
+        <seg>Za program OmegaT postoje sljedeći popisi adresa za primanje pošte i praćenje, i to na servisu Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25540,6 +25564,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T093704Z" creationid="DGRACIN" creationdate="20180205T093704Z">
         <seg>OmegaT ima ugrađeni alat za provjeru pravopisa na osnovama koje se koriste u paketima Apache OpenOffice i LibreOffice i programima Firefox i Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105417Z" creationid="DGRACIN" creationdate="20180606T105417Z">
+        <seg>Korisnička skupina programa OmegaT vrlo je aktivna, uvijek spremna na pomoć te višejezična. Nalazi se &lt;a0&gt;ovdje&lt;/a0&gt; i toplo preporučujemo korisnicima da joj se priključe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33964,6 +33996,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105645Z" creationid="DGRACIN" creationdate="20180606T105645Z">
+        <seg>Popis programera programa OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104525Z" creationid="DGRACIN" creationdate="20180606T104525Z">
@@ -36477,6 +36517,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T210743Z" creationid="DGRACIN" creationdate="20180122T113134Z">
         <seg>U gornjemu je dijelu izvorišni jezik, prikazan podebljanim znakovima i na zelenoj pozadini, dok je u donjemu dijelu polje za obradu, nakon kojega se nalazi &lt;i0/&gt;marker u obliku &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt;, pri čemu je nnnn broj segmenta u okviru projekta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105501Z" creationid="DGRACIN" creationdate="20180606T105501Z">
+        <seg>Korisnička skupina služi i kao glavna točka za kontakt korisnika i tima projekta.</seg>
       </tuv>
     </tu>
     <tu>
