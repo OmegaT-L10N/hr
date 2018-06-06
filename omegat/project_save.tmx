@@ -187,6 +187,15 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>?</note>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103308Z" creationid="DGRACIN" creationdate="20180606T103308Z">
+        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
@@ -4042,6 +4051,14 @@ Trenutno postavljena veličina iznosi {0}MB.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180225T095031Z" creationid="DGRACIN" creationdate="20180225T095031Z">
         <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosari:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103142Z" creationid="DGRACIN" creationdate="20180606T103142Z">
+        <seg>&lt;html&gt;Kanal ažuriranja: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9373,6 +9390,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103214Z" creationid="DGRACIN" creationdate="20180606T103214Z">
+        <seg>Automatska provjera ažuriranja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180114T182729Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -9745,6 +9770,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182511Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>bretonski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103811Z" creationid="DGRACIN" creationdate="20180606T103811Z">
+        <seg>Briac Pilpré (održavanje web stranica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10378,6 +10411,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T074425Z" creationid="DGRACIN" creationdate="20180205T213036Z">
         <seg>Provjeri pravila jezičnoga alata LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103226Z" creationid="DGRACIN" creationdate="20180606T103226Z">
+        <seg>Provjeri sada</seg>
       </tuv>
     </tu>
     <tu>
@@ -11243,6 +11284,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T091133Z" creationid="DGRACIN" creationdate="20180206T091133Z">
         <seg>Sad&amp;ržaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103700Z" creationid="DGRACIN" creationdate="20180606T103700Z">
+        <seg>Concepción Martin (voditeljica zajednice za Facebook)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12498,6 +12547,16 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103519Z" creationid="DGRACIN" creationdate="20180606T103519Z">
+        <seg>Tekući tim:
+(abecednim redoslijedom)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180115T144028Z" creationid="DGRACIN" creationdate="20180115T144028Z">
@@ -12964,6 +13023,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180120T135038Z" creationid="DGRACIN" creationdate="20180120T135038Z">
         <seg>Okno rječnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103553Z" creationid="DGRACIN" creationdate="20180606T103553Z">
+        <seg>Didier Briel (voditelj projekta OmegaT, voditelj zajednice za Twitter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21267,6 +21334,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103854Z" creationid="DGRACIN" creationdate="20180606T103854Z">
+        <seg>Jean-Christophe Helary (vlasnik grupe za podršku, voditelj lokalizacije)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180112T140344Z" creationid="DGRACIN" creationdate="20180112T140344Z">
@@ -21551,6 +21626,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182528Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>korejski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103609Z" creationid="DGRACIN" creationdate="20180606T103609Z">
+        <seg>Kos Ivantsof (voditelj lokalizacije)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21889,6 +21972,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180117T203925Z" creationid="DGRACIN" creationdate="20180116T213310Z">
         <seg>Nadalje, nakon što prihvatite licencni ugovor, slijedi upit instalacijskoga programa želite li izraditi mapu na izborniku &lt;e0&gt;Start&lt;/e0&gt; i prečac na radnoj površini i traci za brzo pokretanje. Navedene prečace možete izraditi i naknadno jednostavnim odvlačenjem simbola &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; na radnu površinu ili na traku za brzo pokretanje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103200Z" creationid="DGRACIN" creationdate="20180606T103200Z">
+        <seg>Najnoviji</seg>
       </tuv>
     </tu>
     <tu>
@@ -22363,6 +22454,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T084006Z" creationid="DGRACIN" creationdate="20180219T084006Z">
         <seg>Lucene (licenca Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103823Z" creationid="DGRACIN" creationdate="20180606T103823Z">
+        <seg>Lucie Vecerova (voditeljica zajednice za Facebook)</seg>
       </tuv>
     </tu>
     <tu>
