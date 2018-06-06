@@ -34,6 +34,14 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111848Z" creationid="DGRACIN" creationdate="20180606T111848Z">
+        <seg>Dokumenti uputa na ovim web stranicama, s informacijama o određenim postupcima i funkcijama programa OmegaT za napredne korisnike, a koje se ne nalaze u priručniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -9926,6 +9934,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111551Z" creationid="DGRACIN" creationdate="20180606T111551Z">
+        <seg>Autorica: Sheila Gomes (na brazilskome portugalskom jeziku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111446Z" creationid="DGRACIN" creationdate="20180606T111419Z">
@@ -17161,6 +17177,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T103113Z" creationid="DGRACIN" creationdate="20180219T103113Z">
         <seg>Prevelika datoteka HHC!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111644Z" creationid="DGRACIN" creationdate="20180606T111644Z">
+        <seg>Upute</seg>
       </tuv>
     </tu>
     <tu>
