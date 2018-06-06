@@ -9774,6 +9774,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104436Z" creationid="DGRACIN" creationdate="20180606T104436Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Briac Pilpré (webmaster)</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103811Z" creationid="DGRACIN" creationdate="20180606T103811Z">
@@ -14440,6 +14448,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104513Z" creationid="DGRACIN" creationdate="20180606T104513Z">
+        <seg>Prevoditelji engleske inačice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180224T100235Z" creationid="DGRACIN" creationdate="20180202T133134Z">
@@ -17217,6 +17233,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180207T120018Z" creationid="DGRACIN" creationdate="20180207T120018Z">
         <seg>Pomoć koju tražiš&lt;p&gt;Iz ruku ti bježi&lt;p&gt;Zima ju je sustigla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104010Z" creationid="DGRACIN" creationdate="20180606T104010Z">
+        <seg>Henry Pijffers (voditelj izdavanja inačica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22821,6 +22845,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104029Z" creationid="DGRACIN" creationdate="20180606T104029Z">
+        <seg>Marc Prior (koordinator projekta, održavanje web stranica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T205003Z" creationid="DGRACIN" creationdate="20180205T205003Z">
@@ -23181,6 +23213,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T195522Z" creationid="DGRACIN" creationdate="20180217T195522Z">
         <seg>Dosegnut je najveći broj pronađenih rezultata ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103952Z" creationid="DGRACIN" creationdate="20180606T103952Z">
+        <seg>Maxym Mykhalchuk (glavni programer)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31615,6 +31655,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104117Z" creationid="DGRACIN" creationdate="20180606T104117Z">
+        <seg>Žao nam je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180220T095540Z" creationid="DGRACIN" creationdate="20180220T095540Z">
@@ -33792,6 +33840,22 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T212636Z" creationid="DGRACIN" creationdate="20180217T212636Z">
         <seg>Filtar za Mozilla DTD pronašao je iznimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104525Z" creationid="DGRACIN" creationdate="20180606T104525Z">
+        <seg>Projekt programa OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104559Z" creationid="DGRACIN" creationdate="20180606T104559Z">
+        <seg>Projekt programa OmegaT održava neformalna međunarodna skupina dragovoljaca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40471,6 +40535,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104046Z" creationid="DGRACIN" creationdate="20180606T104046Z">
+        <seg>Vito Smolej (voditelj dokumentacije)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Volapük</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182808Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -40553,6 +40625,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104140Z" creationid="DGRACIN" creationdate="20180606T104140Z">
+        <seg>Nismo mogli pronaći stranicu koju tražite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
@@ -40586,6 +40666,22 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180218T073340Z" creationid="DGRACIN" creationdate="20180218T073340Z">
         <seg>Podnaslovi WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104405Z" creationid="DGRACIN" creationdate="20180606T104405Z">
+        <seg>Autori sadržaja web stranica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104434Z" creationid="DGRACIN" creationdate="20180606T104434Z">
+        <seg>Oblikovanje web stranica</seg>
       </tuv>
     </tu>
     <tu>
@@ -41975,6 +42071,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T190305Z" creationid="DGRACIN" creationdate="20180205T190305Z">
         <seg>Tekst licence možete naći u datoteci /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104350Z" creationid="DGRACIN" creationdate="20180606T104350Z">
+        <seg>Potrebne informacije možete pokušati pronaći putem &lt;a0&gt;početne stranice&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
