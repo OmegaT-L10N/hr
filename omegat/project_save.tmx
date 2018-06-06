@@ -11618,6 +11618,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102302Z" creationid="DGRACIN" creationdate="20180606T102302Z">
+        <seg>Autorska prava © 2000. – 2018. Keith Godfrey, Maxym Mykhalchuk i drugi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182514Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -17462,6 +17470,22 @@ later version.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T102324Z" creationid="DGRACIN" creationdate="20180206T102324Z">
         <seg>U&amp;metni izvorišni tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102310Z" creationid="DGRACIN" creationdate="20180606T102310Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102522Z" creationid="DGRACIN" creationdate="20180606T102522Z">
+        <seg>IBM Watson nije dostupan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23828,6 +23852,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102508Z" creationid="DGRACIN" creationdate="20180606T102508Z">
+        <seg>Neuralno strojno prevođenje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102527Z" creationid="DGRACIN" creationdate="20180606T102527Z">
+        <seg>Neuralno strojno prevođenje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180123T193434Z" creationid="DGRACIN" creationdate="20170531T182604Z">
@@ -26687,6 +26727,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182806Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>paštunski, pašto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102338Z" creationid="DGRACIN" creationdate="20180606T102338Z">
+        <seg>Lozinka:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34456,6 +34504,14 @@ mapa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102222Z" creationid="DGRACIN" creationdate="20180606T102222Z">
+        <seg>Sljedeće mogućnosti ne vrijede kada je označena funkcija „Kompatibilnost s programom OmegaT 2.6”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180131T111056Z" creationid="DGRACIN" creationdate="20170531T182906Z">
@@ -39877,6 +39933,14 @@ searchable without subscription:</seg>
         <seg>User:</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T120853Z" creationid="DGRACIN" creationdate="20180219T120853Z">
+        <seg>Korisničko ime:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102332Z" creationid="DGRACIN" creationdate="20180606T102332Z">
         <seg>Korisničko ime:</seg>
       </tuv>
     </tu>
