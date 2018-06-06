@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -49204,6 +49204,14 @@ izradu konfiguracijske mape.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T075617Z" creationid="DGRACIN" creationdate="20180206T075617Z">
         <seg>{0}:	čišćenje obavljeno!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T095623Z" creationid="DGRACIN" creationdate="20180606T095623Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
