@@ -9926,6 +9926,30 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111446Z" creationid="DGRACIN" creationdate="20180606T111419Z">
+        <seg>Autorica: Susan Welsh (u formatu Open Document Format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111437Z" creationid="DGRACIN" creationdate="20180606T111437Z">
+        <seg>Autorica: Susan Welsh (u formatu PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111512Z" creationid="DGRACIN" creationdate="20180606T111512Z">
+        <seg>Autor: Vladimir Zhdanov (na ruskome jeziku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
@@ -25632,6 +25656,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111346Z" creationid="DGRACIN" creationdate="20180606T111346Z">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T093704Z" creationid="DGRACIN" creationdate="20180205T093704Z">
@@ -28619,6 +28651,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180217T193022Z" creationid="DGRACIN" creationdate="20180217T192930Z">
         <seg>Rekurzi&amp;vno pretraživanje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111515Z" creationid="DGRACIN" creationdate="20180606T111515Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -35019,6 +35059,14 @@ mapa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111342Z" creationid="DGRACIN" creationdate="20180606T111342Z">
+        <seg>Na webu i za preuzimanje dostupni su sljedeći vodiči:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following two steps will bring the server version up to date:</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182813Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -39344,6 +39392,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182549Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>turkmenski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111306Z" creationid="DGRACIN" creationdate="20180606T111306Z">
+        <seg>Vodiči</seg>
       </tuv>
     </tu>
     <tu>
@@ -49991,6 +50047,14 @@ izradu konfiguracijske mape.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180112T191356Z" creationid="DGRACIN" creationdate="20180112T191356Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111451Z" creationid="DGRACIN" creationdate="20180606T111451Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
