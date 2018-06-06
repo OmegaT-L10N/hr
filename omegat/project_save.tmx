@@ -31506,6 +31506,14 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105227Z" creationid="DGRACIN" creationdate="20180606T105227Z">
+        <seg>Projekt od nastanka podržavaju desetine drugih suradnika, koje ne možemo sve ovdje imenovati zbog njihovoga velikog broja, ali smo im itekako zahvalni na pomoći.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182542Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -40191,6 +40199,14 @@ u retku {1}, stupac {2}.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182706Z" creationid="DGRACIN" creationdate="20170531T182706Z">
         <seg>Korisničke datoteke sadržavaju informacije primjenjive za sve projekte određenoga korisnika:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105256Z" creationid="DGRACIN" creationdate="20180606T105256Z">
+        <seg>Korisnička skupina</seg>
       </tuv>
     </tu>
     <tu>
