@@ -8548,6 +8548,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110527Z" creationid="DGRACIN" creationdate="20180606T110527Z">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180125T110857Z" creationid="DGRACIN" creationdate="20180125T110346Z">
@@ -25768,6 +25776,14 @@ vašom početnom mapom.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110521Z" creationid="DGRACIN" creationdate="20180606T110439Z">
+        <seg>Za program OmegaT sastavljen je sveobuhvatan priručnik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T204227Z" creationid="DGRACIN" creationdate="20180205T204227Z">
@@ -27374,6 +27390,14 @@ kako biste otkrili izvor pogreške pa pokušajte ponovno.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110313Z" creationid="DGRACIN" creationdate="20180606T110313Z">
         <seg>Za sve što nije pokriveno gore navedenim sustavima javite se &lt;a0&gt;voditelju projekta OmegaT&lt;/a0&gt;.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110358Z" creationid="DGRACIN" creationdate="20180606T110358Z">
+        <seg>Za sve što se tiče isključivo web stranica javite se &lt;a2&gt;osobi zaduženoj za održavanje web stranica&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38229,6 +38253,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110608Z" creationid="DGRACIN" creationdate="20180606T110446Z">
+        <seg>Priručnik možete otvoriti u programu OmegaT jednostavnim odabirom Pomoć &gt; Priručnik ili pak pritiskom na tipku F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180119T132730Z" creationid="DGRACIN" creationdate="20180119T132506Z">
@@ -40359,6 +40391,14 @@ u retku {1}, stupac {2}.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T205721Z" creationid="DGRACIN" creationdate="20180205T205721Z">
         <seg>Jezik korisničkoga sučelja za program OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110417Z" creationid="DGRACIN" creationdate="20180606T110417Z">
+        <seg>Priručnici</seg>
       </tuv>
     </tu>
     <tu>
