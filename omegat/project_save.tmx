@@ -7538,6 +7538,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104915Z" creationid="DGRACIN" creationdate="20180606T104915Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T204914Z" creationid="DGRACIN" creationdate="20180205T204914Z">
@@ -8109,6 +8117,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182505Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>albanski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104901Z" creationid="DGRACIN" creationdate="20180606T104901Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +12919,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105018Z" creationid="DGRACIN" creationdate="20180606T105018Z">
+        <seg>programeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.</seg>
@@ -13031,6 +13055,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180120T135038Z" creationid="DGRACIN" creationdate="20180120T135038Z">
         <seg>Okno rječnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104851Z" creationid="DGRACIN" creationdate="20180606T104851Z">
+        <seg>Didier Briel</seg>
       </tuv>
     </tu>
     <tu>
@@ -13528,6 +13560,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T175440Z" creationid="DGRACIN" creationdate="20180219T135750Z">
         <seg>Usidri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104943Z" creationid="DGRACIN" creationdate="20180606T104943Z">
+        <seg>voditelj dokumentacije</seg>
       </tuv>
     </tu>
     <tu>
@@ -20579,6 +20619,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104912Z" creationid="DGRACIN" creationdate="20180606T104912Z">
+        <seg>voditelj integracije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182855Z" creationid="DGRACIN" creationdate="20170531T182758Z">
@@ -21230,6 +21278,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104801Z" creationid="DGRACIN" creationdate="20180606T104801Z">
+        <seg>Svrha joj je razvoj, distribucija i podrška u korištenju programa OmegaT, softverskoga rješenja otvorenoga kôda s prijevodnim memorijama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its value is either &lt;l3&gt;equal&lt;/l3&gt; (default value, for source=target) or &lt;l4&gt;empty&lt;/l4&gt; (target segment is empty).</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180131T140224Z" creationid="DGRACIN" creationdate="20180131T140224Z">
@@ -21518,6 +21574,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104837Z" creationid="DGRACIN" creationdate="20180606T104837Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key behavior in the editor</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180112T140639Z" creationid="DGRACIN" creationdate="20180112T140639Z">
@@ -21658,6 +21722,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103609Z" creationid="DGRACIN" creationdate="20180606T103609Z">
         <seg>Kos Ivantsof (voditelj lokalizacije)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105012Z" creationid="DGRACIN" creationdate="20180606T105012Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
@@ -22128,6 +22200,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104900Z" creationid="DGRACIN" creationdate="20180606T104900Z">
+        <seg>glavni programer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T215524Z" creationid="DGRACIN" creationdate="20180205T215524Z">
@@ -22406,6 +22486,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T080740Z" creationid="DGRACIN" creationdate="20180206T080703Z">
         <seg>Lokalne radne kopije očišćene: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105010Z" creationid="DGRACIN" creationdate="20180606T105010Z">
+        <seg>voditelj lokalizacije, vlasnik korisničke grupe</seg>
       </tuv>
     </tu>
     <tu>
@@ -22841,6 +22929,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182534Z" creationid="DGRACIN" creationdate="20170531T182534Z">
         <seg>maratski (marāthī)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104931Z" creationid="DGRACIN" creationdate="20180606T104931Z">
+        <seg>Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
@@ -26526,6 +26622,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104836Z" creationid="DGRACIN" creationdate="20180606T104836Z">
+        <seg>izvorni autor programa OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182538Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -27990,6 +28094,14 @@ projekt bez funkcije za timski rad, pritisnite „Prekini”.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180126T080435Z" creationid="DGRACIN" creationdate="20180126T080435Z">
         <seg>Prečaci za upravljanje projektima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104849Z" creationid="DGRACIN" creationdate="20180606T104849Z">
+        <seg>voditelj projekta</seg>
       </tuv>
     </tu>
     <tu>
@@ -35409,6 +35521,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105037Z" creationid="DGRACIN" creationdate="20180606T105037Z">
+        <seg>Filozofija projekta opisana je &lt;a0&gt;ovdje&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The platform provides</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182837Z" creationid="DGRACIN" creationdate="20170531T182837Z">
@@ -35471,6 +35591,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180124T162439Z" creationid="DGRACIN" creationdate="20180124T162439Z">
         <seg>Otvaranje prethodnoga segmenta kojemu je dodana bilješka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104819Z" creationid="DGRACIN" creationdate="20180606T104819Z">
+        <seg>Vodeći članovi projekta su:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40495,6 +40623,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104944Z" creationid="DGRACIN" creationdate="20180606T104944Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vincent Bidaux (documentation manager)</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T204756Z" creationid="DGRACIN" creationdate="20180205T204756Z">
@@ -40682,6 +40818,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104434Z" creationid="DGRACIN" creationdate="20180606T104434Z">
         <seg>Oblikovanje web stranica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T104930Z" creationid="DGRACIN" creationdate="20180606T104930Z">
+        <seg>održavanje web stranica</seg>
       </tuv>
     </tu>
     <tu>
