@@ -8550,8 +8550,8 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110527Z" creationid="DGRACIN" creationdate="20180606T110527Z">
-        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110726Z" creationid="DGRACIN" creationdate="20180606T110527Z">
+        <seg>Vodič za brzi početak rada, koji služi kao referenca za osnovne postupke i funkcije programa OmegaT, prikazuje se u okviru sučelja programa OmegaT prema zadanim postavkama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20919,6 +20919,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182556Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>Također može pronaći i neke gramatičke pogreške.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110826Z" creationid="DGRACIN" creationdate="20180606T110826Z">
+        <seg>Možete ga pronaći u mapi "docs" folder in your OmegaT program folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42167,6 +42175,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180224T094713Z" creationid="DGRACIN" creationdate="20180122T200249Z">
         <seg>Također možete dodavati izvorišne datoteke internetskih stranica, izrađene softverom MediaWiki, i to pritiskom na gumb „&lt;g4&gt;Uvoz iz okruženja MediaWiki&lt;/g4&gt;” i unošenjem odgovarajuće URL adrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110758Z" creationid="DGRACIN" creationdate="20180606T110758Z">
+        <seg>Priručnik za program OmegaT možete otvoriti i bez otvaranja samoga programa.</seg>
       </tuv>
     </tu>
     <tu>
