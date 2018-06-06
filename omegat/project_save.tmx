@@ -583,6 +583,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T101422Z" creationid="DGRACIN" creationdate="20180606T101422Z">
+        <seg>&amp;Provjera ažuriranja...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T101258Z" creationid="DGRACIN" creationdate="20180606T101258Z">
+        <seg>&amp;Očisti izbornik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T091100Z" creationid="DGRACIN" creationdate="20180206T091100Z">
@@ -11698,6 +11714,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T101611Z" creationid="DGRACIN" creationdate="20180606T101611Z">
+        <seg>Nije bila moguća izrada projektne mape u {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T183206Z" creationid="DGRACIN" creationdate="20180219T183206Z">
@@ -20408,6 +20432,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T101733Z" creationid="DGRACIN" creationdate="20180606T101733Z">
+        <seg>Nedostatne dozvole za projektnu mapu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182855Z" creationid="DGRACIN" creationdate="20170531T182758Z">
@@ -25161,6 +25193,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180201T114620Z" creationid="DGRACIN" creationdate="20180201T114620Z">
         <seg>OmegaT prikazuje popis svih segmenata koji sadržavaju sve upisane riječi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T101833Z" creationid="DGRACIN" creationdate="20180606T101833Z">
+        <seg>OmegaT nema dozvole čitanja i pisanja permissions to this folder.</seg>
       </tuv>
     </tu>
     <tu>
