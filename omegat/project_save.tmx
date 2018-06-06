@@ -9854,6 +9854,14 @@ moguće neočekivano, ali sasvim ispravno funkcioniranje.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T110004Z" creationid="DGRACIN" creationdate="20180606T110004Z">
+        <seg>Pogreške, zahtjevi u vezi s funkcijama i problemi s dokumentacijom obrađuju se i vode na servisu Sourceforge s pomoću sljedećih sustava za praćenje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180120T133501Z" creationid="DGRACIN" creationdate="20180120T133501Z">
@@ -25359,6 +25367,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105807Z" creationid="DGRACIN" creationdate="20180606T105807Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmTdev</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105631Z" creationid="DGRACIN" creationdate="20180606T105631Z">
@@ -37677,6 +37693,22 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105805Z" creationid="DGRACIN" creationdate="20180606T105805Z">
+        <seg>Popis služi za tehnički naprednije rasprave o funkcijama i razvoju, a namijenjen je programerima OmegaT i drugim zainteresiranim stranama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105829Z" creationid="DGRACIN" creationdate="20180606T105829Z">
+        <seg>Popis je namijenjen za lokalizaciju programa OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180112T140247Z" creationid="DGRACIN" creationdate="20180112T140247Z">
@@ -38838,6 +38870,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180215T150322Z" creationid="DGRACIN" creationdate="20180215T150301Z">
         <seg>Ukupno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105836Z" creationid="DGRACIN" creationdate="20180606T105836Z">
+        <seg>Sustav praćenja</seg>
       </tuv>
     </tu>
     <tu>
