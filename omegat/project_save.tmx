@@ -21528,8 +21528,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103854Z" creationid="DGRACIN" creationdate="20180606T103854Z">
-        <seg>Jean-Christophe Helary (vlasnik grupe za podršku, voditelj lokalizacije)</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111906Z" creationid="DGRACIN" creationdate="20180606T103854Z">
+        <seg>Jean-Christophe Helary (vlasnik skupine za podršku, voditelj lokalizacije)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22604,8 +22604,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T105010Z" creationid="DGRACIN" creationdate="20180606T105010Z">
-        <seg>voditelj lokalizacije, vlasnik korisničke grupe</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111932Z" creationid="DGRACIN" creationdate="20180606T105010Z">
+        <seg>voditelj lokalizacije, vlasnik korisničke skupine</seg>
       </tuv>
     </tu>
     <tu>
@@ -31459,8 +31459,8 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
       <tuv lang="EN">
         <seg>Sharing a project using SVN</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182811Z" creationid="DGRACIN" creationdate="20170525T075256Z">
-        <seg>Suradnja na projektima pomoću SVN-a</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T112017Z" creationid="DGRACIN" creationdate="20170525T075256Z">
+        <seg>Suradnja na projektima s pomoću SVN-a</seg>
       </tuv>
     </tu>
     <tu>
@@ -33774,8 +33774,8 @@ control those activities.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20180224T091333Z" creationid="DGRACIN" creationdate="20170525T075256Z">
-        <seg>Tipka „Shift” nema nikakvu posebnu funkciju sama po sebi: pritiskom na nju pokazivač se pomoću svih ostalih tipki pomiče na uobičajeni način, osim u slučaju kombinacije &lt;l0&gt;Shift+Enter&lt;/l0&gt;, kojom se u tekst umeće prijelom retka.</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20180606T111940Z" creationid="DGRACIN" creationdate="20170525T075256Z">
+        <seg>Tipka „Shift” nema nikakvu posebnu funkciju sama po sebi: pritiskom na nju pokazivač se s pomoću svih ostalih tipki pomiče na uobičajeni način, osim u slučaju kombinacije &lt;l0&gt;Shift+Enter&lt;/l0&gt;, kojom se u tekst umeće prijelom retka.</seg>
       </tuv>
     </tu>
     <tu>
