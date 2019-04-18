@@ -1815,6 +1815,14 @@ Za dodavanje datoteka projektu pritisnite gumb Kopiraj datoteke u izvorišnu map
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093602Z" creationid="DGRACIN" creationdate="20190418T093602Z">
+        <seg>(Ako koristite ključ API-ja, ostavite prazno polje lozinke.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T203907Z" creationid="DGRACIN" creationdate="20180205T203907Z">
@@ -23668,6 +23676,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093527Z" creationid="DGRACIN" creationdate="20190418T093527Z">
+        <seg>Ogledni Id:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180124T215738Z" creationid="DGRACIN" creationdate="20180124T215738Z">
@@ -27162,6 +27178,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182806Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>pandžapski, punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093401Z" creationid="DGRACIN" creationdate="20190418T093401Z">
+        <seg>Format razgraničenja po odlomcima:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40649,6 +40673,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T120853Z" creationid="DGRACIN" creationdate="20180219T120853Z">
         <seg>Korisničko ime:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093427Z" creationid="DGRACIN" creationdate="20190418T093427Z">
+        <seg>Korisničko ime ili ključ API-ja:</seg>
       </tuv>
     </tu>
     <tu>
