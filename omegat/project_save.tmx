@@ -16635,6 +16635,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T094030Z" creationid="DGRACIN" creationdate="20190418T094030Z">
+        <seg>Iz prinudne memorije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180223T133712Z" creationid="DGRACIN" creationdate="20180223T133712Z">
