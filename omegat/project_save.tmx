@@ -23159,8 +23159,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T092903Z" creationid="DGRACIN" creationdate="20190418T092903Z">
-        <seg>Označi &amp;graničnike odlomaka</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T094722Z" creationid="DGRACIN" creationdate="20190418T092903Z">
+        <seg>Označi &amp;razgraničenja po odlomcima</seg>
       </tuv>
     </tu>
     <tu>
@@ -27194,6 +27194,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182806Z" creationid="DGRACIN" creationdate="20170525T075256Z">
         <seg>pandžapski, punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T094702Z" creationid="DGRACIN" creationdate="20190418T094702Z">
+        <seg>Razgraničenje po odlomcima</seg>
       </tuv>
     </tu>
     <tu>
