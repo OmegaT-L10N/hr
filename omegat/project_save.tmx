@@ -7570,6 +7570,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093302Z" creationid="DGRACIN" creationdate="20190418T093302Z">
+        <seg>Aaron Madlon-Kay je voditelj projekta OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20170531T182802Z" creationid="DGRACIN" creationdate="20170525T075256Z">
@@ -11791,6 +11799,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T102302Z" creationid="DGRACIN" creationdate="20180606T102302Z">
         <seg>Autorska prava © 2000. – 2018. Keith Godfrey, Maxym Mykhalchuk i drugi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093243Z" creationid="DGRACIN" creationdate="20190418T093243Z">
+        <seg>Autorska prava © 2000. – 2019. Keith Godfrey, Maxym Mykhalchuk i drugi</seg>
       </tuv>
     </tu>
     <tu>
@@ -23764,6 +23780,22 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093120Z" creationid="DGRACIN" creationdate="20190418T093120Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093142Z" creationid="DGRACIN" creationdate="20190418T093142Z">
+        <seg>Mogućnosti filtra za Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180207T111638Z" creationid="DGRACIN" creationdate="20180207T111638Z">
@@ -30359,6 +30391,14 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093030Z" creationid="DGRACIN" creationdate="20190418T093030Z">
+        <seg>Pretraživanje rječnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180126T094401Z" creationid="DGRACIN" creationdate="20180126T094401Z">
@@ -31790,6 +31830,14 @@ Prema zadanim postavkama, pretraživanje obuhvaća projekt, ali se može postavi
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T102236Z" creationid="DGRACIN" creationdate="20180219T102236Z">
         <seg>Preskoči tekst koji se podudara s regularnim izrazima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093113Z" creationid="DGRACIN" creationdate="20190418T093113Z">
+        <seg>Preskakanje prethodno učitanoga dodatnog modula iz klase '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -34168,6 +34216,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180123T184627Z" creationid="DGRACIN" creationdate="20180123T184413Z">
         <seg>Statistički podaci podudaranja razdvojeni su tabulatorom, pa stoga možete označiti sve podatke kombinacijom tipki &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, kopirati ih s pomoću Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, pa na koncu zalijepiti putem &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; u neki program za rad s proračunskim tablicama radi lakšega pregledavanja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T093207Z" creationid="DGRACIN" creationdate="20190418T093207Z">
+        <seg>Filtar za Moodle PHP pronašao je iznimku:</seg>
       </tuv>
     </tu>
     <tu>
