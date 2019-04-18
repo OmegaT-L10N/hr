@@ -527,6 +527,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T092952Z" creationid="DGRACIN" creationdate="20190418T092952Z">
+        <seg>&amp;Automatski traži tekst segmenta u rječniku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180206T091138Z" creationid="DGRACIN" creationdate="20180206T091138Z">
@@ -23105,6 +23113,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180219T185455Z" creationid="DGRACIN" creationdate="20180219T185455Z">
         <seg>Označi &amp;razmake koji ostavljaju znakove u istome retku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190418T092903Z" creationid="DGRACIN" creationdate="20190418T092903Z">
+        <seg>Označi &amp;graničnike odlomaka</seg>
       </tuv>
     </tu>
     <tu>
