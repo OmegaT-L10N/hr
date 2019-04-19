@@ -25832,6 +25832,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102754Z" creationid="DGRACIN" creationdate="20190419T102754Z">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180224T101900Z" creationid="DGRACIN" creationdate="20180206T100231Z">
