@@ -7021,8 +7021,8 @@ Trenutno postavljena veličina iznosi {0}MB.</seg>
       <tuv lang="EN">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="HR" changeid="DGRACIN" changedate="20180402T115845Z" creationid="DGRACIN" creationdate="20180328T102007Z">
-        <seg>Autor prijevoda je Denis Gracin; autorska prava © 2018 Denis Gracin.</seg>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102509Z" creationid="DGRACIN" creationdate="20180328T102007Z">
+        <seg>Autor prijevoda je Denis Gracin; autorska prava © 2019 Denis Gracin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8912,6 +8912,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T135729Z" creationid="DGRACIN" creationdate="20180205T135617Z">
         <seg>Za provjeru valjanosti oznaka teksta imamo dodatni parametar naredbenoga retka koji vrijedi isključivo za konzolni način rada: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102639Z" creationid="DGRACIN" creationdate="20190419T102639Z">
+        <seg>Anthony Baldwin (voditelj lokalizacije)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,6 +13175,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180606T103553Z" creationid="DGRACIN" creationdate="20180606T103553Z">
         <seg>Didier Briel (voditelj projekta OmegaT, voditelj zajednice za Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102653Z" creationid="DGRACIN" creationdate="20190419T102653Z">
+        <seg>Didier Briel (voditelj projekta)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21574,10 +21590,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102623Z" creationid="DGRACIN" creationdate="20190419T102623Z">
+        <seg>Jean-Christophe Helary (voditelj zajednice za Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T204904Z" creationid="DGRACIN" creationdate="20180205T204904Z">
         <seg>Jean-Christophe Helary (voditelj lokalizacije)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102706Z" creationid="DGRACIN" creationdate="20190419T102706Z">
+        <seg>Jean-Christophe Helary (vlasnik skupine za podršku, voditelj lokalizacije)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23137,6 +23169,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180112T140257Z" creationid="DGRACIN" creationdate="20180112T140257Z">
         <seg>Marc Prior: ispravljanje moje prve radne inačice bio je čin ljubavi prema programu OmegaT i engleskome jeziku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102607Z" creationid="DGRACIN" creationdate="20190419T102607Z">
+        <seg>Marco Cevoli (voditelj zajednice za Telegram)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45798,6 +45838,14 @@ izradu konfiguracijske mape.</seg>
       </tuv>
       <tuv lang="HR" changeid="DGRACIN" changedate="20180205T080114Z" creationid="DGRACIN" creationdate="20180205T080114Z">
         <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="HR" changeid="DGRACIN" changedate="20190419T102518Z" creationid="DGRACIN" creationdate="20190419T102518Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
